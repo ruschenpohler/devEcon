@@ -1,4 +1,4 @@
-\documentclass[10pt]{beamer}
+\documentclass[hideothersubsections, usenames,dvipsnames,10pt]{beamer}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage{amsmath}
 \usepackage{mathpazo}
@@ -39,21 +39,42 @@
 \newenvironment{stepenumeratewithalert}{\begin{enumerate}[<+-| alert@+>]}{\end{enumerate}}
 \newenvironment{stepitemizewithalert}{\begin{itemize}[<+-| alert@+>]}{\end{itemize} }
 
-%\usetheme{Boadilla}
-\definecolor{airforceblue}{rgb}{0.36, 0.54, 0.66}
+
+% Color scheme and sidebar
+\definecolor{ceruleanblue}{rgb}{0.16, 0.32, 0.75}
+\definecolor{bleudefrance}{rgb}{0.19, 0.55, 0.91}
+\definecolor{bluemunsell}{rgb}{0.0, 0.5, 0.69}
+%#09BADB #DB1A71
 \usetheme[right]{Berkeley}
-\setbeamercolor{sidebar}{bg=blue}
+\setbeamercolor{palette primary}{bg=ceruleanblue,fg=white}
+\setbeamercolor{palette secondary}{bg=bleudefrance,fg=white}
+%\setbeamercolor{sidebar}{bg=bleudefrance}
+
+% Mini frames
+%\useoutertheme[subsection=true]{miniframes} 
 
 \usefonttheme{serif}
 \setbeamercovered{invisible}
 
-\title[Skills, Practices, and Aspirations of Small Firms in LMICs]{Skills, Practices, and Aspirations \\ of Small-scale Entrepreneurs \\ in Low-income Settings}
-\author[R{\"u}schenp{\"o}hler]{Julius R{\"u}schenp{\"o}hler\inst{*}}
+
+\title[]{Skills, Practices, and Aspirations \\ of Small-scale Entrepreneurs \\ in Low-income Settings}
+\author[]{Julius R{\"u}schenp{\"o}hler\inst{*}}
 \institute[]{\inst{*} UC Berkeley, CEGA}
 \date{March 04, 2021}
 
 
 \begin{document}
+
+
+% Create generic TOC
+
+%\AtBeginSection
+%{\begin{frame}{Overview}
+%\tableofcontents[currentsection,hideothersubsections]
+%\end{frame}}
+
+
+\section{\textbf{PART I: Lecture} \\ \quad \emph{Business Practices}}
 
 
 \setbeamertemplate{sidebar right}{}
@@ -65,27 +86,16 @@
 
 \setbeamertemplate{sidebar right}[sidebar theme]
 
-%\begin{frame}
-%\frametitle{Overview of the Lecture}
-%\tableofcontents[hideallsubsections]
-%\end{frame}
-
-\AtBeginSection
-{\begin{frame}{Overview}
+\begin{frame}{Lecture Overview}
 \tableofcontents[currentsection,hideothersubsections]
-\end{frame}}
-
-%\begin{document}
-
-
-\section{\textbf{PART I: Lecture} \\ \quad \emph{Business Practices}}
+\end{frame}
 
 \subsection{Business Practices Around the World}
 
 \begin{frame}
 \frametitle{?}
 	\begin{itemize}
-	\item Bloom and van Reenen (2010): Business practices, motivation
+	\item Bloom and van Reenen (2010, 2019): Business practices, motivation
 	\vspace{0.2in}
 	\end{itemize}
 \end{frame}
@@ -101,7 +111,7 @@
 \begin{frame}
 \frametitle{Value-Added of Business Practices}
 	\begin{itemize}
-	\item Bloom and van Reenen (2010): Correlation with productivity
+	\item Bloom and van Reenen (2019): Correlation with productivity
 	\vspace{0.2in}
 	\end{itemize}
 \end{frame}
@@ -111,7 +121,7 @@
 \begin{frame}
 \frametitle{Business Practices of Small Firms}
 	\begin{itemize}
-	\item McKenzie and Woodruff (2017): Heterogeneity and predictiveness
+	\item McKenzie and Woodruff (2009, 2017): Heterogeneity and predictiveness
 	\vspace{0.2in}
 	\end{itemize}
 \end{frame}
@@ -119,7 +129,7 @@
 \begin{frame}
 \frametitle{Business Practices of Small Firms}
 	\begin{itemize}
-	\item McKenzie and Woodruff (2017): Example categories and practices
+	\item McKenzie and Woodruff (2009, 2017): Example categories and practices
 	\vspace{0.2in}
 	\end{itemize}
 \end{frame}
@@ -140,7 +150,7 @@
 \begin{frame}
 \frametitle{History and Prevalence}
 	\begin{itemize}
-	\item At least \textcolor{red}{USD 1 billion per year} (to 4-5 million beneficiary entrepreneurs; McKenzie, 2020)
+	\item At least \textcolor{bleudefrance}{USD 1 billion per year} (to 4-5 million beneficiary entrepreneurs; McKenzie, 2020)
 	\vspace{0.1in}
 	\item Classical training programs \emph{precede} evidence that business practices vary and are predictive for productivity
 	\vspace{0.2in}
@@ -173,7 +183,7 @@
 \begin{frame}
 \frametitle{Impact on Businesses}
 	\begin{itemize}
-	\item First wave (Karlan and Valdivia, 2011, etc.)
+	\item First wave (Karlan and Valdivia, 2011, Field, et al., 2010; Bruhn \& Zia, 2013; Bulte et al., 2017; Anderson, Chandy, and Zia, 2018)
 	\vspace{0.1in}
 	\end{itemize}
 \end{frame}
@@ -226,7 +236,7 @@
 \begin{frame}
 \frametitle{On-site Consulting}
 	\begin{itemize}
-	\item ?
+	\item Bloom, et al. (2013); Karlan et al (2015); Bruhn, Karlan \& Schoar (2019)
 	\vspace{0.1in}
 	\end{itemize}
 \end{frame}
@@ -244,7 +254,7 @@
 \begin{frame}
 \frametitle{Complementary Constraints}
 	\begin{itemize}
-	\item McKenzie cash paper
+	\item McKenzie cash JDE paper
 	\vspace{0.1in}
 	\end{itemize}
 \end{frame}
@@ -252,7 +262,7 @@
 \begin{frame}
 \frametitle{Complementary Constraints}
 	\begin{itemize}
-	\item McKenzie cash paper
+	\item McKenzie cash JDE paper
 	\vspace{0.1in}
 	\end{itemize}
 \end{frame}
@@ -343,7 +353,7 @@
 \begin{frame}
 \frametitle{Education}
 	\begin{itemize}
-	\item 
+	\item Drexler, Fischer \& Schoar (2014)
 	\vspace{0.1in}
 	\end{itemize}
 \end{frame}
@@ -384,6 +394,24 @@
 \subsection{Alternative Approaches}
 
 \begin{frame}
+\frametitle{Rules of Thumb}
+	\begin{itemize}
+	\item Drexler, Fischer \& Schoar (2014)
+	\vspace{0.1in}
+	\end{itemize}
+\end{frame}
+
+\begin{frame}
+\frametitle{Rules of Thumb}
+	\begin{itemize}
+	\item 
+	\vspace{0.1in}
+	\end{itemize}
+\end{frame}
+
+%---------------------
+
+\begin{frame}
 \frametitle{Local Knowledge}
 	\begin{itemize}
 	\item Cai and Szeidl (2019), Brooks et al. (2018), Lafortune et al. (2020), Seither (2020), Abebe et al. (2020)?
@@ -412,7 +440,7 @@
 \begin{frame}
 \frametitle{Role Models}
 	\begin{itemize}
-	\item La Ferrara!
+	\item  La Ferrara et al. (2012); Chong and La Ferrara (2009); Berg and Zia (2013); Riley (2018)
 	\vspace{0.1in}
 	\end{itemize}
 \end{frame}
@@ -420,7 +448,7 @@
 \begin{frame}
 \frametitle{Role Models}
 	\begin{itemize}
-	\item La Ferrara!
+	\item  La Ferrara et al. (2012); Chong and La Ferrara (2009); Berg and Zia (2013); Riley (2018
 	\vspace{0.1in}
 	\end{itemize}
 \end{frame}
@@ -428,13 +456,12 @@
 \begin{frame}
 \frametitle{Role Models}
 	\begin{itemize}
-	\item La Ferrara!
+	\item  La Ferrara et al. (2012); Chong and La Ferrara (2009); Berg and Zia (2013); Riley (2018)
 	\vspace{0.1in}
 	\end{itemize}
 \end{frame}
 
 
-%\setbeamertemplate{sidebar right}{}
 \addtocontents{toc}{\protect\setcounter{tocdepth}{0}}
 
 \subsection{Takeaways}
@@ -465,10 +492,10 @@
 
 \addtocontents{toc}{\protect\setcounter{tocdepth}{99}}
 
-\title[Curating Local Knowledge]{Curating Local Knowledge}
+\title[]{Curating Local Knowledge}
 \subtitle{Experimental Evidence from Small Retailers in Indonesia}
 
-\author[Dalton, R{\"u}schenp{\"o}hler, Uras, and Zia]
+\author[]
 {Patricio S. Dalton\inst{1}\
 Julius R{\"u}schenp{\"o}hler\inst{2}
 Burak Uras\inst{1}\\and
@@ -477,17 +504,16 @@ Bilal Zia\inst{3}}
 \institute[]{
 \inst{1} Tilburg University\\
 \bigskip
-\inst{2} CEGA, UC Berkeley\\
+\inst{2} UC Berkeley, CEGA\\
 \bigskip
 \inst{3} The World Bank}
 
 \date{March 04, 2021}
 
 
-%\setbeamertemplate{sidebar right}{}
-
-
 \section{\textbf{PART II: Paper} \\ \quad \emph{Curating Local Knowledge}}
+
+\setbeamertemplate{sidebar right}{}
 
 \begin{frame}
 \titlepage
@@ -496,10 +522,13 @@ Bilal Zia\inst{3}}
 
 \setbeamertemplate{sidebar right}[sidebar theme]
 
+\begin{frame}{Paper Overview}
+\tableofcontents[currentsection,hideothersubsections]
+\end{frame}
 
 
 %------------------------------------------------
-\section{Background}
+\subsection{Motivation}
 
 \begin{frame}
 \frametitle{Background}
@@ -516,7 +545,7 @@ Bilal Zia\inst{3}}
 \begin{frame}
 \frametitle{A Growing Focus on Management}
 \begin{itemize}
-\item \textbf{Classroom Training}: Field, et al. (2010); Karlan \& Valdivia (2011); Bruhn \& Zia (2013); Drexler, Fischer \& Schoar (2014); McKenzie \& Woodruff (2014, 2017); Bulte et al. (2017); Anderson, Chandy \& Zia (2018); Lafortune et al. (2018)
+\item \textbf{Classroom Training}: Field, et al. (2010); Karlan \& Valdivia (2011); Bruhn \& Zia (2013); McKenzie \& Woodruff (2014, 2017); Bulte et al. (2017); Anderson, Chandy \& Zia (2018); Lafortune et al. (2018)
 \vspace{0.2in}
 \item \textbf{Consulting}: Bloom, et al. (2013); Karlan et al (2015); Bruhn, Karlan \& Schoar (2019)
 \vspace{0.2in}
@@ -531,9 +560,9 @@ Bilal Zia\inst{3}}
 \end{itemize}
 \end{frame}
 
-
+\subsection{Our Approach}
 \begin{frame}
-\frametitle{What We Do}
+\frametitle{Harnessing Cross-Firm Heterogeneity}
 \begin{itemize}
 \item Some facts about business practices in firms:
 	\begin{itemize}	
@@ -575,7 +604,7 @@ Bilal Zia\inst{3}}
 
 %
 \begin{frame}
-\frametitle{How Do We Share this Knowledge?}
+\frametitle{Disseminating Knowledge}
 		\begin{itemize}
 		\item \textbf{Handbook}
 			\begin{itemize}
@@ -593,9 +622,10 @@ Supplemented with two types of experiential learning:
 			\end{itemize}
 
 \bigskip
-		\item \textbf{In-shop Light Assistance}
+		\item \textbf{In-shop Assistance}
 			\begin{itemize}
 			\item \textcolor[rgb]{0.00,0.07,1.00}{Hands-on involvement} $\rightarrow$ social learning is possible through own \textbf{experience, with a small nudge} (Kolb, 1984).
+			\item Facilitated by local lay person
 			\end{itemize}
 			\vspace{0.05in}
 %\bigskip
@@ -632,6 +662,7 @@ Supplemented with two types of experiential learning:
 	\end{itemize}
 \end{frame}
 
+\subsection{Data and Design}
 
 \begin{frame}
 \frametitle{Sample}
@@ -786,8 +817,7 @@ Supplemented with two types of experiential learning:
 \end{frame}
 
 
-\section{Data and Analysis}
-
+\subsection{Results}
 
 \begin{frame}
 \frametitle{Summary Statistics}
@@ -1149,7 +1179,7 @@ F-tests (p-value):											&&			&&			\\
 \end{itemize}
 \end{frame}
 
-
+\subsection{Discussion}
 \begin{frame}
 \frametitle{Efficiency Gains?}
 \begin{enumerate}
@@ -1227,23 +1257,26 @@ $\rightarrow$ \textcolor[rgb]{0.00,0.07,1.00}{No evidence for business stealing}
     \item Adoption of top practices by retailers.
     \end{itemize}
 \vspace{0.20in}
- \item Research Design \textbf{scalable and replicable} in other settings.
+ \item Research Design likely \textbf{scalable and replicable} in other settings.
 \end{itemize}
 \end{frame}
 
-
-%--------------------------------------
+\subsection{Conclusion}
 \begin{frame}
 \frametitle{Takeaways}
 \begin{itemize}
     \item Curating local knowledge has value for business growth 
             \vspace{0.20in}
-    \item Knowledge alone does not have an impact but needs additional help or nudges
+    \item Information alone does not have impact, but behavioral interventions are needed
             \vspace{0.20in}
 	\item These "add-ons" are inexpensive and scalable, making this type of intervention very attractive for policy
     
 \end{itemize}
 \end{frame}
+
+
+%\bibliographystyle{econometrica}
+%\bibliography{sampleBibFile}
 
 
 \end{document}
