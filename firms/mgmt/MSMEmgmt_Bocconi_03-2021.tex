@@ -1,4 +1,4 @@
-\documentclass[hideothersubsections, usenames,dvipsnames,10pt]{beamer}
+\documentclass[hideothersubsections, usenames,dvipsnames,11pt]{beamer}
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
 \usepackage{amsmath}
 \usepackage{mathpazo}
@@ -42,10 +42,6 @@
 \newenvironment{itemize_3pt}{\itemize\addtolength{\itemsep}{3pt}}{\enditemize}
 \newenvironment{enumerate_3pt}{\enumerate\addtolength{\itemsep}{3pt}}{\endenumerate}
 
-% Font
-\usefonttheme{serif}
-\setbeamercovered{invisible}
-
 
 % Color scheme
 \definecolor{cerulean}{rgb}{0.16, 0.32, 0.75}
@@ -69,6 +65,8 @@
 %\setbeamercolor{button}{bg=offwhite,fg=blue}
 
 % Font
+\usefonttheme{serif}
+\setbeamercovered{invisible}
 \setbeamerfont{section in sidebar}{size=\fontsize{5.3}{5}\selectfont}
 \setbeamerfont{subsection in sidebar}{size=\fontsize{4.4}{5.5}\selectfont}
 %\setbeamerfont{subsubsection in sidebar}{size=\fontsize{4}{7}\selectfont}
@@ -76,6 +74,7 @@
 \setbeamerfont{author in sidebar}{}
 \setbeamercolor{section in sidebar}{bg=bdf,fg=offwhite}
 \setbeamercolor{subsection in sidebar}{bg=bdf,fg=offwhite}
+\linespread{1.25}
 
 %\setbeamercolor{title}{bg=red!25!blue,fg=white}
 %\setbeamercolor{fo} {bg=red!25!blue,fg=white}
@@ -92,6 +91,9 @@
 %\setbeamerfont{title in sidebar}{size=\scriptsize}
 %\setbeamerfont{author in sidebar}{size=\tiny}
 %\setbeamercovered{transparent}
+\setbeamerfont{itemize/enumerate body}{size={\fontsize{9.5}{9.5}}}
+\setbeamerfont{itemize/enumerate subbody}{size={\fontsize{8}{8}}}
+%\setbeamerfont{itemize/enumerate subbody}{family=\sffamily}
 
 
 % Page number and navigation
@@ -133,7 +135,7 @@
 %\end{frame}}
 
 
-\section{\textbf{PART I: Lecture} \\ \quad \emph{Business Practices}}
+\section{\textbf{PART I: Lecture} \\ \quad \emph{Business Practices and Training}}
 
 
 \setbeamertemplate{sidebar right}{}
@@ -218,7 +220,6 @@
 	\begin{itemize_3pt}
 		\item At least \textcolor{bdf}{USD 1 billion per year} (to 4-5 million beneficiary entrepreneurs; \citet{McKenzie2020})
 		\item Classical training programs \emph{precede} evidence that business practices vary and are predictive for productivity
-		\vspace{0.1in}
 		\item Examples:
 		\begin{itemize_3pt}
 			\item Start and Improve Your Business (ILO)
@@ -244,7 +245,7 @@
 
 \begin{frame}
 \frametitle{Typical Training Program}
-	Delivery
+	Delivery 
 	\begin{itemize_3pt}
 	\item %\textcolor{}{}
 	\vspace{0.1in}
@@ -630,9 +631,8 @@
 
 \begin{frame}
 \frametitle{Questions}
+	\textcolor{bdf}{Any questions?}
 	\begin{itemize_3pt}
-	\item Any questions?
-	\vspace{0.1in}
 	\item[] .. before we move on to our paper?
 	\end{itemize_3pt}
 \end{frame}
@@ -656,10 +656,8 @@ Burak Uras\inst{1}\\and
 Bilal Zia\inst{3}}
 
 \institute[]{
-\inst{1} Tilburg University\\
-\bigskip
+\inst{1} Tilburg University \\
 \inst{2} UC Berkeley, CEGA\\
-\bigskip
 \inst{3} The World Bank}
 
 \date{March 04, 2021}
@@ -687,10 +685,12 @@ Bilal Zia\inst{3}}
 \begin{frame}
 \frametitle{Background}
 	\begin{itemize_3pt}
-	\item Micro \& Small firms (MSEs) main \textcolor{bdf}{source of employment} in the developing world
-	\vspace{0.1in}
-	\item In \textcolor{bdf}{Indonesia}, MSEs represent 99\% of all firms and 94.5\% of employment 
-	\vspace{0.1in}
+	\item Micro and small firms (MSEs) are typically the main \textcolor{bdf}{source of employment} in the developing world
+	\item In \textcolor{bdf}{Indonesia}, MSEs represent .. 
+	\begin{itemize_3pt}
+		\item .. 99\% of all firms
+		\item .. 94.5\% of employment
+	\end{itemize_3pt} 
 	\item Understanding the factors fostering efficiency and growth of MSEs is an important research and policy goal
 	\end{itemize_3pt}
 \end{frame}
@@ -717,23 +717,21 @@ Bilal Zia\inst{3}}
 \subsection{Our Approach}
 \begin{frame}
 \frametitle{Harnessing Cross-Firm Heterogeneity}
+Some stylized facts about business practices in small firms
 \begin{itemize_3pt}
-\item Some facts about business practices in firms:
-	\begin{itemize_3pt}	
-	\item Vast heterogeneity in business practices and performance across similar businesses (de Mel, McKenzie \& Woodruff, 2009)
-	\item Variation in practices accounts for more than 20\% of variation in productivity within the same firm in the US (Bloom et al, 2019)
-	\end{itemize_3pt}
-\vspace{0.1in}
-\pause
-\item Research thus far has mostly overlooked this underlying heterogeneity in design and implementation of programs
-\vspace{0.1in}
-\pause
-\item Our idea is to make it \textcolor{bdf}{central} to the research design: 
-	\begin{itemize_3pt}
-	\item Use variation across businesses to identify business practices associated with successful performance
-	\item Instead of teaching set courses, provide consulting, or matching; we curate what works from local peers
-	\item Test different communication channels and their cost-effectiveness
+	\item Vast heterogeneity in business practices and performance across similar businesses \citep{deMel2009}
+	\item Variation in practices accounts for more than 20\% of variation in productivity within the same firm in the US \citep{Bloom2019}
+	\item[] $\rightarrow$ Research has largely overlooked this heterogeneity in program design and implementation
 \end{itemize_3pt}
+
+\vspace{0.5em}
+\pause
+
+Our idea is to \textcolor{bdf}{make productice use of this heterogeneity} in research design: 
+\begin{itemize_3pt}
+	\item Use cross-firm variation to identify \textcolor{bdf}{practices associated with business performance}
+	\item \textcolor{bdf}{Curate local best practices}
+	\item Test different \textcolor{bdf}{modes of delivery}, and their cost-effectiveness
 \end{itemize_3pt}
 
 \end{frame}
@@ -1329,27 +1327,33 @@ F-tests (p-value):											&&			&&			\\
 \subsection{Discussion}
 \begin{frame}
 \frametitle{Efficiency Gains?}
-\begin{enumerate_3pt}
-\item Unpacking impacts on practices shows improvements in efficiency practices:
+Unpacking impacts on business practices $\rightarrow$ \textcolor{bdf}{efficiency practices}:
 \vspace{0.1in}
 \begin{itemize_3pt}
-\item Adjust stocks based on product profitability
-\item Negotiate lower prices with suppliers
-\item Consult with former customers
-\item Offer discounts
-\item Make joint decisions
-\item Review financial performance to identify channels of improvement
-\item Make anticipated budget for upcoming costs
+	\item Adjust stocks based on product profitability
+	\item Negotiate lower prices with suppliers
+	\item Consult with former customers
+	\item Offer discounts
+	\item Make joint decisions
+	\item Review performance to identify ways to improve
+	\item Make anticipated budget for upcoming costs
+	\vspace{0.1in}
+
+	\pause
+	
+	\item[] $\rightarrow$ \textcolor{bdf}{Non-record-keeping practices}
+	\vspace{0.1in}
+	
+	\pause
+	
+	\item[] $\rightarrow$ Causal-mediation analysis: \textcolor{bdf}{Stocking up and marketing practices} drive performance effects
+	
+	\pause
+	
+	\item[] $\rightarrow$ Variance in profits among treated firms does not converge
+	
+	\item[] $\rightarrow$ \textcolor{bdf}{Efficiency gains}
 \end{itemize_3pt}
-\vspace{0.1in}
-\pause
-\item These are non-record-keeping practices. Also, variance in profits among the treated businesses does not converge
-\vspace{0.1in}
-\pause
-\item Causal-mediation analysis shows that the most important drivers of impact on sales and profits are stocking up and marketing practices.
-\end{enumerate_3pt}
-\vspace{0.1in}
-$\rightarrow$ \textcolor{bdf}{Efficiency gains}
 \end{frame}
 
 \begin{frame}
@@ -1425,7 +1429,9 @@ Research design likely \textcolor{bdf}{scalable and portable}
 
 %\addtocontents{toc}{\protect\setcounter{tocdepth}{0}}
 
-\subsection{References}
+%\section*{\textbf{APPENDIX}}
+
+%\subsection{References}
 \begin{frame}[allowframebreaks]
 \frametitle{References}
 
