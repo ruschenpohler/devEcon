@@ -19,6 +19,7 @@
 \usepackage{fix-cm}
 \usepackage{graphicx}
 \usepackage{hyperref}
+\usepackage{natbib}
 
 
 \setcounter{MaxMatrixCols}{10}
@@ -49,7 +50,7 @@
 % Color scheme
 \definecolor{cerulean}{rgb}{0.16, 0.32, 0.75}
 \definecolor{bdf}{rgb}{0.19, 0.55, 0.91}
-\definecolor{offwhite}{RGB}{255,253,238}
+\definecolor{offwhite}{RGB}{255,253,243}
 \definecolor{red}{RGB}{213,94,0}
 %#09BADB #DB1A71
 
@@ -59,7 +60,6 @@
 \setbeamercolor{palette secondary}{bg=bdf,fg=white}
 \setbeamercolor{frametitle}{fg=offwhite}
 %\setbeamercolor{sidebar}{bg=cerulean}
-
 %\newenvironment{transitionframe}{\setbeamercolor{background canvas}{bg=bdf}\begin{frame}}{\end{frame}}
 %\setbeamercolor{title}{fg=black}
 %\setbeamercolor{itemize item}{fg=blue}
@@ -68,9 +68,30 @@
 %\setbeamercolor{enumerate subitem}{fg=blue}
 %\setbeamercolor{button}{bg=offwhite,fg=blue}
 
+% Font
 \setbeamerfont{section in sidebar}{size=\fontsize{5.3}{5}\selectfont}
 \setbeamerfont{subsection in sidebar}{size=\fontsize{4.4}{5.5}\selectfont}
 %\setbeamerfont{subsubsection in sidebar}{size=\fontsize{4}{7}\selectfont}
+\setbeamerfont{title in sidebar}{}
+\setbeamerfont{author in sidebar}{}
+\setbeamercolor{section in sidebar}{bg=bdf,fg=offwhite}
+\setbeamercolor{subsection in sidebar}{bg=bdf,fg=offwhite}
+
+%\setbeamercolor{title}{bg=red!25!blue,fg=white}
+%\setbeamercolor{fo} {bg=red!25!blue,fg=white}
+%\setbeamercolor{sidebar}{bg=red!25!blue,fg=white}
+%\setbeamercolor{author in sidebar}{fg=black!20!white}
+%\setbeamercolor{title in sidebar}{fg=white}
+%\setbeamercolor{normal text}{bg=white}
+%\setbeamercolor{frametitle}{fg=white}
+%\setbeamercolor{section in sidebar}{bg=black,fg=white}
+%\setbeamercolor{subsection in sidebar}{bg=black,fg=white}
+%\setbeamercolor{block title}{bg=red!25!blue,fg=white}
+%\setbeamercolor{block body}{bg=blue!20!white,fg=black}
+%\setbeamerfont{subsection in sidebar}{size=\tiny}
+%\setbeamerfont{title in sidebar}{size=\scriptsize}
+%\setbeamerfont{author in sidebar}{size=\tiny}
+%\setbeamercovered{transparent}
 
 
 % Page number and navigation
@@ -88,6 +109,11 @@
 
 % Mini frames
 %\useoutertheme[subsection=true]{miniframes} 
+
+
+% Bibliography
+%\renewcommand\bibliographytypesize{\small}
+\renewcommand*{\bibfont}{\scriptsize}
 
 
 \title[]{Skills, Practices, and Aspirations \\ of Small-scale Entrepreneurs \\ in Low-income Settings}
@@ -129,7 +155,7 @@
 \begin{frame}
 \frametitle{?}
 	\begin{itemize_3pt}
-	\item Bloom and van Reenen (2010, 2019): Business practices, motivation
+	\item Bloom and van Reenen (2010, 2019): Business practices, motivation \citep{Bloom2010, Bloom2019}
 	\vspace{0.1in}
 	\end{itemize_3pt}
 \end{frame}
@@ -137,7 +163,7 @@
 \begin{frame}
 \frametitle{Heterogeneity in Business Practices}
 	\begin{itemize_3pt}
-	\item Bloom and van Reenen (2010): Heterogeneity
+	\item Bloom and van Reenen (2010): Heterogeneity \citep{Bloom2010}
 	\vspace{0.1in}
 	\end{itemize_3pt}
 \end{frame}
@@ -145,7 +171,7 @@
 \begin{frame}
 \frametitle{}
 	\begin{itemize_3pt}
-	\item Bloom and van Reenen (2019): Correlation with productivity
+	\item Bloom and van Reenen (2019): Correlation with productivity \citep{Bloom2019}
 	\vspace{0.1in}
 	\end{itemize_3pt}
 \end{frame}
@@ -153,9 +179,9 @@
 %---------------------
 
 \begin{frame}
-\frametitle{Business Practices of Small Firms}
+\frametitle{Business Practices in Small Firms}
 	\begin{itemize_3pt}
-	\item McKenzie and Woodruff (2009, 2017): Heterogeneity and predictiveness
+	\item McKenzie and Woodruff (2009, 2017): Heterogeneity and predictiveness \citep{McKenzie2009, McKenzie2017}
 	\vspace{0.1in}
 	\end{itemize_3pt}
 \end{frame}
@@ -163,7 +189,7 @@
 \begin{frame}
 \frametitle{Business Practices of Small Firms}
 	\begin{itemize_3pt}
-	\item McKenzie and Woodruff (2009, 2017): Example categories and practices
+	\item McKenzie and Woodruff (2009, 2017): Example categories and practices \citep{McKenzie2009, McKenzie2017}
 	\vspace{0.1in}
 	\end{itemize_3pt}
 \end{frame}
@@ -173,7 +199,7 @@
 \begin{frame}
 \frametitle{Best Practices for Small Firms}
 	\begin{itemize_3pt}
-	\item McKenzie and Woodruff (2017): Portable best practices
+	\item McKenzie and Woodruff (2017): Portable best practices \citep{McKenzie2017}
 	\vspace{0.1in}
 	\end{itemize_3pt}
 \end{frame}
@@ -190,7 +216,7 @@
 \begin{frame}
 \frametitle{History and Prevalence}
 	\begin{itemize_3pt}
-		\item At least \textcolor{bdf}{USD 1 billion per year} (to 4-5 million beneficiary entrepreneurs; McKenzie, 2020)
+		\item At least \textcolor{bdf}{USD 1 billion per year} (to 4-5 million beneficiary entrepreneurs; \citet{McKenzie2020})
 		\item Classical training programs \emph{precede} evidence that business practices vary and are predictive for productivity
 		\vspace{0.1in}
 		\item Examples:
@@ -206,16 +232,21 @@
 
 \begin{frame}
 \frametitle{Typical Training Program}
+	Content
 	\begin{itemize_3pt}
-	\item Content %\textcolor{}{}
+	%\textcolor{}{}
+	\item Training is delivered by 600 local certified trainers and by a pool of approximately 60 international master trainers. All trainers are also entrepreneurs.
+	\item Empretec Training Workshops offer different levels of instruction that include:
+	\item 6-day courses (48 hours); 32-hour (usually spread over 4 days) for micro-entrepreneurs with low levels of literacy; Interactive coaching based on real business challenges of participants.
 	\vspace{0.1in}
 	\end{itemize_3pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{Typical Training Program}
+	Delivery
 	\begin{itemize_3pt}
-	\item Delivery %\textcolor{}{}
+	\item %\textcolor{}{}
 	\vspace{0.1in}
 	\end{itemize_3pt}
 \end{frame}
@@ -223,25 +254,26 @@
 %---------------------
 
 \begin{frame}
-\frametitle{Impact on Businesses}
+\frametitle{Evidence on Impact}
 	\begin{itemize_3pt}
 	\item First wave (Karlan and Valdivia, 2011, Field, et al., 2010; Bruhn \& Zia, 2013; Bulte et al., 2017; Anderson, Chandy, and Zia, 2018)
+					 \citep{Karlan2011} \citep{Field2010} \citep{Bruhn2013} \citep{Bulte2017} \citep{Anderson2018}
 	\vspace{0.1in}
 	\end{itemize_3pt}
 \end{frame}
 
 \begin{frame}
-\frametitle{Impact on Businesses}
+\frametitle{Evidence on Impact}
 	\begin{itemize_3pt}
-	\item Econometric and implementation issues (McKenzie and Woodruff, 2014)
+	\item Econometric and implementation issues \citep{McKenzie2014}
 	\vspace{0.1in}
 	\end{itemize_3pt}
 \end{frame}
 
 \begin{frame}
-\frametitle{Impact on Businesses}
+\frametitle{Evidence on Impact}
 	\begin{itemize_3pt}
-	\item Recent evaluations (McKenzie, 2020)
+	\item Recent evaluations (McKenzie, 2020) \citep{McKenzie2020}
 	\vspace{0.1in}
 	\end{itemize_3pt}
 \end{frame}
@@ -251,16 +283,21 @@
 
 \begin{frame}
 \frametitle{Targeted Training}
+	Female entrepreneurs
 	\begin{itemize_3pt}
-	\item Female entrepreneurs
+		\item Example: Gender and Enterprise Together \citep[GET Ahead, ILO;][]{Bulte2016,McKenziePuerto2020}
+		\item ?
 	\vspace{0.1in}
 	\end{itemize_3pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{Targeted Training}
+	Young entrepreneurs
 	\begin{itemize_3pt}
-	\item Young entrepreneurs
+		\item Entrepreneurship programs in school and university
+		\item Example: University final year course in Tunisia \citep{Alaref2020}
+		\item ?
 	\vspace{0.1in}
 	\end{itemize_3pt}
 \end{frame}
@@ -276,9 +313,29 @@
 %---------------------
 
 \begin{frame}
+\frametitle{Specific Domains}
+	\begin{itemize_3pt}
+	\item \citep{Anderson2018}
+	\vspace{0.1in}
+	\end{itemize_3pt}
+\end{frame}
+
+\begin{frame}
+\frametitle{Specific Domain}
+	\begin{itemize_3pt}
+	\item \citep{Anderson2018}
+	\vspace{0.1in}
+	\end{itemize_3pt}
+\end{frame}
+
+%---------------------
+
+\begin{frame}
 \frametitle{On-site Consulting}
 	\begin{itemize_3pt}
-	\item Bloom, et al. (2013); Karlan et al (2015); Bruhn, Karlan \& Schoar (2019)
+	\item Bloom, et al. (2013); Karlan et al. (2015); Bruhn, Karlan, and Schoar (2019)
+	\item Large firms: \citep{Bloom2013}; SMEs: \citep{Bruhn2018}
+	\item \citep{Karlan2015} \citep{Bruhn2019}
 	\vspace{0.1in}
 	\end{itemize_3pt}
 \end{frame}
@@ -292,6 +349,37 @@
 \end{frame}
 
 %---------------------
+
+\begin{frame}
+\frametitle{Multimedia delivery}
+	TV shows
+	\begin{itemize_3pt}
+	\item Examples: Ruka Juu in Tanzania \citep{Bjorvatn2020} and El Mashroua in Egypt \citep{Barsoum2018}
+	\item ?
+	\vspace{0.1in}
+	\end{itemize_3pt}
+\end{frame}
+
+\begin{frame}
+\frametitle{Multimedia delivery}
+	TV shows
+	\begin{itemize_3pt}
+	\item Examples: Ruka Juu in Tanzania \citep{Bjorvatn2020} and El Mashroua in Egypt \citep{Barsoum2018}
+	\item ?
+	\vspace{0.1in}
+	\end{itemize_3pt}
+\end{frame}
+
+\begin{frame}
+\frametitle{Multimedia delivery}
+	Text messages
+	\begin{itemize_3pt}
+	\item \citep{Cole2019} \citep{Acimovic2020}
+	\vspace{0.1in}
+	\end{itemize_3pt}
+\end{frame}
+
+% -----------------------
 
 \begin{frame}
 \frametitle{Complementary Constraints}
@@ -323,7 +411,7 @@
 \begin{frame}
 \frametitle{Reliability of Self-reports}
 	\begin{itemize_3pt}
-	\item Self-reports of aggregate
+	\item Self-reports of aggregate \citep{deMel2009}
 	\vspace{0.1in}
 	\end{itemize_3pt}
 \end{frame}
@@ -331,7 +419,7 @@
 \begin{frame}
 \frametitle{Reliability of Self-reports}
 	\begin{itemize_3pt}
-	\item Disaggregating quantities in self-reports
+	\item Disaggregating quantities in self-reports \citep{deMel2009}
 	\vspace{0.1in}
 	\end{itemize_3pt}
 \end{frame}
@@ -339,7 +427,7 @@
 \begin{frame}
 \frametitle{Reliability of Self-report}
 	\begin{itemize_3pt}
-	\item Direct measures
+	\item Direct measures \citep{deMel2009}
 	\vspace{0.1in}
 	\end{itemize_3pt}
 \end{frame}
@@ -349,7 +437,7 @@
 \begin{frame}
 \frametitle{Sales vs. Profits}
 	\begin{itemize_3pt}
-	\item 
+	\item  \citep{deMel2009}
 	\vspace{0.1in}
 	\end{itemize_3pt}
 \end{frame}
@@ -357,7 +445,7 @@
 \begin{frame}
 \frametitle{Sales vs. Profits}
 	\begin{itemize_3pt}
-	\item 
+	\item \citep{deMel2009}
 	\vspace{0.1in}
 	\end{itemize_3pt}
 \end{frame}
@@ -386,8 +474,14 @@
 \begin{frame}
 \frametitle{Heterogeneity of Impact}
 	\begin{itemize_3pt}
-	\item Heterogeneity of treatment effect poorly understood across different approaches
+	\item Heterogeneity of treatment effects poorly understood across different approaches
 	\item Potential constraints are manifold, and likely context-dependent
+	\item Some already mentioned in passing:
+	\begin{itemize_3pt}
+		\item Credit constraints \citep[see, e.g.,][]{} McKenzie cash paper
+		\item Gender norms and constraints
+		\item Age-related network and knowledge/skill constraints
+	\end{itemize_3pt} 
 	\vspace{0.1in}
 	\end{itemize_3pt}
 \end{frame}
@@ -395,7 +489,7 @@
 \begin{frame}
 \frametitle{Education and literacy}
 	\begin{itemize_3pt}
-	\item Drexler, Fischer \& Schoar (2014)
+	\item Drexler, Fischer \& Schoar (2014) \citep{Drexler2014}
 	\vspace{0.1in}
 	\end{itemize_3pt}
 \end{frame}
@@ -438,7 +532,7 @@
 \begin{frame}
 \frametitle{Rules of Thumb}
 	\begin{itemize_3pt}
-	\item Drexler, Fischer \& Schoar (2014)
+	\item Drexler, Fischer \& Schoar (2014) \citep{Drexler2014}
 	\vspace{0.1in}
 	\end{itemize_3pt}
 \end{frame}
@@ -446,7 +540,25 @@
 \begin{frame}
 \frametitle{Rules of Thumb}
 	\begin{itemize_3pt}
-	\item 
+	\item \citep{Arraiz2019} \citep{Cole2019}
+	\vspace{0.1in}
+	\end{itemize_3pt}
+\end{frame}
+
+%
+
+\begin{frame}
+\frametitle{Entrepreneurial mindset}
+	\begin{itemize_3pt}
+	\item \citep{Campos2017}
+	\vspace{0.1in}
+	\end{itemize_3pt}
+\end{frame}
+
+\begin{frame}
+\frametitle{Entrepreneurial mindset}
+	\begin{itemize_3pt}
+	\item \citep{Alibhai2019} \citep{Ubfal2019}
 	\vspace{0.1in}
 	\end{itemize_3pt}
 \end{frame}
@@ -1311,8 +1423,15 @@ Research design likely \textcolor{bdf}{scalable and portable}
 \end{frame}
 
 
-%\bibliographystyle{econometrica}
-%\bibliography{sampleBibFile}
+%\addtocontents{toc}{\protect\setcounter{tocdepth}{0}}
+
+\subsection{References}
+\begin{frame}[allowframebreaks]
+\frametitle{References}
+
+\bibliographystyle{econometrica}
+\bibliography{SME_library}
+\end{frame}
 
 
 \end{document}

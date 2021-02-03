@@ -1,0 +1,59 @@
+\ifx\undefined\BySame
+\newcommand{\BySame}{\leavevmode\rule[.5ex]{3em}{.5pt}\ }
+\fi
+\ifx\undefined\textsc
+\newcommand{\textsc}[1]{{\sc #1}}
+\newcommand{\emph}[1]{{\em #1\/}}
+\let\tmpsmall\small
+\renewcommand{\small}{\tmpsmall\sc}
+\fi
+\begin{thebibliography}{}
+
+\harvarditem[Anderson, Chandy, and Zia]{Anderson, Chandy, and
+  Zia}{2018}{Anderson2018}
+\textsc{Anderson, S.~J., R.~Chandy,  {\small and} B.~H. Zia}  (2018):
+  ``{Pathways to Profits : The Impact of Marketing vs. Finance Skills on
+  Business Performance},'' \emph{Management Science}, pp. 1--25.
+
+\harvarditem[Bloom, Eifert, Aprajit, McKenzie, and Roberts]{Bloom, Eifert,
+  Aprajit, McKenzie, and Roberts}{2013}{Bloom2013}
+\textsc{Bloom, N., B.~Eifert, M.~Aprajit, D.~McKenzie,  {\small and}
+  J.~Roberts}  (2013): ``{Does Management Matter? Evidence from India},''
+  \emph{Quarterly Journal of Economics}, 128(1), 1--51.
+
+\harvarditem[Bloom, Mahajan, McKenzie, and Roberts]{Bloom, Mahajan, McKenzie,
+  and Roberts}{2010}{Bloom2010}
+\textsc{Bloom, N., A.~Mahajan, D.~McKenzie,  {\small and} J.~Roberts}  (2010):
+  ``{Why do firms in developing countries have low productivity?},''
+  \emph{American Economic Review: Association and Proceedings}, 100(2),
+  619--623.
+
+\harvarditem[Bruhn, Karlan, and Schoar]{Bruhn, Karlan, and
+  Schoar}{2018}{Bruhn2018}
+\textsc{Bruhn, M., D.~Karlan,  {\small and} A.~Schoar}  (2018): ``{The Impact
+  of Consulting Services on Small and Medium Enterprises Evidence from a
+  Randomized Trial in Mexico},'' \emph{Journal of Political Economy}, 126(2),
+  635--687.
+
+\harvarditem[Bruhn and Zia]{Bruhn and Zia}{2013}{Bruhn2013}
+\textsc{Bruhn, M.,  {\small and} B.~H. Zia}  (2013): ``{Stimulating Managerial
+  Capital in Emerging Markets: The Impact of Business and Financial Literacy
+  Training for Young Entrepreneurs},'' \emph{Journal of Development
+  Effectiveness}, 5(2), 232--266.
+
+\harvarditem[Drexler, Fischer, and Schoar]{Drexler, Fischer, and
+  Schoar}{2014}{Drexler2014}
+\textsc{Drexler, A., G.~Fischer,  {\small and} A.~Schoar}  (2014): ``{Keeping
+  It Simple: Financial Literacy and Rules of Thumb},'' \emph{American Economic
+  Journal: Applied Economics}, 6(2), 1--31.
+
+\harvarditem[McKenzie and Woodruff]{McKenzie and Woodruff}{2014}{McKenzie2014}
+\textsc{McKenzie, D.,  {\small and} C.~Woodruff}  (2014): ``{What are we
+  learning from business training and entrepreneurship evaluations around the
+  developing world?},'' \emph{World Bank Research Observer}, 29(1), 48--82.
+
+\harvarditem[McKenzie and Woodruff]{McKenzie and Woodruff}{2017}{McKenzie2017}
+\textsc{\BySame{}}  (2017): ``{Business Practices in Small Firms in Developing
+  Countries},'' \emph{Management Science}, 63(9), 2967--2981.
+
+\end{thebibliography}
