@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.10)  3 FEB 2021 22:22
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2020.1.10)  4 FEB 2021 16:15
 entering extended mode
 **./MSMEmgmt_Bocconi_03-2021.tex
 (MSMEmgmt_Bocconi_03-2021.tex
@@ -1070,24 +1070,24 @@ LaTeX Warning: Label `height' multiply defined.
 )
 \openout1 = `MSMEmgmt_Bocconi_03-2021.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 127.
-LaTeX Font Info:    ... okay on input line 127.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for PD1/pdf/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 146.
+LaTeX Font Info:    ... okay on input line 146.
 LaTeX Font Info:    Trying to load font information for OT1+ppl on input line 1
-27.
+46.
 
 ("C:\Users\ruschenpohler\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1
 ppl.fd"
@@ -1150,7 +1150,7 @@ Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
 85.
 ) ABD: EveryShipout initializing macros
 \AtBeginShipoutBox=\box87
-Package hyperref Info: Link coloring OFF on input line 127.
+Package hyperref Info: Link coloring OFF on input line 146.
 
 ("C:\Users\ruschenpohler\AppData\Local\Programs\MiKTeX 2.9\tex/latex/hyperref\n
 ameref.sty"
@@ -1166,9 +1166,9 @@ Package: gettitlestring 2019/12/15 v1.6 Cleanup title references (HO)
 )
 \c@section@level=\count270
 )
-LaTeX Info: Redefining \ref on input line 127.
-LaTeX Info: Redefining \pageref on input line 127.
-LaTeX Info: Redefining \nameref on input line 127.
+LaTeX Info: Redefining \ref on input line 146.
+LaTeX Info: Redefining \pageref on input line 146.
+LaTeX Info: Redefining \nameref on input line 146.
  (MSMEmgmt_Bocconi_03-2021.out)
 (MSMEmgmt_Bocconi_03-2021.out)
 \@outlinefile=\write5
@@ -1177,41 +1177,41 @@ LaTeX Info: Redefining \nameref on input line 127.
 \symnumbers=\mathgroup7
 \sympureletters=\mathgroup8
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `normal'
-(Font)                  OT1/ppl/m/n --> OT1/ppl/m/n on input line 127.
-LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 127.
+(Font)                  OT1/ppl/m/n --> OT1/ppl/m/n on input line 146.
+LaTeX Font Info:    Redeclaring math alphabet \mathbf on input line 146.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `normal'
-(Font)                  OT1/zplm/b/n --> OT1/ppl/bx/n on input line 127.
+(Font)                  OT1/zplm/b/n --> OT1/ppl/bx/n on input line 146.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/zplm/b/n --> OT1/ppl/bx/n on input line 127.
-LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 127.
+(Font)                  OT1/zplm/b/n --> OT1/ppl/bx/n on input line 146.
+LaTeX Font Info:    Redeclaring math alphabet \mathsf on input line 146.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `normal'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 127.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/m/n on input line 146.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 127.
-LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 127.
+(Font)                  OT1/cmss/bx/n --> OT1/cmss/m/n on input line 146.
+LaTeX Font Info:    Redeclaring math alphabet \mathit on input line 146.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `normal'
-(Font)                  OT1/ppl/m/it --> OT1/ppl/m/it on input line 127.
+(Font)                  OT1/ppl/m/it --> OT1/ppl/m/it on input line 146.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/ppl/b/it --> OT1/ppl/m/it on input line 127.
-LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 127.
+(Font)                  OT1/ppl/b/it --> OT1/ppl/m/it on input line 146.
+LaTeX Font Info:    Redeclaring math alphabet \mathtt on input line 146.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `normal'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 127.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 146.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 127.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/m/n on input line 146.
 LaTeX Font Info:    Overwriting symbol font `numbers' in version `bold'
-(Font)                  OT1/ppl/m/n --> OT1/ppl/bx/n on input line 127.
+(Font)                  OT1/ppl/m/n --> OT1/ppl/bx/n on input line 146.
 LaTeX Font Info:    Overwriting symbol font `pureletters' in version `bold'
-(Font)                  OT1/ppl/m/it --> OT1/ppl/bx/it on input line 127.
+(Font)                  OT1/ppl/m/it --> OT1/ppl/bx/it on input line 146.
 LaTeX Font Info:    Overwriting math alphabet `\mathrm' in version `bold'
-(Font)                  OT1/ppl/b/n --> OT1/ppl/bx/n on input line 127.
+(Font)                  OT1/ppl/b/n --> OT1/ppl/bx/n on input line 146.
 LaTeX Font Info:    Overwriting math alphabet `\mathbf' in version `bold'
-(Font)                  OT1/ppl/bx/n --> OT1/ppl/bx/n on input line 127.
+(Font)                  OT1/ppl/bx/n --> OT1/ppl/bx/n on input line 146.
 LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
-(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 127.
+(Font)                  OT1/cmss/m/n --> OT1/cmss/bx/n on input line 146.
 LaTeX Font Info:    Overwriting math alphabet `\mathit' in version `bold'
-(Font)                  OT1/ppl/m/it --> OT1/ppl/bx/it on input line 127.
+(Font)                  OT1/ppl/m/it --> OT1/ppl/bx/it on input line 146.
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
-(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 127.
+(Font)                  OT1/cmtt/m/n --> OT1/cmtt/bx/n on input line 146.
 
 ("C:\Users\ruschenpohler\AppData\Local\Programs\MiKTeX 2.9\tex/latex/translator
 \translator-basic-dictionary-English.dict"
@@ -1240,52 +1240,52 @@ Dictionary: translator-theorem-dictionary, Language: English
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                \hskip 10.95pt
-(hyperref)                replaced by space on input line 138.
+(hyperref)                replaced by space on input line 157.
 
 LaTeX Font Info:    Trying to load font information for OML+zplm on input line 
-145.
+164.
 
 ("C:\Users\ruschenpohler\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\oml
 zplm.fd"
 File: omlzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OML/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMS+zplm on input line 
-145.
+164.
 
 ("C:\Users\ruschenpohler\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\oms
 zplm.fd"
 File: omszplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMS/zplm.
 )
 LaTeX Font Info:    Trying to load font information for OMX+zplm on input line 
-145.
+164.
 
 ("C:\Users\ruschenpohler\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\omx
 zplm.fd"
 File: omxzplm.fd 2002/09/08 Fontinst v1.914 font definitions for OMX/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 145.
+(Font)              scaled to size 11.40997pt on input line 164.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 145.
+(Font)              scaled to size 8.33606pt on input line 164.
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 145.
+(Font)              scaled to size 6.25204pt on input line 164.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 11.40997pt on input line 145.
+(Font)              scaled to size 11.40997pt on input line 164.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 8.33606pt on input line 145.
+(Font)              scaled to size 8.33606pt on input line 164.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 6.25204pt on input line 145.
+(Font)              scaled to size 6.25204pt on input line 164.
 LaTeX Font Info:    Trying to load font information for OT1+zplm on input line 
-145.
+164.
 
 ("C:\Users\ruschenpohler\AppData\Local\Programs\MiKTeX 2.9\tex/latex/psnfss\ot1
 zplm.fd"
 File: ot1zplm.fd 2002/09/08 Fontinst v1.914 font definitions for OT1/zplm.
 )
 LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 145.
+(Font)              scaled to size 5.21004pt on input line 164.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.21004pt on input line 145.
+(Font)              scaled to size 5.21004pt on input line 164.
  [1
 
 {C:/Users/ruschenpohler/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}] (MS
@@ -1294,199 +1294,208 @@ LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <10.95> not available
 (Font)              Font shape `OT1/ppl/b/n' tried instead on input line 1.
 )
 LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <5.3> not available
-(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 152.
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 171.
  [2
+
+] [3
 
 ]
 LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <9.5> not available
-(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 163.
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 182.
 
 
-Package natbib Warning: Citation `Bloom2019' on page 3 undefined on input line 
-163.
+Package natbib Warning: Citation `Bloom2019' on page 4 undefined on input line 
+182.
 
-[3
+[4
 
-] [4
-
-]
-
-Package natbib Warning: Citation `Bloom2019' on page 5 undefined on input line 
-179.
-
-[5
+] [5
 
 ]
 
-Package natbib Warning: Citation `McKenzie2009' on page 6 undefined on input li
-ne 189.
+Package natbib Warning: Citation `Bloom2019' on page 6 undefined on input line 
+198.
 
 [6
 
 ]
 
 Package natbib Warning: Citation `McKenzie2009' on page 7 undefined on input li
-ne 197.
+ne 216.
 
 [7
 
-] [8
-
 ]
+LaTeX Font Info:    Calculating math sizes for size <9.5> on input line 234.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 9.89906pt on input line 234.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 7.52322pt on input line 234.
+LaTeX Font Info:    Font shape `U/msa/m/n' will be
+(Font)              scaled to size 5.9395pt on input line 234.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 9.89906pt on input line 234.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 7.52322pt on input line 234.
+LaTeX Font Info:    Font shape `U/msb/m/n' will be
+(Font)              scaled to size 5.9395pt on input line 234.
+ [8
 
-Package natbib Warning: Citation `McKenzie2020' on page 9 undefined on input li
-ne 230.
-
-[9
+] [9
 
 ] [10
 
-] [11
-
 ]
 
-Package natbib Warning: Citation `Karlan2011' on page 12 undefined on input lin
-e 264.
+Package natbib Warning: Citation `McKenzie2020' on page 11 undefined on input l
+ine 276.
 
+[11
 
-Package natbib Warning: Citation `Field2010' on page 12 undefined on input line
- 264.
-
-
-Package natbib Warning: Citation `Bulte2017' on page 12 undefined on input line
- 264.
-
-[12
+] [12
 
 ] [13
 
 ]
 
-Package natbib Warning: Citation `McKenzie2020' on page 14 undefined on input l
-ine 280.
+Package natbib Warning: Citation `Karlan2011' on page 14 undefined on input lin
+e 310.
+
+
+Package natbib Warning: Citation `Field2010' on page 14 undefined on input line
+ 310.
+
+
+Package natbib Warning: Citation `Bulte2017' on page 14 undefined on input line
+ 310.
 
 [14
 
-]
-
-Package natbib Warning: Citation `Bulte2016' on page 15 undefined on input line
- 293.
-
-
-Package natbib Warning: Citation `McKenziePuerto2020' on page 15 undefined on i
-nput line 293.
-
-[15
+] [15
 
 ]
 
-Package natbib Warning: Citation `Alaref2020' on page 16 undefined on input lin
-e 304.
+Package natbib Warning: Citation `McKenzie2020' on page 16 undefined on input l
+ine 326.
 
 [16
 
 ] [17
 
-] [18
+]
 
-] [19
+Package natbib Warning: Citation `Bulte2016' on page 18 undefined on input line
+ 340.
+
+
+Package natbib Warning: Citation `McKenziePuerto2020' on page 18 undefined on i
+nput line 340.
+
+[18
 
 ]
 
-Package natbib Warning: Citation `Karlan2015' on page 20 undefined on input lin
-e 342.
+Package natbib Warning: Citation `Alaref2020' on page 19 undefined on input lin
+e 353.
 
+[19
 
-Package natbib Warning: Citation `Bruhn2019' on page 20 undefined on input line
- 342.
-
-[20
+] [20
 
 ] [21
 
-]
+] [22
 
-Package natbib Warning: Citation `Bjorvatn2020' on page 22 undefined on input l
-ine 362.
-
-
-Package natbib Warning: Citation `Barsoum2018' on page 22 undefined on input li
-ne 362.
-
-[22
+] [23
 
 ]
 
-Package natbib Warning: Citation `Bjorvatn2020' on page 23 undefined on input l
-ine 372.
+Package natbib Warning: Citation `Karlan2015' on page 24 undefined on input lin
+e 419.
 
 
-Package natbib Warning: Citation `Barsoum2018' on page 23 undefined on input li
-ne 372.
-
-[23
-
-]
-
-Package natbib Warning: Citation `Cole2019' on page 24 undefined on input line 
-381.
-
-
-Package natbib Warning: Citation `Acimovic2020' on page 24 undefined on input l
-ine 381.
+Package natbib Warning: Citation `Bruhn2019' on page 24 undefined on input line
+ 419.
 
 [24
 
 ] [25
 
-] [26
+]
 
-] [27
+Package natbib Warning: Citation `Bjorvatn2020' on page 26 undefined on input l
+ine 439.
+
+
+Package natbib Warning: Citation `Barsoum2018' on page 26 undefined on input li
+ne 439.
+
+[26
 
 ]
 
-Package natbib Warning: Citation `deMel2009' on page 28 undefined on input line
- 418.
+Package natbib Warning: Citation `Bjorvatn2020' on page 27 undefined on input l
+ine 449.
+
+
+Package natbib Warning: Citation `Barsoum2018' on page 27 undefined on input li
+ne 449.
+
+[27
+
+]
+
+Package natbib Warning: Citation `Cole2019' on page 28 undefined on input line 
+458.
+
+
+Package natbib Warning: Citation `Acimovic2020' on page 28 undefined on input l
+ine 458.
 
 [28
 
-]
+] [29
 
-Package natbib Warning: Citation `deMel2009' on page 29 undefined on input line
- 426.
+] [30
 
-[29
+] [31
 
-]
-
-Package natbib Warning: Citation `deMel2009' on page 30 undefined on input line
- 434.
-
-[30
+] [32
 
 ]
 
-Package natbib Warning: Citation `deMel2009' on page 31 undefined on input line
- 444.
+Package natbib Warning: Citation `deMel2009' on page 33 undefined on input line
+ 495.
 
-[31
+[33
 
 ]
 
-Package natbib Warning: Citation `deMel2009' on page 32 undefined on input line
- 452.
+Package natbib Warning: Citation `deMel2009' on page 34 undefined on input line
+ 503.
 
-[32
+[34
 
-] [33
+]
 
-] [34
+Package natbib Warning: Citation `deMel2009' on page 35 undefined on input line
+ 511.
 
-] [35
+[35
 
-] [36
+]
 
-] [37
+Package natbib Warning: Citation `deMel2009' on page 36 undefined on input line
+ 521.
+
+[36
+
+]
+
+Package natbib Warning: Citation `deMel2009' on page 37 undefined on input line
+ 529.
+
+[37
 
 ] [38
 
@@ -1496,34 +1505,11 @@ Package natbib Warning: Citation `deMel2009' on page 32 undefined on input line
 
 ] [41
 
-]
+] [42
 
-Package natbib Warning: Citation `Arraiz2019' on page 42 undefined on input lin
-e 547.
+] [43
 
-
-Package natbib Warning: Citation `Cole2019' on page 42 undefined on input line 
-547.
-
-[42
-
-]
-
-Package natbib Warning: Citation `Campos2017' on page 43 undefined on input lin
-e 557.
-
-[43
-
-]
-
-Package natbib Warning: Citation `Alibhai2019' on page 44 undefined on input li
-ne 565.
-
-
-Package natbib Warning: Citation `Ubfal2019' on page 44 undefined on input line
- 565.
-
-[44
+] [44
 
 ] [45
 
@@ -1533,151 +1519,179 @@ Package natbib Warning: Citation `Ubfal2019' on page 44 undefined on input line
 
 ] [48
 
-] [49
+]
 
-] [50
+Package natbib Warning: Citation `Arraiz2019' on page 49 undefined on input lin
+e 624.
 
-] [51
 
-] [52
+Package natbib Warning: Citation `Cole2019' on page 49 undefined on input line 
+624.
+
+[49
 
 ]
 
-Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 656.
+Package natbib Warning: Citation `Campos2017' on page 50 undefined on input lin
+e 634.
+
+[50
+
+]
+
+Package natbib Warning: Citation `Alibhai2019' on page 51 undefined on input li
+ne 642.
 
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                \hskip 10.95pt
-(hyperref)                replaced by space on input line 666.
+Package natbib Warning: Citation `Ubfal2019' on page 51 undefined on input line
+ 642.
 
-[53
+[51
 
-] (MSMEmgmt_Bocconi_03-2021.toc) [54
+] [52
+
+] [53
+
+] [54
 
 ] [55
 
 ] [56
 
-]
+] [57
 
-Package natbib Warning: Citation `deMel2009' on page 57 undefined on input line
- 737.
-
-
-Package natbib Warning: Citation `Bloom2019' on page 57 undefined on input line
- 737.
-
-LaTeX Font Info:    Calculating math sizes for size <9.5> on input line 737.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 9.89906pt on input line 737.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 7.52322pt on input line 737.
-LaTeX Font Info:    Font shape `U/msa/m/n' will be
-(Font)              scaled to size 5.9395pt on input line 737.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 9.89906pt on input line 737.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 7.52322pt on input line 737.
-LaTeX Font Info:    Font shape `U/msb/m/n' will be
-(Font)              scaled to size 5.9395pt on input line 737.
-[57
-
-]
-
-Package natbib Warning: Citation `deMel2009' on page 58 undefined on input line
- 737.
-
-
-Package natbib Warning: Citation `Bloom2019' on page 58 undefined on input line
- 737.
-
-[58
+] [58
 
 ] [59
 
 ] [60
 
-] [61
+]
 
-] [62
+Package hyperref Warning: Option `pdfauthor' has already been used,
+(hyperref)                setting the option has no effect on input line 733.
+
+[61
+
+] (MSMEmgmt_Bocconi_03-2021.toc) [62
 
 ] [63
 
 ] [64
 
+] [65
+
+] [66
+
 ]
-<pics/retailer1.jpg, id=1135, 722.7pt x 465.4188pt>
+
+Package natbib Warning: Citation `deMel2009' on page 67 undefined on input line
+ 814.
+
+
+Package natbib Warning: Citation `Bloom2019' on page 67 undefined on input line
+ 814.
+
+[67
+
+]
+
+Package natbib Warning: Citation `deMel2009' on page 68 undefined on input line
+ 814.
+
+
+Package natbib Warning: Citation `Bloom2019' on page 68 undefined on input line
+ 814.
+
+[68
+
+] [69
+
+] [70
+
+] [71
+
+] [72
+
+] [73
+
+] [74
+
+] [75
+
+]
+<pics/retailer1.jpg, id=1345, 722.7pt x 465.4188pt>
 File: pics/retailer1.jpg Graphic file (type jpg)
 <use pics/retailer1.jpg>
-Package pdftex.def Info: pics/retailer1.jpg  used on input line 895.
+Package pdftex.def Info: pics/retailer1.jpg  used on input line 972.
 (pdftex.def)             Requested size: 289.07999pt x 186.16422pt.
- [65
+ [76
 
  <./pics/retailer1.jpg>]
-<pics/retailer2.jpg, id=1152, 722.7pt x 542.025pt>
+<pics/retailer2.jpg, id=1363, 722.7pt x 542.025pt>
 File: pics/retailer2.jpg Graphic file (type jpg)
 <use pics/retailer2.jpg>
-Package pdftex.def Info: pics/retailer2.jpg  used on input line 906.
+Package pdftex.def Info: pics/retailer2.jpg  used on input line 983.
 (pdftex.def)             Requested size: 289.07999pt x 216.80615pt.
 pdfTeX warning (ext4): destination with the same identifier (name{height}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.906 \end{frame}
+l.983 \end{frame}
                  
-Overfull \vbox (21.39702pt too high) detected at line 906
+Overfull \vbox (21.39702pt too high) detected at line 983
  []
 
-[66
+[77
 
  <./pics/retailer2.jpg>]
-<pics/handbook.jpg, id=1168, 963.6pt x 542.025pt>
+<pics/handbook.jpg, id=1380, 963.6pt x 542.025pt>
 File: pics/handbook.jpg Graphic file (type jpg)
 <use pics/handbook.jpg>
-Package pdftex.def Info: pics/handbook.jpg  used on input line 918.
+Package pdftex.def Info: pics/handbook.jpg  used on input line 995.
 (pdftex.def)             Requested size: 289.07999pt x 162.60048pt.
 pdfTeX warning (ext4): destination with the same identifier (name{height}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.918 \end{frame}
-                  [67
+l.995 \end{frame}
+                  [78
 
  <./pics/handbook.jpg>]
-<pics/Handbook_return.jpg, id=1185, 351.3125pt x 352.81813pt>
+<pics/Handbook_return.jpg, id=1397, 351.3125pt x 352.81813pt>
 File: pics/Handbook_return.jpg Graphic file (type jpg)
 <use pics/Handbook_return.jpg>
-Package pdftex.def Info: pics/Handbook_return.jpg  used on input line 929.
+Package pdftex.def Info: pics/Handbook_return.jpg  used on input line 1006.
 (pdftex.def)             Requested size: 187.90244pt x 188.71545pt.
 pdfTeX warning (ext4): destination with the same identifier (name{height}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.929 \end{frame}
-                  [68
+l.1006 \end{frame}
+                   [79
 
  <./pics/Handbook_return.jpg>]
-<pics/Handbook_stepbystep.jpg, id=1201, 351.81438pt x 263.98625pt>
+<pics/Handbook_stepbystep.jpg, id=1415, 351.81438pt x 263.98625pt>
 File: pics/Handbook_stepbystep.jpg Graphic file (type jpg)
 <use pics/Handbook_stepbystep.jpg>
-Package pdftex.def Info: pics/Handbook_stepbystep.jpg  used on input line 941.
+Package pdftex.def Info: pics/Handbook_stepbystep.jpg  used on input line 1018.
+
 (pdftex.def)             Requested size: 187.90244pt x 140.99156pt.
 pdfTeX warning (ext4): destination with the same identifier (name{height}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.941 \end{frame}
-                  [69
+l.1018 \end{frame}
+                   [80
 
  <./pics/Handbook_stepbystep.jpg>]
-<pics/movie.jpg, id=1217, 963.6pt x 475.011pt>
+<pics/movie.jpg, id=1432, 963.6pt x 475.011pt>
 File: pics/movie.jpg Graphic file (type jpg)
 <use pics/movie.jpg>
-Package pdftex.def Info: pics/movie.jpg  used on input line 951.
+Package pdftex.def Info: pics/movie.jpg  used on input line 1028.
 (pdftex.def)             Requested size: 317.98755pt x 156.74686pt.
 
-Overfull \hbox (27.24492pt too wide) in paragraph at lines 951--951
+Overfull \hbox (27.24492pt too wide) in paragraph at lines 1028--1028
  [] 
  []
 
@@ -1685,126 +1699,110 @@ pdfTeX warning (ext4): destination with the same identifier (name{height}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.951 \end{frame}
-                  [70
+l.1028 \end{frame}
+                   [81
 
  <./pics/movie.jpg>]
-<pics/Assistance_expl.jpg, id=1233, 963.6pt x 1284.8pt>
+<pics/Assistance_expl.jpg, id=1449, 963.6pt x 1284.8pt>
 File: pics/Assistance_expl.jpg Graphic file (type jpg)
 <use pics/Assistance_expl.jpg>
-Package pdftex.def Info: pics/Assistance_expl.jpg  used on input line 962.
+Package pdftex.def Info: pics/Assistance_expl.jpg  used on input line 1039.
 (pdftex.def)             Requested size: 144.54pt x 192.71169pt.
 pdfTeX warning (ext4): destination with the same identifier (name{height}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.962 \end{frame}
-                 
-Overfull \vbox (1.34993pt too high) detected at line 962
- []
-
-[71
-
- <./pics/Assistance_expl.jpg>]
-Overfull \hbox (93.2489pt too wide) in paragraph at lines 1050--1050
- [] 
- []
-
-
-Overfull \vbox (81.05202pt too high) detected at line 1050
- []
-
-[72
-
-]
-Overfull \hbox (13.36705pt too wide) in paragraph at lines 1092--1092
- [] 
- []
-
-[73
-
-]
-Overfull \hbox (4.99135pt too wide) in paragraph at lines 1139--1139
- [] 
- []
-
-[74
-
-]
-Overfull \hbox (78.51213pt too wide) in paragraph at lines 1193--1193
- [] 
- []
-
-
-Overfull \vbox (42.26512pt too high) detected at line 1193
- []
-
-[75
-
-]
-Overfull \hbox (0.20694pt too wide) in paragraph at lines 1248--1248
- [] 
- []
-
-
-Overfull \vbox (99.66508pt too high) detected at line 1248
- []
-
-[76
-
-]
-Overfull \hbox (0.20694pt too wide) in paragraph at lines 1305--1305
- [] 
- []
-
-
-Overfull \vbox (111.54007pt too high) detected at line 1305
- []
-
-[77
-
-] [78
-
-]
-Overfull \vbox (0.2021pt too high) detected at line 1357
- []
-
-[79
-
-]
-Overfull \vbox (0.2021pt too high) detected at line 1357
- []
-
-[80
-
-]
-Overfull \vbox (0.2021pt too high) detected at line 1357
- []
-
-[81
-
-]
-Overfull \vbox (0.2021pt too high) detected at line 1357
+l.1039 \end{frame}
+                  
+Overfull \vbox (1.34993pt too high) detected at line 1039
  []
 
 [82
 
-] [83
+ <./pics/Assistance_expl.jpg>] [83
 
-] [84
+]
+Overfull \hbox (93.2489pt too wide) in paragraph at lines 1127--1127
+ [] 
+ []
 
-] [85
 
-] [86
+Overfull \vbox (81.05202pt too high) detected at line 1127
+ []
 
-] (MSMEmgmt_Bocconi_03-2021.bbl
+[84
 
-Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\translate ' on input line 10.
+]
+Overfull \hbox (13.36705pt too wide) in paragraph at lines 1169--1169
+ [] 
+ []
 
-) [87
+[85
 
-] [88
+]
+Overfull \hbox (4.99135pt too wide) in paragraph at lines 1216--1216
+ [] 
+ []
+
+[86
+
+]
+Overfull \hbox (78.51213pt too wide) in paragraph at lines 1270--1270
+ [] 
+ []
+
+
+Overfull \vbox (41.26512pt too high) detected at line 1270
+ []
+
+[87
+
+]
+Overfull \hbox (0.20694pt too wide) in paragraph at lines 1325--1325
+ [] 
+ []
+
+
+Overfull \vbox (99.66508pt too high) detected at line 1325
+ []
+
+[88
+
+]
+Overfull \hbox (0.20694pt too wide) in paragraph at lines 1382--1382
+ [] 
+ []
+
+
+Overfull \vbox (111.54007pt too high) detected at line 1382
+ []
+
+[89
+
+] [90
+
+] [91
+
+] [92
+
+] [93
+
+] [94
+
+] [95
+
+] [96
+
+] [97
+
+] [98
+
+] [99
+
+]
+(MSMEmgmt_Bocconi_03-2021.bbl) [100
+
+] [101
 
 
 ]
@@ -1821,37 +1819,37 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1443.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1443.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1515.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1515.
 (MSMEmgmt_Bocconi_03-2021.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1443.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1443.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1515.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1515.
 
 Package rerunfilecheck Info: File `MSMEmgmt_Bocconi_03-2021.out' has not change
 d.
-(rerunfilecheck)             Checksum: 4C86DC8642AFFE89C1EF7DAC7298269D;1104.
+(rerunfilecheck)             Checksum: 240EF3980B93C1A7BF8FA266516AC931;91.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 20166 strings out of 492449
- 386943 string characters out of 3116257
- 468073 words of memory out of 3000000
- 23778 multiletter control sequences out of 15000+200000
- 41877 words of font info for 109 fonts, out of 3000000 for 9000
+ 20235 strings out of 492449
+ 387872 string characters out of 3116257
+ 468874 words of memory out of 3000000
+ 23818 multiletter control sequences out of 15000+200000
+ 42979 words of font info for 111 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 58i,16n,62p,813b,593s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 58i,16n,63p,813b,593s stack positions out of 5000i,500n,10000p,200000b,50000s
 {C:/Users/ruschenpohler/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/bas
 e/8r.enc}<C:/Users/ruschenpohler/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
 public/amsfonts/cm/cmsy10.pfb><C:/Users/ruschenpohler/AppData/Local/Programs/Mi
 KTeX 2.9/fonts/type1/urw/palatino/uplb8a.pfb><C:/Users/ruschenpohler/AppData/Lo
 cal/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><C:/Users/ruschenpo
 hler/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplri8a.pfb>
-Output written on MSMEmgmt_Bocconi_03-2021.pdf (88 pages, 2154591 bytes).
+Output written on MSMEmgmt_Bocconi_03-2021.pdf (101 pages, 2218306 bytes).
 PDF statistics:
- 1552 PDF objects out of 1728 (max. 8388607)
- 202 named destinations out of 1000 (max. 500000)
- 210 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1830 PDF objects out of 2073 (max. 8388607)
+ 230 named destinations out of 1000 (max. 500000)
+ 90 words of extra memory for PDF output out of 10000 (max. 10000000)
 

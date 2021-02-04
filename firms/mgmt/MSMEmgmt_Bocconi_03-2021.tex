@@ -39,8 +39,8 @@
 \newenvironment{stepitemize}{\begin{itemize}[<+->]}{\end{itemize} }
 \newenvironment{stepenumeratewithalert}{\begin{enumerate}[<+-| alert@+>]}{\end{enumerate}}
 \newenvironment{stepitemizewithalert}{\begin{itemize}[<+-| alert@+>]}{\end{itemize} }
-\newenvironment{itemize_3pt}{\itemize\addtolength{\itemsep}{3pt}}{\enditemize}
-\newenvironment{enumerate_3pt}{\enumerate\addtolength{\itemsep}{3pt}}{\endenumerate}
+\newenvironment{itemize_2pt}{\itemize\addtolength{\itemsep}{2pt}}{\enditemize}
+\newenvironment{enumerate_2pt}{\enumerate\addtolength{\itemsep}{2pt}}{\endenumerate}
 
 
 % Color scheme
@@ -63,6 +63,25 @@
 %\setbeamercolor{enumerate item}{fg=blue}
 %\setbeamercolor{enumerate subitem}{fg=blue}
 %\setbeamercolor{button}{bg=offwhite,fg=blue}
+
+% Create subsection transitions without subsection numbering
+\def\subsectionname{\translate{Subsection}}
+\def\insertsubsectionnumber{\arabic{subsection}}
+\setbeamertemplate{subsection page}
+{
+  %\begin{centering}
+    %{\usebeamerfont{subsection name}\usebeamercolor[fg]{subsection name}\subsectionname~\insertsubsectionnumber}
+    %\vskip1em\par
+    \begin{beamercolorbox}[sep=14pt,center]{part title}
+      \setbeamerfont{subsection title}{size=\fontsize{14}{20}\selectfont}
+      \usebeamerfont{subsection title}\insertsubsection\par
+    \end{beamercolorbox}
+  %\end{centering}
+}
+\def\subsectionpage{\usebeamertemplate*{subsection page}}
+\AtBeginSubsection
+{\frame{\subsectionpage}}
+
 
 % Font
 \usefonttheme{serif}
@@ -156,54 +175,81 @@
 
 \begin{frame}
 \frametitle{?}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item Bloom and van Reenen (2010, 2019): Business practices, motivation \citep{Bloom2010, Bloom2019}
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{Heterogeneity in Business Practices}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item Bloom and van Reenen (2010): Heterogeneity \citep{Bloom2010}
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item Bloom and van Reenen (2019): Correlation with productivity \citep{Bloom2019}
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 %---------------------
 
 \begin{frame}
 \frametitle{Business Practices in Small Firms}
-	\begin{itemize_3pt}
-	\item McKenzie and Woodruff (2009, 2017): Heterogeneity and predictiveness \citep{McKenzie2009, McKenzie2017}
-	\vspace{0.1in}
-	\end{itemize_3pt}
+
+	Vast heterogeneity in business practices \textcolor{bdf}{also among small firms} \citep{McKenzie2009, McKenzie2017}..
+	\begin{itemize_2pt}
+		\item .. between countries
+		\item .. between industries
+		\item .. between firms
+	\end{itemize_2pt}
+	
+	\vspace{0.5em}
+	
+	In cross-section, business practices \textcolor{bdf}{associated with higher sales and profits} \citep{McKenzie2017}
+	
 \end{frame}
 
 \begin{frame}
 \frametitle{Business Practices of Small Firms}
-	\begin{itemize_3pt}
-	\item McKenzie and Woodruff (2009, 2017): Example categories and practices \citep{McKenzie2009, McKenzie2017}
-	\vspace{0.1in}
-	\end{itemize_3pt}
+
+	\citet{McKenzie2017} identify \textcolor{bdf}{set of XX best practices} most closely associated with business performance
+	\begin{itemize_2pt}
+		\item 5 major domains of practices
+		\begin{enumerate_2pt}
+			\item Book-keeping
+			\item ?
+			\item ?
+			\item Inventory management and stock control
+			\item Marketing
+		\end{enumerate_2pt}
+	\item[] $\rightarrow$ Association with performance robust across industries and countries
+	\item[] $\rightarrow$
+	\end{itemize_2pt}
 \end{frame}
 
 %---------------------
 
 \begin{frame}
-\frametitle{Best Practices for Small Firms}
-	\begin{itemize_3pt}
-	\item McKenzie and Woodruff (2017): Portable best practices \citep{McKenzie2017}
-	\vspace{0.1in}
-	\end{itemize_3pt}
+\frametitle{Business Practices of Small Firms}
+	\citet{McKenzie2017} identify set of XX practices most closely associated with business performance
+	\begin{itemize_2pt}
+		\item Example practices:
+		\begin{itemize_2pt}
+			\item 
+			\item 
+			\item 
+			\item 
+			\item 
+		\end{itemize_2pt}
+	\item Does adoption of "best practices" \emph{cause} increase in performance?
+	\item How can practice adoption best be facilitated?
+	\end{itemize_2pt}
 \end{frame}
 
 
@@ -217,16 +263,16 @@
 
 \begin{frame}
 \frametitle{History and Prevalence}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 		\item At least \textcolor{bdf}{USD 1 billion per year} (to 4-5 million beneficiary entrepreneurs; \citet{McKenzie2020})
 		\item Classical training programs \emph{precede} evidence that business practices vary and are predictive for productivity
 		\item Examples:
-		\begin{itemize_3pt}
+		\begin{itemize_2pt}
 			\item Start and Improve Your Business (ILO)
 			\item Business Edge (IFC)
 			\item EMPRETEC Entrepreneurship Training Workshop (UNCTAD)
-		\end{itemize_3pt} 
-	\end{itemize_3pt}
+		\end{itemize_2pt} 
+	\end{itemize_2pt}
 \end{frame}
 
 %----------------------
@@ -234,119 +280,150 @@
 \begin{frame}
 \frametitle{Typical Training Program}
 	Content
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	%\textcolor{}{}
 	\item Training is delivered by 600 local certified trainers and by a pool of approximately 60 international master trainers. All trainers are also entrepreneurs.
 	\item Empretec Training Workshops offer different levels of instruction that include:
 	\item 6-day courses (48 hours); 32-hour (usually spread over 4 days) for micro-entrepreneurs with low levels of literacy; Interactive coaching based on real business challenges of participants.
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{Typical Training Program}
 	Delivery 
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item %\textcolor{}{}
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 %---------------------
 
 \begin{frame}
 \frametitle{Evidence on Impact}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item First wave (Karlan and Valdivia, 2011, Field, et al., 2010; Bruhn \& Zia, 2013; Bulte et al., 2017; Anderson, Chandy, and Zia, 2018)
 					 \citep{Karlan2011} \citep{Field2010} \citep{Bruhn2013} \citep{Bulte2017} \citep{Anderson2018}
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{Evidence on Impact}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item Econometric and implementation issues \citep{McKenzie2014}
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{Evidence on Impact}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item Recent evaluations (McKenzie, 2020) \citep{McKenzie2020}
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 
 \subsection{Extensions of the Classical Approach}
 
 \begin{frame}
-\frametitle{Targeted Training}
+\frametitle{Targeting Training}
 	Female entrepreneurs
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
+		\item \textcolor{bdf}{Most common type of targeted training} (potentially complementary to classical microfinance model)
 		\item Example: Gender and Enterprise Together \citep[GET Ahead, ILO;][]{Bulte2016,McKenziePuerto2020}
 		\item ?
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
-\frametitle{Targeted Training}
+\frametitle{Targeting Training}
 	Young entrepreneurs
-	\begin{itemize_3pt}
-		\item Entrepreneurship programs in school and university
+	\begin{itemize_2pt}
+		\item Typically embedded as entrepreneurship programs in school and university
 		\item Example: University final year course in Tunisia \citep{Alaref2020}
-		\item ?
-	\vspace{0.1in}
-	\end{itemize_3pt}
+		\begin{itemize_2pt}
+			\item
+			\item
+		\end{itemize_2pt}
+	\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
-\frametitle{Targeted Training}
-	\begin{itemize_3pt}
-	\item Gazelles
+\frametitle{Targeting Training}
+	High-growth businesses ("gazelles")
+	\begin{itemize_2pt}
+	\item
+	\item
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 %---------------------
 
 \begin{frame}
-\frametitle{Specific Domains}
-	\begin{itemize_3pt}
-	\item \citep{Anderson2018}
-	\vspace{0.1in}
-	\end{itemize_3pt}
+\frametitle{Training Specific Domains}
+
+	\citet{Anderson2018} assign 852 South African businesses to two distinct trainings:
+	\begin{enumerate_2pt}
+		\item Finance/accounting skills
+		\item Marketing/sales skills
+	\end{enumerate_2pt}
+
+
+\end{frame}
+
+
+\begin{frame}
+\frametitle{Training Specific Domains}
+
+	\citet{Anderson2018} assign 852 South African businesses to two distinct trainings:
+	\begin{enumerate_2pt}
+		\item Finance/accounting skills
+		\begin{itemize_2pt}
+			\item Increased profits
+			\item "Efficiency focus" on lower costs
+			\item[] $\rightarrow$ Benefits established businesses (less market exposure)
+		\end{itemize_2pt}
+		\item Marketing/sales skills
+		\begin{itemize_2pt}
+			\item Increased profits
+			\item "Growth focus" on higher sales, stock investments, and hiring
+			\item[] $\rightarrow$ Benefits new businesses (less market exposure)
+		\end{itemize_2pt}
+	\end{enumerate_2pt}
+
 \end{frame}
 
 \begin{frame}
-\frametitle{Specific Domain}
-	\begin{itemize_3pt}
+\frametitle{Training Specific Domain}
+	\begin{itemize_2pt}
 	\item \citep{Anderson2018}
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 %---------------------
 
 \begin{frame}
 \frametitle{On-site Consulting}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item Bloom, et al. (2013); Karlan et al. (2015); Bruhn, Karlan, and Schoar (2019)
 	\item Large firms: \citep{Bloom2013}; SMEs: \citep{Bruhn2018}
 	\item \citep{Karlan2015} \citep{Bruhn2019}
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{On-site Consulting}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item ?
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 %---------------------
@@ -354,48 +431,48 @@
 \begin{frame}
 \frametitle{Multimedia delivery}
 	TV shows
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item Examples: Ruka Juu in Tanzania \citep{Bjorvatn2020} and El Mashroua in Egypt \citep{Barsoum2018}
 	\item ?
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{Multimedia delivery}
 	TV shows
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item Examples: Ruka Juu in Tanzania \citep{Bjorvatn2020} and El Mashroua in Egypt \citep{Barsoum2018}
 	\item ?
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{Multimedia delivery}
 	Text messages
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item \citep{Cole2019} \citep{Acimovic2020}
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 % -----------------------
 
 \begin{frame}
 \frametitle{Complementary Constraints}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item McKenzie cash JDE paper
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{Complementary Constraints}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item McKenzie cash JDE paper
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 
@@ -403,70 +480,70 @@
 
 \begin{frame}
 \frametitle{Imprecision of Outcome Measures}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item Confidence Intervals, pic?
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{Reliability of Self-reports}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item Self-reports of aggregate \citep{deMel2009}
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{Reliability of Self-reports}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item Disaggregating quantities in self-reports \citep{deMel2009}
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{Reliability of Self-report}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item Direct measures \citep{deMel2009}
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 %---------------------
 
 \begin{frame}
 \frametitle{Sales vs. Profits}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item  \citep{deMel2009}
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{Sales vs. Profits}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item \citep{deMel2009}
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 % ---------------------
 
 \begin{frame}
 \frametitle{?}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item 
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{?}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item 
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 
@@ -474,57 +551,57 @@
 
 \begin{frame}
 \frametitle{Heterogeneity of Impact}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item Heterogeneity of treatment effects poorly understood across different approaches
 	\item Potential constraints are manifold, and likely context-dependent
 	\item Some already mentioned in passing:
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 		\item Credit constraints \citep[see, e.g.,][]{} McKenzie cash paper
 		\item Gender norms and constraints
 		\item Age-related network and knowledge/skill constraints
-	\end{itemize_3pt} 
+	\end{itemize_2pt} 
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{Education and literacy}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item Drexler, Fischer \& Schoar (2014) \citep{Drexler2014}
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{Family Commitments}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item 
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{Identity Concerns}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item 
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{Aspirations}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item 
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{Local Relevance of Best Practices}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item 
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 
@@ -532,88 +609,88 @@
 
 \begin{frame}
 \frametitle{Rules of Thumb}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item Drexler, Fischer \& Schoar (2014) \citep{Drexler2014}
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{Rules of Thumb}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item \citep{Arraiz2019} \citep{Cole2019}
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 %
 
 \begin{frame}
 \frametitle{Entrepreneurial mindset}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item \citep{Campos2017}
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{Entrepreneurial mindset}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item \citep{Alibhai2019} \citep{Ubfal2019}
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 %---------------------
 
 \begin{frame}
 \frametitle{Local Knowledge}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item Cai and Szeidl (2019), Brooks et al. (2018), Lafortune et al. (2020), Seither (2020), Abebe et al. (2020)?
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{Local Knowledge}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item Cai and Szeidl (2019), Brooks et al. (2018), Lafortune et al. (2020), Seither (2020), Abebe et al. (2020)?
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{Local Knowledge}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item Cai and Szeidl (2019), Brooks et al. (2018), Lafortune et al. (2020), Seither (2020), Abebe et al. (2020)?
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 %---------------------
 
 \begin{frame}
 \frametitle{Role Models}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item  La Ferrara et al. (2012); Chong and La Ferrara (2009); Berg and Zia (2013); Riley (2018)
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{Role Models}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item  La Ferrara et al. (2012); Chong and La Ferrara (2009); Berg and Zia (2013); Riley (2018
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{Role Models}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item  La Ferrara et al. (2012); Chong and La Ferrara (2009); Berg and Zia (2013); Riley (2018)
 	\vspace{0.1in}
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 
@@ -623,18 +700,18 @@
 
 \begin{frame}
 \frametitle{Takeaways}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
     \item
    	\vspace{0.10in}
-\end{itemize_3pt}
+\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{Questions}
 	\textcolor{bdf}{Any questions?}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item[] .. before we move on to our paper?
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 
@@ -684,202 +761,202 @@ Bilal Zia\inst{3}}
 
 \begin{frame}
 \frametitle{Background}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item Micro and small firms (MSEs) are typically the main \textcolor{bdf}{source of employment} in the developing world
 	\item In \textcolor{bdf}{Indonesia}, MSEs represent .. 
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 		\item .. 99\% of all firms
 		\item .. 94.5\% of employment
-	\end{itemize_3pt} 
+	\end{itemize_2pt} 
 	\item Understanding the factors fostering efficiency and growth of MSEs is an important research and policy goal
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \end{frame}
 
 %------------------------------------------------
 \begin{frame}
 \frametitle{A Growing Focus on Management}
-\begin{itemize_3pt}
+\begin{itemize_2pt}
 \item \textcolor{bdf}{Classroom Training}: Field, et al. (2010); Karlan \& Valdivia (2011); Bruhn \& Zia (2013); McKenzie \& Woodruff (2014, 2017); Bulte et al. (2017); Anderson, Chandy \& Zia (2018); Lafortune et al. (2018)
 \vspace{0.1in}
 \item \textcolor{bdf}{Consulting}: Bloom, et al. (2013); Karlan et al (2015); Bruhn, Karlan \& Schoar (2019)
 \vspace{0.1in}
 
 \item \textcolor{bdf}{Mobilizing Peer Knowledge}:
-    \begin{itemize_3pt}
+    \begin{itemize_2pt}
     \item Brooks et al. (2018) $\rightarrow$ Local mentors (market information)
     \item Cai \& Szeidl (2018) $\rightarrow$ Business meetings
     \item Abebe et al. (2019) $\rightarrow$ Management experience matching
-    \end{itemize_3pt}
+    \end{itemize_2pt}
     \vspace{0.1in}
-\end{itemize_3pt}
+\end{itemize_2pt}
 \end{frame}
 
 \subsection{Our Approach}
 \begin{frame}
 \frametitle{Harnessing Cross-Firm Heterogeneity}
 Some stylized facts about business practices in small firms
-\begin{itemize_3pt}
+\begin{itemize_2pt}
 	\item Vast heterogeneity in business practices and performance across similar businesses \citep{deMel2009}
 	\item Variation in practices accounts for more than 20\% of variation in productivity within the same firm in the US \citep{Bloom2019}
 	\item[] $\rightarrow$ Research has largely overlooked this heterogeneity in program design and implementation
-\end{itemize_3pt}
+\end{itemize_2pt}
 
 \vspace{0.5em}
 \pause
 
-Our idea is to \textcolor{bdf}{make productice use of this heterogeneity} in research design: 
-\begin{itemize_3pt}
+We \textcolor{bdf}{make productive use of this heterogeneity} in our research design: 
+\begin{itemize_2pt}
 	\item Use cross-firm variation to identify \textcolor{bdf}{practices associated with business performance}
-	\item \textcolor{bdf}{Curate local best practices}
+	\item \textcolor{bdf}{Curation} of local best practices
 	\item Test different \textcolor{bdf}{modes of delivery}, and their cost-effectiveness
-\end{itemize_3pt}
+\end{itemize_2pt}
 
 \end{frame}
 
 \begin{frame}
 \frametitle{Selecting Local Best Practices}
-\begin{itemize_3pt}
+\begin{itemize_2pt}
 \item Detailed \textcolor{bdf}{qualitative interviews} with local business peers:
-    \begin{itemize_3pt}
+    \begin{itemize_2pt}
     \item Understand and codify their practices (record-keeping, financial planning, stocking-up, marketing, and joint decision-making)
     \item Identify implementation norms and beliefs regarding each practice (e.g. whether they are complicated, necessary, etc.)
     \item Document locally relevant tips and rule of thumbs
-    \end{itemize_3pt}
+    \end{itemize_2pt}
 \vspace{0.1in}
 \item Baseline \textcolor{bdf}{quantitative survey}
-    \begin{itemize_3pt}
+    \begin{itemize_2pt}
     \item Measure practices and outcomes
     \item Quantitative association of business practices with profits and sales
-    \end{itemize_3pt}
-\end{itemize_3pt}
+    \end{itemize_2pt}
+\end{itemize_2pt}
 \end{frame}
 
 %
 \begin{frame}
 \frametitle{Disseminating Knowledge}
-		\begin{itemize_3pt}
+		\begin{itemize_2pt}
 		\item \textcolor{bdf}{Handbook}
-			\begin{itemize_3pt}
+			\begin{itemize_2pt}
 			\item \textcolor{bdf}{Pure information}: Which practices, how to adopt, and why?\\
             %\item \textcolor{bdf}{Positive Frame}: Retailers who implement [x] report y\% \textcolor{bdf}{higher} sales and z\% \textcolor{bdf}{higher} profits.
             %\item \textcolor{bdf}{Negative Frame}: Retailers who do \textcolor{bdf}{not} implement [x] report y\% \textcolor{bdf}{lower} sales and z\% \textcolor{bdf}{lower} profits.
-			\end{itemize_3pt}
+			\end{itemize_2pt}
 \bigskip
 Supplemented with two types of experiential learning:
 \bigskip
 		\item \textcolor{bdf}{Movie}
-			\begin{itemize_3pt}
+			\begin{itemize_2pt}
 			\item \textcolor{bdf}{Psychological and emotional involvement}$\rightarrow$ social learning is possible through \textcolor{bdf}{observing the successful experience of similar others}.
 			\item Bernard, et al. (2014); La Ferrara et al. (2012); Chong and La Ferrara (2009); Berg and Zia (2013).\\
-			\end{itemize_3pt}
+			\end{itemize_2pt}
 
 \bigskip
 		\item \textcolor{bdf}{On-site Assistance}
-			\begin{itemize_3pt}
+			\begin{itemize_2pt}
 			\item \textcolor{bdf}{Hands-on involvement} $\rightarrow$ social learning is possible through own \textcolor{bdf}{experience, with a small nudge} (Kolb, 1984).
 			\item Facilitated by local lay person
-			\end{itemize_3pt}
+			\end{itemize_2pt}
 			\vspace{0.05in}
 %\bigskip
 %			$\rightarrow$ Horse race between role models and business counseling.
-		\end{itemize_3pt}
+		\end{itemize_2pt}
 
 \end{frame}
 
 
 \begin{frame}
 \frametitle{Research Questions}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	%\item \textcolor{bdf}{Local characterization}
 	%\vspace{0.05in}
-	%	\begin{itemize_3pt}
+	%	\begin{itemize_2pt}
 	%	\item Which practices are associated with high profits?
 	%	\item How do successful businesses implement them?
-	%	\end{itemize_3pt}
+	%	\end{itemize_2pt}
 	%\vspace{0.05in}
 	\item \textcolor{bdf}{Adoption}
-		\begin{itemize_3pt}
+		\begin{itemize_2pt}
 		\item Do retailers adopt these practices once peer best practices are aggregated and made common knowledge?
 		\item If so, ...
-			\begin{itemize_3pt}
+			\begin{itemize_2pt}
 			\item Does the type of experiential involvement matter?
-			\end{itemize_3pt}
-		\end{itemize_3pt}
+			\end{itemize_2pt}
+		\end{itemize_2pt}
     \vspace{0.3in}
 	\item \textcolor{bdf}{Impact}
-		\begin{itemize_3pt}
+		\begin{itemize_2pt}
 		\item Does firm profitability increase?
 		\item If so, what are the channels?
-		\end{itemize_3pt}
-	\end{itemize_3pt}
+		\end{itemize_2pt}
+	\end{itemize_2pt}
 \end{frame}
 
 \subsection{Data and Design}
 
 \begin{frame}
 \frametitle{Sample}
-\begin{itemize_3pt}
+\begin{itemize_2pt}
 \item Listing of 2042 small retail businesses from 29 administrative communities (Kelurahan) in urban Jakarta
 \item Selection criteria for firm listing:
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 %	\item General willingness to grow
 	\item At least 4$m^{2}$ in size
 	\item At least two different product categories on offer
 	\item At least 30 meters distance to next business in sample $\rightarrow$ to minimize spillovers
-	\end{itemize_3pt}
+	\end{itemize_2pt}
 \item Random sample of 1301 from the list
 \item Randomization to treatment arms stratified by
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 	\item Gender
 	\item Firm space (4-6$m^2$, 6-10$m^2$, 10 and above $m^2$)
 	\item Composite score of business practices above or below median
 	\item Kelurahan
-	\end{itemize_3pt}
-\end{itemize_3pt}
+	\end{itemize_2pt}
+\end{itemize_2pt}
 \end{frame}
 
 
 \begin{frame}
 \frametitle{Experimental Design}
-	\begin{itemize_3pt}
+	\begin{itemize_2pt}
 %    \item \textcolor{bdf}{Same set of business practices} across treatments \\
 	\item Three types of information provision:
 	\vspace{0.05in}
-		\begin{itemize_3pt}
+		\begin{itemize_2pt}
 		\item \textcolor{bdf}{Handbook} with best practices and tips
 		\item \textcolor{bdf}{Movie} with successful peers
 		\item Best-practice on-site implementation \textcolor{bdf}{assistance}
-		\end{itemize_3pt}
+		\end{itemize_2pt}
 	\vspace{0.05in}
-\end{itemize_3pt}
-	\begin{itemize_3pt}
+\end{itemize_2pt}
+	\begin{itemize_2pt}
 \item{Five experimental groups}
-        %\begin{itemize_3pt}
+        %\begin{itemize_2pt}
         %\item{Handbooks (N=1040)}
         %: Positive Framing (N=520) and Negative Framing (N=520)}\\
 	\vspace{0.05in}
-            \begin{enumerate_3pt}
+            \begin{enumerate_2pt}
               \item \textcolor{bdf}{Handbook} only (N=260)
               \item \textcolor{bdf}{Handbook} and invitation to \textcolor{bdf}{movie} screening (N=260)
               \item \textcolor{bdf}{Handbook} and offer of two \textcolor{bdf}{assistance} visits (N=260)
               \item \textcolor{bdf}{Handbook} and both \textcolor{bdf}{movie} and \textcolor{bdf}{assistance} (N=260)
               \item Control (N=261)
-            \end{enumerate_3pt}
-        \end{itemize_3pt}
-    %\end{itemize_3pt}
+            \end{enumerate_2pt}
+        \end{itemize_2pt}
+    %\end{itemize_2pt}
 \end{frame}
 
 
 \begin{frame}
 \frametitle{Timeline}
-\begin{enumerate_3pt}
+\begin{enumerate_2pt}
     \item September 2015: \textcolor{bdf}{Qualitative} Interviews
     \item January 2016: \textcolor{bdf}{Firm listing} ($\rightarrow$ survey instrument)
     \item Feb-Apr 2016: \textcolor{bdf}{Baseline} survey
     \item Oct-Nov 2016: \textcolor{bdf}{Interventions}
     \item Apr-May 2017: \textcolor{bdf}{Midline} survey
     \item Apr-May 2018: \textcolor{bdf}{Endline} survey
-\end{enumerate_3pt}
+\end{enumerate_2pt}
 \end{frame}
 
 
@@ -1044,9 +1121,9 @@ Management Practices Aggregate Score											& 0.37	&& 0.36	&& 0.37	&& 0.35	&&
 		%\end{adjustbox}	
 		
 	\end{table}}}
-\begin{itemize_3pt}
+\begin{itemize_2pt}
 \item Test of Joint Orthoganality from Multinomial Logit (P-value): 0.857
-\end{itemize_3pt}
+\end{itemize_2pt}
 \end{frame}
 
 
@@ -1186,10 +1263,10 @@ F-tests (p-value):							&			&&			&&			&&			\\
 	\end{tabular}
 %\end{adjustbox}
 \end{table}}}
-\begin{itemize_3pt}
+\begin{itemize_2pt}
 \item Multiple hypothesis testing corrected p-values in parentheses
 \item "All Three" improvement of 28 \% in record-keeping, 17 \% in planning, 11 \% in stocking, 24 \% in marketing and 22 \% in joint decision making.
-\end{itemize_3pt}
+\end{itemize_2pt}
 \end{frame}
 
 
@@ -1242,9 +1319,9 @@ F-tests (p-value):											&&			&&			\\
 %\end{adjustbox}
 
 \end{table}}}
-\begin{itemize_3pt}
+\begin{itemize_2pt}
 \item Profits increase by 35\% (about 0.28 sd.) - ITT.
-\end{itemize_3pt}
+\end{itemize_2pt}
 \end{frame}
 
 
@@ -1299,17 +1376,17 @@ F-tests (p-value):											&&			&&			\\
 %\end{adjustbox}
 
 \end{table}}}
-\begin{itemize_3pt}
+\begin{itemize_2pt}
 \item Sales increase by 16\% (about 0.15 sd.) - ITT %- and 31\% (0.28 sd.) - TOT.
-\end{itemize_3pt}
+\end{itemize_2pt}
 \end{frame}
 
 
 \begin{frame}
 \frametitle{Other Outcomes}
-\begin{itemize_3pt}
+\begin{itemize_2pt}
 \item \textcolor{bdf}{No significant} impacts on:
-    \begin{itemize_3pt}
+    \begin{itemize_2pt}
     \vspace{0.1in}
     \item Business expenses
     \vspace{0.1in} 		
@@ -1320,16 +1397,16 @@ F-tests (p-value):											&&			&&			\\
     \item Number of customers
        \vspace{0.1in}
      \item Business credit
-    \end{itemize_3pt}
-\end{itemize_3pt}
+    \end{itemize_2pt}
+\end{itemize_2pt}
 \end{frame}
 
 \subsection{Discussion}
 \begin{frame}
 \frametitle{Efficiency Gains?}
-Unpacking impacts on business practices $\rightarrow$ \textcolor{bdf}{efficiency practices}:
+Impact on business practices $\rightarrow$ \textcolor{bdf}{efficiency practices}:
 \vspace{0.1in}
-\begin{itemize_3pt}
+\begin{itemize_2pt}
 	\item Adjust stocks based on product profitability
 	\item Negotiate lower prices with suppliers
 	\item Consult with former customers
@@ -1337,75 +1414,71 @@ Unpacking impacts on business practices $\rightarrow$ \textcolor{bdf}{efficiency
 	\item Make joint decisions
 	\item Review performance to identify ways to improve
 	\item Make anticipated budget for upcoming costs
-	\vspace{0.1in}
 
 	\pause
 	
 	\item[] $\rightarrow$ \textcolor{bdf}{Non-record-keeping practices}
-	\vspace{0.1in}
-	
-	\pause
-	
 	\item[] $\rightarrow$ Causal-mediation analysis: \textcolor{bdf}{Stocking up and marketing practices} drive performance effects
-	
-	\pause
-	
 	\item[] $\rightarrow$ Variance in profits among treated firms does not converge
-	
 	\item[] $\rightarrow$ \textcolor{bdf}{Efficiency gains}
-\end{itemize_3pt}
+\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
-\frametitle{Knowledge or Aspirations?}
-\begin{itemize_3pt}
-\item Our interventions could have increased business performance and practice adoption through an increase in business aspirations rather than (or on top of) business knowledge.
-\vspace{0.1in}
-\item We directly measure business aspirations at baseline, midline, and endline for all shop owners in the sample.
-\vspace{0.1in}
-\item We elicit short (one year) and long-term (ideal) aspirations on various business dimensions:
-\vspace{0.1in}
-    \begin{itemize_3pt}
-    \item sales
-    \item shop size
-    \item number of customers
-    \item number of employees
-    \end{itemize_3pt}
-\vspace{0.1in}
-\item No treatment effects on aspirations
-\vspace{0.1in}
-\end{itemize_3pt}
-$\rightarrow$ \textcolor{bdf}{Knowledge}
+\frametitle{Business Knowledge or Aspirations?}
+Impact on practice adoption and business performance may work through ..
+\begin{itemize_2pt}
+	\item .. acquisition of \textcolor{bdf}{business knowledge} and/or
+	\item .. strengthening of \textcolor{bdf}{business aspirations}
+\end{itemize_2pt}
+
+\vspace{0.5em}
+
+We directly measure business aspirations .. 
+\begin{itemize_2pt}
+	\item .. at baseline, midline, and endline
+	\item .. for short (one year) and long ("ideal business") time horizons
+	\item .. for various dimensions of potential business expansion
+    \begin{itemize_2pt}
+   		\item Sales on a normal day
+    	\item Physical size
+   		\item Customers on a normal day
+    	\item Employees
+    \end{itemize_2pt}
+\item[] $\rightarrow$ \textcolor{bdf}{No impact on aspirations}
+\item[] $\rightarrow$ Performance likely driven by increase in \textcolor{bdf}{business knowledge}
+\end{itemize_2pt}
+
 \end{frame}
 
 \begin{frame}
 \frametitle{Business Stealing?}
 Do treated businesses improve performance at the expense of the control?
 \vspace{0.1in}
-\begin{itemize_3pt}
+\begin{itemize_2pt}
 \item Sales and profits of \textcolor{bdf}{control businesses do not decrease} from baseline to endline (roughly equal)
 \item Sales and profits of control businesses \textcolor{bdf}{closer to treated shops do not decrease by more} than those further away
 \item[] $\rightarrow$ \textcolor{bdf}{No evidence for business stealing}
-\end{itemize_3pt}
+\end{itemize_2pt}
 \end{frame}
 
 \begin{frame}
 \frametitle{Cost-Effectiveness}
 
 \textcolor{bdf}{Small costs (per firm)}:
-\begin{itemize_3pt}
+\begin{itemize_2pt}
 \item Cost Handbook alone: USD 100
 \item Cost Handbook \& Movie: USD 125
 \item Cost Handbook \& Assistance: USD 125
 \item Cost Handbook \& Movie \& Assistance: USD 150
-\end{itemize_3pt}
+\end{itemize_2pt}
 \vspace{0.5em}
 
 \textcolor{bdf}{Substantial Benefits}
-\begin{itemize_3pt}
+\begin{itemize_2pt}
 \item Up to USD 330 per month in profits
 \item Adoption of top practices by retailers
-\end{itemize_3pt}
+\end{itemize_2pt}
 
 \vspace{0.5em}
 Research design likely \textcolor{bdf}{scalable and portable}
@@ -1415,23 +1488,22 @@ Research design likely \textcolor{bdf}{scalable and portable}
 \subsection{Conclusion}
 \begin{frame}
 \frametitle{Takeaways}
-\begin{itemize_3pt}
+\begin{itemize_2pt}
     \item \textcolor{bdf}{Curating local knowledge has value for business growth} 
     \item Information alone does not have impact, only combined with \textcolor{bdf}{behavioral interventions}
     \item Mechanism likely \textcolor{bdf}{knowledge-based}, not aspirations-based
 	\item Behavioral interventions are \textcolor{bdf}{inexpensive and scalable}
-	\vspace{-0.5em}
-	\item[] $\rightarrow$  Attractive for policy!
+	\item[] $\rightarrow$  Attractive for policy
     
-\end{itemize_3pt}
+\end{itemize_2pt}
 \end{frame}
 
 
-%\addtocontents{toc}{\protect\setcounter{tocdepth}{0}}
+\addtocontents{toc}{\protect\setcounter{tocdepth}{0}}
 
-%\section*{\textbf{APPENDIX}}
+\section*{\textbf{APPENDIX}}
 
-%\subsection{References}
+\subsection*{References}
 \begin{frame}[allowframebreaks]
 \frametitle{References}
 
