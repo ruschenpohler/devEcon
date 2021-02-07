@@ -14,5 +14,4 @@
 \beamer@subsectionintoc {2}{3}{Data and Design}{72}{0}{2}
 \beamer@subsectionintoc {2}{4}{Results}{83}{0}{2}
 \beamer@subsectionintoc {2}{5}{Discussion}{91}{0}{2}
-\beamer@subsectionintoc {2}{6}{Conclusion}{97}{0}{2}
-\setcounter {tocdepth}{0}
+\beamer@subsectionintoc {2}{6}{Conclusion}{98}{0}{2}
