@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2021.2.4)  8 FEB 2021 22:25
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2021.2.4)  8 FEB 2021 23:00
 entering extended mode
 **./MSMEmgmt_Bocconi_03-2021.tex
 (MSMEmgmt_Bocconi_03-2021.tex
@@ -1531,9 +1531,20 @@ Package natbib Warning: Citation `deMel2009' on page 39 undefined on input line
 
 ] [43
 
-] [44
+]
+<pics/McK2017_educ.png, id=782, 795.47188pt x 330.23375pt>
+File: pics/McK2017_educ.png Graphic file (type png)
+<use pics/McK2017_educ.png>
+Package pdftex.def Info: pics/McK2017_educ.png  used on input line 655.
+(pdftex.def)             Requested size: 295.64992pt x 122.73381pt.
 
-] [45
+Overfull \hbox (4.90729pt too wide) in paragraph at lines 655--655
+ [] 
+ []
+
+[44
+
+ <./pics/McK2017_educ.png>] [45
 
 ] [46
 
@@ -1547,36 +1558,36 @@ Package natbib Warning: Citation `deMel2009' on page 39 undefined on input line
 
 ] [51
 
-]
-
-Package natbib Warning: Citation `Arraiz2019' on page 52 undefined on input lin
-e 719.
-
-
-Package natbib Warning: Citation `Cole2019' on page 52 undefined on input line 
-719.
-
-[52
+] [52
 
 ]
 
-Package natbib Warning: Citation `Campos2017' on page 53 undefined on input lin
-e 729.
+Package natbib Warning: Citation `Arraiz2019' on page 53 undefined on input lin
+e 742.
+
+
+Package natbib Warning: Citation `Cole2019' on page 53 undefined on input line 
+742.
 
 [53
 
 ]
 
-Package natbib Warning: Citation `Alibhai2019' on page 54 undefined on input li
-ne 737.
-
-
-Package natbib Warning: Citation `Ubfal2019' on page 54 undefined on input line
- 737.
+Package natbib Warning: Citation `Campos2017' on page 54 undefined on input lin
+e 752.
 
 [54
 
-] [55
+]
+
+Package natbib Warning: Citation `Alibhai2019' on page 55 undefined on input li
+ne 760.
+
+
+Package natbib Warning: Citation `Ubfal2019' on page 55 undefined on input line
+ 760.
+
+[55
 
 ] [56
 
@@ -1594,21 +1605,21 @@ Package natbib Warning: Citation `Ubfal2019' on page 54 undefined on input line
 
 ] [63
 
+] [64
+
 ]
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 828.
+(hyperref)                setting the option has no effect on input line 851.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                \hskip 10.95pt
-(hyperref)                replaced by space on input line 838.
+(hyperref)                replaced by space on input line 861.
 
-[64
+[65
 
-] (MSMEmgmt_Bocconi_03-2021.toc) [65
-
-] [66
+] (MSMEmgmt_Bocconi_03-2021.toc) [66
 
 ] [67
 
@@ -1616,29 +1627,29 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 
 ] [69
 
-]
-
-Package natbib Warning: Citation `deMel2009' on page 70 undefined on input line
- 909.
-
-
-Package natbib Warning: Citation `Bloom2019' on page 70 undefined on input line
- 909.
-
-[70
+] [70
 
 ]
 
 Package natbib Warning: Citation `deMel2009' on page 71 undefined on input line
- 909.
+ 932.
 
 
 Package natbib Warning: Citation `Bloom2019' on page 71 undefined on input line
- 909.
+ 932.
 
 [71
 
-] [72
+]
+
+Package natbib Warning: Citation `deMel2009' on page 72 undefined on input line
+ 932.
+
+
+Package natbib Warning: Citation `Bloom2019' on page 72 undefined on input line
+ 932.
+
+[72
 
 ] [73
 
@@ -1652,79 +1663,81 @@ Package natbib Warning: Citation `Bloom2019' on page 71 undefined on input line
 
 ] [78
 
+] [79
+
 ]
-<pics/retailer1.jpg, id=1308, 722.7pt x 465.4188pt>
+<pics/retailer1.jpg, id=1326, 722.7pt x 465.4188pt>
 File: pics/retailer1.jpg Graphic file (type jpg)
 <use pics/retailer1.jpg>
-Package pdftex.def Info: pics/retailer1.jpg  used on input line 1059.
+Package pdftex.def Info: pics/retailer1.jpg  used on input line 1082.
 (pdftex.def)             Requested size: 289.07999pt x 186.16422pt.
- [79
+ [80
 
  <./pics/retailer1.jpg>]
-<pics/retailer2.jpg, id=1325, 722.7pt x 542.025pt>
+<pics/retailer2.jpg, id=1342, 722.7pt x 542.025pt>
 File: pics/retailer2.jpg Graphic file (type jpg)
 <use pics/retailer2.jpg>
-Package pdftex.def Info: pics/retailer2.jpg  used on input line 1070.
+Package pdftex.def Info: pics/retailer2.jpg  used on input line 1093.
 (pdftex.def)             Requested size: 289.07999pt x 216.80615pt.
 pdfTeX warning (ext4): destination with the same identifier (name{height}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1070 \end{frame}
+l.1093 \end{frame}
                   
-Overfull \vbox (21.39702pt too high) detected at line 1070
+Overfull \vbox (21.39702pt too high) detected at line 1093
  []
 
-[80
+[81
 
  <./pics/retailer2.jpg>]
-<pics/handbook.jpg, id=1340, 963.6pt x 542.025pt>
+<pics/handbook.jpg, id=1357, 963.6pt x 542.025pt>
 File: pics/handbook.jpg Graphic file (type jpg)
 <use pics/handbook.jpg>
-Package pdftex.def Info: pics/handbook.jpg  used on input line 1082.
+Package pdftex.def Info: pics/handbook.jpg  used on input line 1105.
 (pdftex.def)             Requested size: 289.07999pt x 162.60048pt.
 pdfTeX warning (ext4): destination with the same identifier (name{height}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1082 \end{frame}
-                   [81
+l.1105 \end{frame}
+                   [82
 
  <./pics/handbook.jpg>]
-<pics/Handbook_return.jpg, id=1355, 351.3125pt x 352.81813pt>
+<pics/Handbook_return.jpg, id=1372, 351.3125pt x 352.81813pt>
 File: pics/Handbook_return.jpg Graphic file (type jpg)
 <use pics/Handbook_return.jpg>
-Package pdftex.def Info: pics/Handbook_return.jpg  used on input line 1093.
+Package pdftex.def Info: pics/Handbook_return.jpg  used on input line 1116.
 (pdftex.def)             Requested size: 187.90244pt x 188.71545pt.
 pdfTeX warning (ext4): destination with the same identifier (name{height}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1093 \end{frame}
-                   [82
+l.1116 \end{frame}
+                   [83
 
  <./pics/Handbook_return.jpg>]
-<pics/Handbook_stepbystep.jpg, id=1370, 351.81438pt x 263.98625pt>
+<pics/Handbook_stepbystep.jpg, id=1387, 351.81438pt x 263.98625pt>
 File: pics/Handbook_stepbystep.jpg Graphic file (type jpg)
 <use pics/Handbook_stepbystep.jpg>
-Package pdftex.def Info: pics/Handbook_stepbystep.jpg  used on input line 1105.
+Package pdftex.def Info: pics/Handbook_stepbystep.jpg  used on input line 1128.
 
 (pdftex.def)             Requested size: 187.90244pt x 140.99156pt.
 pdfTeX warning (ext4): destination with the same identifier (name{height}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1105 \end{frame}
-                   [83
+l.1128 \end{frame}
+                   [84
 
  <./pics/Handbook_stepbystep.jpg>]
-<pics/movie.jpg, id=1385, 963.6pt x 475.011pt>
+<pics/movie.jpg, id=1402, 963.6pt x 475.011pt>
 File: pics/movie.jpg Graphic file (type jpg)
 <use pics/movie.jpg>
-Package pdftex.def Info: pics/movie.jpg  used on input line 1115.
+Package pdftex.def Info: pics/movie.jpg  used on input line 1138.
 (pdftex.def)             Requested size: 317.98755pt x 156.74686pt.
 
-Overfull \hbox (27.24492pt too wide) in paragraph at lines 1115--1115
+Overfull \hbox (27.24492pt too wide) in paragraph at lines 1138--1138
  [] 
  []
 
@@ -1732,87 +1745,85 @@ pdfTeX warning (ext4): destination with the same identifier (name{height}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1115 \end{frame}
-                   [84
+l.1138 \end{frame}
+                   [85
 
  <./pics/movie.jpg>]
-<pics/Assistance_expl.jpg, id=1400, 963.6pt x 1284.8pt>
+<pics/Assistance_expl.jpg, id=1418, 963.6pt x 1284.8pt>
 File: pics/Assistance_expl.jpg Graphic file (type jpg)
 <use pics/Assistance_expl.jpg>
-Package pdftex.def Info: pics/Assistance_expl.jpg  used on input line 1126.
+Package pdftex.def Info: pics/Assistance_expl.jpg  used on input line 1149.
 (pdftex.def)             Requested size: 144.54pt x 192.71169pt.
 pdfTeX warning (ext4): destination with the same identifier (name{height}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1126 \end{frame}
+l.1149 \end{frame}
                   
-Overfull \vbox (1.34993pt too high) detected at line 1126
+Overfull \vbox (1.34993pt too high) detected at line 1149
  []
 
-[85
+[86
 
- <./pics/Assistance_expl.jpg>] [86
+ <./pics/Assistance_expl.jpg>] [87
 
 ]
-Overfull \hbox (87.0581pt too wide) in paragraph at lines 1220--1220
+Overfull \hbox (87.0581pt too wide) in paragraph at lines 1243--1243
  [] 
  []
 
 
-Overfull \vbox (60.10437pt too high) detected at line 1220
- []
-
-[87
-
-]
-Overfull \hbox (13.36705pt too wide) in paragraph at lines 1262--1262
- [] 
+Overfull \vbox (60.10437pt too high) detected at line 1243
  []
 
 [88
 
 ]
-Overfull \hbox (4.99135pt too wide) in paragraph at lines 1309--1309
+Overfull \hbox (13.36705pt too wide) in paragraph at lines 1285--1285
  [] 
  []
 
 [89
 
 ]
-Overfull \hbox (78.51213pt too wide) in paragraph at lines 1363--1363
+Overfull \hbox (4.99135pt too wide) in paragraph at lines 1332--1332
  [] 
- []
-
-
-Overfull \vbox (41.26512pt too high) detected at line 1363
  []
 
 [90
 
 ]
-Overfull \hbox (0.20694pt too wide) in paragraph at lines 1418--1418
+Overfull \hbox (78.51213pt too wide) in paragraph at lines 1386--1386
  [] 
  []
 
 
-Overfull \vbox (99.66508pt too high) detected at line 1418
+Overfull \vbox (41.26512pt too high) detected at line 1386
  []
 
 [91
 
 ]
-Overfull \hbox (0.20694pt too wide) in paragraph at lines 1475--1475
+Overfull \hbox (0.20694pt too wide) in paragraph at lines 1441--1441
  [] 
  []
 
 
-Overfull \vbox (111.54007pt too high) detected at line 1475
+Overfull \vbox (99.66508pt too high) detected at line 1441
  []
 
 [92
 
-] [93
+]
+Overfull \hbox (0.20694pt too wide) in paragraph at lines 1498--1498
+ [] 
+ []
+
+
+Overfull \vbox (111.54007pt too high) detected at line 1498
+ []
+
+[93
 
 ] [94
 
@@ -1832,25 +1843,27 @@ Overfull \vbox (111.54007pt too high) detected at line 1475
 
 ] [102
 
+] [103
+
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\translate ' on input line 1602.
+(hyperref)                removing `\translate ' on input line 1625.
 
 (MSMEmgmt_Bocconi_03-2021.bbl
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\translate ' on input line 10.
 
-) [103
+) [104
 
 ]
-<pics/McK2020_sales.png, id=1668, 525.965pt x 374.39874pt>
+<pics/McK2020_sales.png, id=1685, 525.965pt x 374.39874pt>
 File: pics/McK2020_sales.png Graphic file (type png)
 <use pics/McK2020_sales.png>
-Package pdftex.def Info: pics/McK2020_sales.png  used on input line 1633.
+Package pdftex.def Info: pics/McK2020_sales.png  used on input line 1656.
 (pdftex.def)             Requested size: 254.03989pt x 180.83478pt.
- [104
+ [105
 
  <./pics/McK2020_sales.png>]
 \tf@nav=\write6
@@ -1866,25 +1879,25 @@ Package pdftex.def Info: pics/McK2020_sales.png  used on input line 1633.
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1636.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1636.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1659.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1659.
 (MSMEmgmt_Bocconi_03-2021.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1636.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1636.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1659.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1659.
 
 Package rerunfilecheck Info: File `MSMEmgmt_Bocconi_03-2021.out' has not change
 d.
-(rerunfilecheck)             Checksum: F632E82BE795035059713DD60F1EF3A4;1208.
+(rerunfilecheck)             Checksum: 859568DADB79F7A97C045D876EF566CD;1208.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 20333 strings out of 492520
- 389266 string characters out of 3117330
- 465910 words of memory out of 3000000
- 23831 multiletter control sequences out of 15000+200000
+ 20345 strings out of 492520
+ 389563 string characters out of 3117330
+ 466065 words of memory out of 3000000
+ 23839 multiletter control sequences out of 15000+200000
  43279 words of font info for 112 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,16n,63p,815b,593s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -1905,9 +1918,9 @@ X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ruschenpohler/AppData
 npohler/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplr8a.pfb><
 C:/Users/ruschenpohler/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palati
 no/uplri8a.pfb>
-Output written on MSMEmgmt_Bocconi_03-2021.pdf (104 pages, 2296421 bytes).
+Output written on MSMEmgmt_Bocconi_03-2021.pdf (105 pages, 2442372 bytes).
 PDF statistics:
- 1753 PDF objects out of 2073 (max. 8388607)
- 244 named destinations out of 1000 (max. 500000)
- 236 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 1771 PDF objects out of 2073 (max. 8388607)
+ 247 named destinations out of 1000 (max. 500000)
+ 241 words of extra memory for PDF output out of 10000 (max. 10000000)
 

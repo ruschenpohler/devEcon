@@ -4,14 +4,14 @@
 \beamer@subsectionintoc {1}{3}{Extensions of the Classical Approach}{24}{0}{1}
 \beamer@subsectionintoc {1}{4}{Measurement of Firm Performance}{33}{0}{1}
 \beamer@subsectionintoc {1}{5}{Mechanisms}{42}{0}{1}
-\beamer@subsectionintoc {1}{6}{Alternative Approaches}{50}{0}{1}
+\beamer@subsectionintoc {1}{6}{Alternative Approaches}{51}{0}{1}
 \setcounter {tocdepth}{0}
-\beamer@subsectionintoc {1}{7}{Takeaways}{61}{0}{1}
+\beamer@subsectionintoc {1}{7}{Takeaways}{62}{0}{1}
 \setcounter {tocdepth}{99}
-\beamer@sectionintoc {2}{\textbf {PART II: Paper} \\ \hskip 1em\relax \emph {Curating Local Knowledge}}{64}{0}{2}
-\beamer@subsectionintoc {2}{1}{Motivation}{66}{0}{2}
-\beamer@subsectionintoc {2}{2}{Our Approach}{69}{0}{2}
-\beamer@subsectionintoc {2}{3}{Data and Design}{75}{0}{2}
-\beamer@subsectionintoc {2}{4}{Results}{86}{0}{2}
-\beamer@subsectionintoc {2}{5}{Discussion}{94}{0}{2}
-\beamer@subsectionintoc {2}{6}{Conclusion}{101}{0}{2}
+\beamer@sectionintoc {2}{\textbf {PART II: Paper} \\ \hskip 1em\relax \emph {Curating Local Knowledge}}{65}{0}{2}
+\beamer@subsectionintoc {2}{1}{Motivation}{67}{0}{2}
+\beamer@subsectionintoc {2}{2}{Our Approach}{70}{0}{2}
+\beamer@subsectionintoc {2}{3}{Data and Design}{76}{0}{2}
+\beamer@subsectionintoc {2}{4}{Results}{87}{0}{2}
+\beamer@subsectionintoc {2}{5}{Discussion}{95}{0}{2}
+\beamer@subsectionintoc {2}{6}{Conclusion}{102}{0}{2}
