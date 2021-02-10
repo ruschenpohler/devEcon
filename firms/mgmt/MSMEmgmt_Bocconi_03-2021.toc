@@ -1,17 +1,17 @@
 \beamer@sectionintoc {1}{\textbf {PART I: Lecture} \\ \hskip 1em\relax \emph {Business Practices and Training}}{1}{0}{1}
 \beamer@subsectionintoc {1}{1}{Business Practices Around the World}{3}{0}{1}
-\beamer@subsectionintoc {1}{2}{Classical MSME Training}{11}{0}{1}
-\beamer@subsectionintoc {1}{3}{Extensions of the Classical Approach}{25}{0}{1}
-\beamer@subsectionintoc {1}{4}{Measurement of Firm Performance}{35}{0}{1}
-\beamer@subsectionintoc {1}{5}{Mechanisms}{44}{0}{1}
-\beamer@subsectionintoc {1}{6}{Alternative Approaches}{53}{0}{1}
+\beamer@subsectionintoc {1}{2}{Classical MSME Training}{12}{0}{1}
+\beamer@subsectionintoc {1}{3}{Extensions of the Classical Approach}{26}{0}{1}
+\beamer@subsectionintoc {1}{4}{Measurement of Firm Performance}{36}{0}{1}
+\beamer@subsectionintoc {1}{5}{Mechanisms}{45}{0}{1}
+\beamer@subsectionintoc {1}{6}{Alternative Approaches}{54}{0}{1}
 \setcounter {tocdepth}{0}
-\beamer@subsectionintoc {1}{7}{Takeaways}{64}{0}{1}
+\beamer@subsectionintoc {1}{7}{Takeaways}{65}{0}{1}
 \setcounter {tocdepth}{99}
-\beamer@sectionintoc {2}{\textbf {PART II: Paper} \\ \hskip 1em\relax \emph {Curating Local Knowledge}}{67}{0}{2}
-\beamer@subsectionintoc {2}{1}{Motivation}{69}{0}{2}
-\beamer@subsectionintoc {2}{2}{Our Approach}{72}{0}{2}
-\beamer@subsectionintoc {2}{3}{Data and Design}{78}{0}{2}
-\beamer@subsectionintoc {2}{4}{Results}{89}{0}{2}
-\beamer@subsectionintoc {2}{5}{Discussion}{97}{0}{2}
-\beamer@subsectionintoc {2}{6}{Conclusion}{104}{0}{2}
+\beamer@sectionintoc {2}{\textbf {PART II: Paper} \\ \hskip 1em\relax \emph {Curating Local Knowledge}}{68}{0}{2}
+\beamer@subsectionintoc {2}{1}{Motivation}{70}{0}{2}
+\beamer@subsectionintoc {2}{2}{Our Approach}{73}{0}{2}
+\beamer@subsectionintoc {2}{3}{Data and Design}{79}{0}{2}
+\beamer@subsectionintoc {2}{4}{Results}{90}{0}{2}
+\beamer@subsectionintoc {2}{5}{Discussion}{98}{0}{2}
+\beamer@subsectionintoc {2}{6}{Conclusion}{105}{0}{2}
