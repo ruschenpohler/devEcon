@@ -2,16 +2,16 @@
 \beamer@subsectionintoc {1}{1}{Business Practices Around the World}{3}{0}{1}
 \beamer@subsectionintoc {1}{2}{Classical MSME Training}{12}{0}{1}
 \beamer@subsectionintoc {1}{3}{Extensions of the Classical Approach}{26}{0}{1}
-\beamer@subsectionintoc {1}{4}{Measurement of Firm Performance}{36}{0}{1}
-\beamer@subsectionintoc {1}{5}{Mechanisms}{46}{0}{1}
-\beamer@subsectionintoc {1}{6}{Alternative Approaches}{55}{0}{1}
+\beamer@subsectionintoc {1}{4}{Measuring Firm Performance}{36}{0}{1}
+\beamer@subsectionintoc {1}{5}{Mechanisms}{47}{0}{1}
+\beamer@subsectionintoc {1}{6}{Alternative Approaches}{56}{0}{1}
 \setcounter {tocdepth}{0}
-\beamer@subsectionintoc {1}{7}{Takeaways}{66}{0}{1}
+\beamer@subsectionintoc {1}{7}{Takeaways}{67}{0}{1}
 \setcounter {tocdepth}{99}
-\beamer@sectionintoc {2}{\textbf {PART II: Paper} \\ \hskip 1em\relax \emph {Curating Local Knowledge}}{69}{0}{2}
-\beamer@subsectionintoc {2}{1}{Motivation}{71}{0}{2}
-\beamer@subsectionintoc {2}{2}{Our Approach}{74}{0}{2}
-\beamer@subsectionintoc {2}{3}{Data and Design}{80}{0}{2}
-\beamer@subsectionintoc {2}{4}{Results}{91}{0}{2}
-\beamer@subsectionintoc {2}{5}{Discussion}{99}{0}{2}
-\beamer@subsectionintoc {2}{6}{Conclusion}{106}{0}{2}
+\beamer@sectionintoc {2}{\textbf {PART II: Paper} \\ \hskip 1em\relax \emph {Curating Local Knowledge}}{70}{0}{2}
+\beamer@subsectionintoc {2}{1}{Motivation}{72}{0}{2}
+\beamer@subsectionintoc {2}{2}{Our Approach}{75}{0}{2}
+\beamer@subsectionintoc {2}{3}{Data and Design}{81}{0}{2}
+\beamer@subsectionintoc {2}{4}{Results}{92}{0}{2}
+\beamer@subsectionintoc {2}{5}{Discussion}{100}{0}{2}
+\beamer@subsectionintoc {2}{6}{Conclusion}{107}{0}{2}

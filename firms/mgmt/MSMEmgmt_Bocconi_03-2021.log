@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2021.2.4)  11 FEB 2021 00:10
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2021.2.4)  11 FEB 2021 21:20
 entering extended mode
 **./MSMEmgmt_Bocconi_03-2021.tex
 (MSMEmgmt_Bocconi_03-2021.tex
@@ -1351,11 +1351,15 @@ Package pdftex.def Info: pics/McKenzie2017_het.png  used on input line 233.
 
  <./pics/McKenzie2017_het.png>]
 LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 267.
+(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 265.
 
 
 Package natbib Warning: Citation `Bloom2016' on page 9 undefined on input line 
-267.
+265.
+
+
+Package natbib Warning: Citation `Quinn2019' on page 9 undefined on input line 
+265.
 
 [9
 
@@ -1364,11 +1368,11 @@ Package natbib Warning: Citation `Bloom2016' on page 9 undefined on input line
 ]
 
 Package natbib Warning: Citation `Bloom2016' on page 11 undefined on input line
- 302.
+ 300.
 
 
 Package natbib Warning: Citation `Bloom2019' on page 11 undefined on input line
- 302.
+ 300.
 
 [11
 
@@ -1377,7 +1381,7 @@ Package natbib Warning: Citation `Bloom2019' on page 11 undefined on input line
 ]
 
 Package natbib Warning: Citation `McKenzie2020' on page 13 undefined on input l
-ine 322.
+ine 320.
 
 [13
 
@@ -1388,19 +1392,19 @@ ine 322.
 ]
 
 Package natbib Warning: Citation `Karlan2011' on page 16 undefined on input lin
-e 355.
+e 353.
 
 
 Package natbib Warning: Citation `Field2010' on page 16 undefined on input line
- 355.
+ 353.
 
 
 Package natbib Warning: Citation `Gine2014' on page 16 undefined on input line 
-355.
+353.
 
 
 Package natbib Warning: Citation `Bulte2017' on page 16 undefined on input line
- 355.
+ 353.
 
 [16
 
@@ -1409,12 +1413,12 @@ Package natbib Warning: Citation `Bulte2017' on page 16 undefined on input line
 ]
 
 Package natbib Warning: Citation `McKenzie2020' on page 18 undefined on input l
-ine 390.
+ine 388.
 
 <pics/McK2020_profits.png, id=378, 529.47812pt x 359.84438pt>
 File: pics/McK2020_profits.png Graphic file (type png)
 <use pics/McK2020_profits.png>
-Package pdftex.def Info: pics/McK2020_profits.png  used on input line 390.
+Package pdftex.def Info: pics/McK2020_profits.png  used on input line 388.
 (pdftex.def)             Requested size: 235.42493pt x 160.0012pt.
 [18
 
@@ -1423,45 +1427,45 @@ Package pdftex.def Info: pics/McK2020_profits.png  used on input line 390.
 ]
 
 Package natbib Warning: Citation `Bulte2016' on page 20 undefined on input line
- 431.
+ 429.
 
 
 Package natbib Warning: Citation `McKenziePuerto2020' on page 20 undefined on i
-nput line 431.
+nput line 429.
 
 
 Package natbib Warning: Citation `Bernhardt2019' on page 20 undefined on input 
-line 431.
+line 429.
 
 
 Package natbib Warning: Citation `deMel2009' on page 20 undefined on input line
- 431.
+ 429.
 
 [20
 
 ]
 
 Package natbib Warning: Citation `Alaref2020' on page 21 undefined on input lin
-e 444.
+e 442.
 
 [21
 
 ]
 
 Package natbib Warning: Citation `McKenzie2017a' on page 22 undefined on input 
-line 454.
+line 452.
 
 
 Package natbib Warning: Citation `Cusolito2020' on page 22 undefined on input l
-ine 454.
+ine 452.
 
 
 Package natbib Warning: Citation `Gonzalez-Uribe2017' on page 22 undefined on i
-nput line 454.
+nput line 452.
 
 
 Package natbib Warning: Citation `Gonzalez-Uribe2020' on page 22 undefined on i
-nput line 454.
+nput line 452.
 
 [22
 
@@ -1476,69 +1480,69 @@ nput line 454.
 ]
 
 Package natbib Warning: Citation `Anderson2020' on page 27 undefined on input l
-ine 539.
+ine 537.
 
 
 Package natbib Warning: Citation `Karlan2015' on page 27 undefined on input lin
-e 539.
+e 537.
 
 
 Package natbib Warning: Citation `Bruhn2019' on page 27 undefined on input line
- 539.
+ 537.
 
 
 Package natbib Warning: Citation `Anderson2020' on page 27 undefined on input l
-ine 539.
+ine 537.
 
 
 Package natbib Warning: Citation `Maffioli2020' on page 27 undefined on input l
-ine 539.
+ine 537.
 
 [27
 
 ]
 
 Package natbib Warning: Citation `Anderson2020' on page 28 undefined on input l
-ine 539.
+ine 537.
 
 
 Package natbib Warning: Citation `Karlan2015' on page 28 undefined on input lin
-e 539.
+e 537.
 
 
 Package natbib Warning: Citation `Bruhn2019' on page 28 undefined on input line
- 539.
+ 537.
 
 
 Package natbib Warning: Citation `Anderson2020' on page 28 undefined on input l
-ine 539.
+ine 537.
 
 
 Package natbib Warning: Citation `Maffioli2020' on page 28 undefined on input l
-ine 539.
+ine 537.
 
 [28
 
 ]
 
 Package natbib Warning: Citation `Anderson2020' on page 29 undefined on input l
-ine 539.
+ine 537.
 
 
 Package natbib Warning: Citation `Karlan2015' on page 29 undefined on input lin
-e 539.
+e 537.
 
 
 Package natbib Warning: Citation `Bruhn2019' on page 29 undefined on input line
- 539.
+ 537.
 
 
 Package natbib Warning: Citation `Anderson2020' on page 29 undefined on input l
-ine 539.
+ine 537.
 
 
 Package natbib Warning: Citation `Maffioli2020' on page 29 undefined on input l
-ine 539.
+ine 537.
 
 [29
 
@@ -1547,37 +1551,50 @@ ine 539.
 ]
 
 Package natbib Warning: Citation `Bjorvatn2020' on page 31 undefined on input l
-ine 566.
+ine 564.
 
 
 Package natbib Warning: Citation `Barsoum2018' on page 31 undefined on input li
-ne 566.
+ne 564.
 
 [31
 
 ]
 
 Package natbib Warning: Citation `Bjorvatn2020' on page 32 undefined on input l
-ine 576.
+ine 574.
 
 
 Package natbib Warning: Citation `Barsoum2018' on page 32 undefined on input li
-ne 576.
+ne 574.
 
 [32
 
 ]
 
 Package natbib Warning: Citation `Cole2019' on page 33 undefined on input line 
-585.
+583.
 
 
 Package natbib Warning: Citation `Acimovic2020' on page 33 undefined on input l
-ine 585.
+ine 583.
 
 [33
 
-] [34
+]
+
+Package natbib Warning: Citation `Gine2021' on page 34 undefined on input line 
+596.
+
+
+Package natbib Warning: Citation `Berge2015' on page 34 undefined on input line
+ 596.
+
+
+Package natbib Warning: Citation `deMel2014' on page 34 undefined on input line
+ 596.
+
+[34
 
 ] [35
 
@@ -1597,47 +1614,60 @@ l.623 \end{frame}
 
 ]
 
+Package natbib Warning: Citation `Garlick2019' on page 38 undefined on input li
+ne 632.
+
+
 Package natbib Warning: Citation `deMel2009' on page 38 undefined on input line
- 631.
+ 632.
+
+
+Package natbib Warning: Citation `Bernhardt2019' on page 38 undefined on input 
+line 632.
 
 [38
 
 ]
 
 Package natbib Warning: Citation `deMel2009' on page 39 undefined on input line
- 639.
+ 640.
 
 [39
 
 ]
 
 Package natbib Warning: Citation `deMel2009' on page 40 undefined on input line
- 647.
+ 648.
 
 [40
 
 ]
 
 Package natbib Warning: Citation `deMel2009' on page 41 undefined on input line
- 657.
+ 656.
 
 [41
 
 ]
 
 Package natbib Warning: Citation `deMel2009' on page 42 undefined on input line
- 665.
+ 666.
 
 [42
 
 ]
 
-Package natbib Warning: Citation `Fafchamps2012' on page 43 undefined on input 
-line 674.
+Package natbib Warning: Citation `deMel2009' on page 43 undefined on input line
+ 674.
 
 [43
 
-] [44
+]
+
+Package natbib Warning: Citation `Fafchamps2012' on page 44 undefined on input 
+line 683.
+
+[44
 
 ] [45
 
@@ -1645,22 +1675,22 @@ line 674.
 
 ] [47
 
+] [48
+
 ]
-<pics/McK2017_educ.png, id=853, 795.47188pt x 330.23375pt>
+<pics/McK2017_educ.png, id=868, 795.47188pt x 330.23375pt>
 File: pics/McK2017_educ.png Graphic file (type png)
 <use pics/McK2017_educ.png>
-Package pdftex.def Info: pics/McK2017_educ.png  used on input line 739.
+Package pdftex.def Info: pics/McK2017_educ.png  used on input line 748.
 (pdftex.def)             Requested size: 295.64992pt x 122.73381pt.
 
-Overfull \hbox (4.90729pt too wide) in paragraph at lines 739--739
+Overfull \hbox (4.90729pt too wide) in paragraph at lines 748--748
  [] 
  []
 
-[48
+[49
 
- <./pics/McK2017_educ.png>] [49
-
-] [50
+ <./pics/McK2017_educ.png>] [50
 
 ] [51
 
@@ -1674,36 +1704,36 @@ Overfull \hbox (4.90729pt too wide) in paragraph at lines 739--739
 
 ] [56
 
-]
-
-Package natbib Warning: Citation `Arraiz2019' on page 57 undefined on input lin
-e 826.
-
-
-Package natbib Warning: Citation `Cole2019' on page 57 undefined on input line 
-826.
-
-[57
+] [57
 
 ]
 
-Package natbib Warning: Citation `Campos2017' on page 58 undefined on input lin
-e 836.
+Package natbib Warning: Citation `Arraiz2019' on page 58 undefined on input lin
+e 835.
+
+
+Package natbib Warning: Citation `Cole2019' on page 58 undefined on input line 
+835.
 
 [58
 
 ]
 
-Package natbib Warning: Citation `Alibhai2019' on page 59 undefined on input li
-ne 844.
-
-
-Package natbib Warning: Citation `Ubfal2019' on page 59 undefined on input line
- 844.
+Package natbib Warning: Citation `Campos2017' on page 59 undefined on input lin
+e 845.
 
 [59
 
-] [60
+]
+
+Package natbib Warning: Citation `Alibhai2019' on page 60 undefined on input li
+ne 853.
+
+
+Package natbib Warning: Citation `Ubfal2019' on page 60 undefined on input line
+ 853.
+
+[60
 
 ] [61
 
@@ -1721,56 +1751,56 @@ Package natbib Warning: Citation `Ubfal2019' on page 59 undefined on input line
 
 ] [68
 
+] [69
+
 ]
 
 Package hyperref Warning: Option `pdfauthor' has already been used,
-(hyperref)                setting the option has no effect on input line 935.
+(hyperref)                setting the option has no effect on input line 944.
 
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                \hskip 10.95pt
-(hyperref)                replaced by space on input line 945.
+(hyperref)                replaced by space on input line 954.
 
-[69
+[70
 
-] (MSMEmgmt_Bocconi_03-2021.toc) [70
-
-] [71
+] (MSMEmgmt_Bocconi_03-2021.toc) [71
 
 ] [72
 
-]
-
-Package natbib Warning: Citation `Karlan2011' on page 73 undefined on input lin
-e 995.
-
-[73
-
-] [74
+] [73
 
 ]
 
-Package natbib Warning: Citation `deMel2009' on page 75 undefined on input line
- 1017.
+Package natbib Warning: Citation `Karlan2011' on page 74 undefined on input lin
+e 1004.
 
+[74
 
-Package natbib Warning: Citation `Bloom2019' on page 75 undefined on input line
- 1017.
-
-[75
+] [75
 
 ]
 
 Package natbib Warning: Citation `deMel2009' on page 76 undefined on input line
- 1017.
+ 1026.
 
 
 Package natbib Warning: Citation `Bloom2019' on page 76 undefined on input line
- 1017.
+ 1026.
 
 [76
 
-] [77
+]
+
+Package natbib Warning: Citation `deMel2009' on page 77 undefined on input line
+ 1026.
+
+
+Package natbib Warning: Citation `Bloom2019' on page 77 undefined on input line
+ 1026.
+
+[77
 
 ] [78
 
@@ -1784,79 +1814,81 @@ Package natbib Warning: Citation `Bloom2019' on page 76 undefined on input line
 
 ] [83
 
+] [84
+
 ]
-<pics/retailer1.jpg, id=1397, 722.7pt x 465.4188pt>
+<pics/retailer1.jpg, id=1412, 722.7pt x 465.4188pt>
 File: pics/retailer1.jpg Graphic file (type jpg)
 <use pics/retailer1.jpg>
-Package pdftex.def Info: pics/retailer1.jpg  used on input line 1167.
+Package pdftex.def Info: pics/retailer1.jpg  used on input line 1176.
 (pdftex.def)             Requested size: 289.07999pt x 186.16422pt.
- [84
+ [85
 
  <./pics/retailer1.jpg>]
-<pics/retailer2.jpg, id=1413, 722.7pt x 542.025pt>
+<pics/retailer2.jpg, id=1429, 722.7pt x 542.025pt>
 File: pics/retailer2.jpg Graphic file (type jpg)
 <use pics/retailer2.jpg>
-Package pdftex.def Info: pics/retailer2.jpg  used on input line 1178.
+Package pdftex.def Info: pics/retailer2.jpg  used on input line 1187.
 (pdftex.def)             Requested size: 289.07999pt x 216.80615pt.
 pdfTeX warning (ext4): destination with the same identifier (name{height}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1178 \end{frame}
+l.1187 \end{frame}
                   
-Overfull \vbox (21.39702pt too high) detected at line 1178
+Overfull \vbox (21.39702pt too high) detected at line 1187
  []
 
-[85
+[86
 
  <./pics/retailer2.jpg>]
-<pics/handbook.jpg, id=1429, 963.6pt x 542.025pt>
+<pics/handbook.jpg, id=1444, 963.6pt x 542.025pt>
 File: pics/handbook.jpg Graphic file (type jpg)
 <use pics/handbook.jpg>
-Package pdftex.def Info: pics/handbook.jpg  used on input line 1190.
+Package pdftex.def Info: pics/handbook.jpg  used on input line 1199.
 (pdftex.def)             Requested size: 289.07999pt x 162.60048pt.
 pdfTeX warning (ext4): destination with the same identifier (name{height}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1190 \end{frame}
-                   [86
+l.1199 \end{frame}
+                   [87
 
  <./pics/handbook.jpg>]
-<pics/Handbook_return.jpg, id=1444, 351.3125pt x 352.81813pt>
+<pics/Handbook_return.jpg, id=1459, 351.3125pt x 352.81813pt>
 File: pics/Handbook_return.jpg Graphic file (type jpg)
 <use pics/Handbook_return.jpg>
-Package pdftex.def Info: pics/Handbook_return.jpg  used on input line 1201.
+Package pdftex.def Info: pics/Handbook_return.jpg  used on input line 1210.
 (pdftex.def)             Requested size: 187.90244pt x 188.71545pt.
 pdfTeX warning (ext4): destination with the same identifier (name{height}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1201 \end{frame}
-                   [87
+l.1210 \end{frame}
+                   [88
 
  <./pics/Handbook_return.jpg>]
-<pics/Handbook_stepbystep.jpg, id=1459, 351.81438pt x 263.98625pt>
+<pics/Handbook_stepbystep.jpg, id=1474, 351.81438pt x 263.98625pt>
 File: pics/Handbook_stepbystep.jpg Graphic file (type jpg)
 <use pics/Handbook_stepbystep.jpg>
-Package pdftex.def Info: pics/Handbook_stepbystep.jpg  used on input line 1213.
+Package pdftex.def Info: pics/Handbook_stepbystep.jpg  used on input line 1222.
 
 (pdftex.def)             Requested size: 187.90244pt x 140.99156pt.
 pdfTeX warning (ext4): destination with the same identifier (name{height}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1213 \end{frame}
-                   [88
+l.1222 \end{frame}
+                   [89
 
  <./pics/Handbook_stepbystep.jpg>]
-<pics/movie.jpg, id=1474, 963.6pt x 475.011pt>
+<pics/movie.jpg, id=1489, 963.6pt x 475.011pt>
 File: pics/movie.jpg Graphic file (type jpg)
 <use pics/movie.jpg>
-Package pdftex.def Info: pics/movie.jpg  used on input line 1223.
+Package pdftex.def Info: pics/movie.jpg  used on input line 1232.
 (pdftex.def)             Requested size: 317.98755pt x 156.74686pt.
 
-Overfull \hbox (27.24492pt too wide) in paragraph at lines 1223--1223
+Overfull \hbox (27.24492pt too wide) in paragraph at lines 1232--1232
  [] 
  []
 
@@ -1864,87 +1896,85 @@ pdfTeX warning (ext4): destination with the same identifier (name{height}) has
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1223 \end{frame}
-                   [89
+l.1232 \end{frame}
+                   [90
 
  <./pics/movie.jpg>]
-<pics/Assistance_expl.jpg, id=1489, 963.6pt x 1284.8pt>
+<pics/Assistance_expl.jpg, id=1504, 963.6pt x 1284.8pt>
 File: pics/Assistance_expl.jpg Graphic file (type jpg)
 <use pics/Assistance_expl.jpg>
-Package pdftex.def Info: pics/Assistance_expl.jpg  used on input line 1234.
+Package pdftex.def Info: pics/Assistance_expl.jpg  used on input line 1243.
 (pdftex.def)             Requested size: 144.54pt x 192.71169pt.
 pdfTeX warning (ext4): destination with the same identifier (name{height}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
-l.1234 \end{frame}
+l.1243 \end{frame}
                   
-Overfull \vbox (1.34993pt too high) detected at line 1234
+Overfull \vbox (1.34993pt too high) detected at line 1243
  []
 
-[90
+[91
 
- <./pics/Assistance_expl.jpg>] [91
+ <./pics/Assistance_expl.jpg>] [92
 
 ]
-Overfull \hbox (87.0581pt too wide) in paragraph at lines 1328--1328
+Overfull \hbox (87.0581pt too wide) in paragraph at lines 1337--1337
  [] 
  []
 
 
-Overfull \vbox (60.10437pt too high) detected at line 1328
- []
-
-[92
-
-]
-Overfull \hbox (13.36705pt too wide) in paragraph at lines 1370--1370
- [] 
+Overfull \vbox (60.10437pt too high) detected at line 1337
  []
 
 [93
 
 ]
-Overfull \hbox (4.99135pt too wide) in paragraph at lines 1417--1417
+Overfull \hbox (13.36705pt too wide) in paragraph at lines 1379--1379
  [] 
  []
 
 [94
 
 ]
-Overfull \hbox (78.51213pt too wide) in paragraph at lines 1471--1471
+Overfull \hbox (4.99135pt too wide) in paragraph at lines 1426--1426
  [] 
- []
-
-
-Overfull \vbox (41.26512pt too high) detected at line 1471
  []
 
 [95
 
 ]
-Overfull \hbox (0.20694pt too wide) in paragraph at lines 1526--1526
+Overfull \hbox (78.51213pt too wide) in paragraph at lines 1480--1480
  [] 
  []
 
 
-Overfull \vbox (99.66508pt too high) detected at line 1526
+Overfull \vbox (41.26512pt too high) detected at line 1480
  []
 
 [96
 
 ]
-Overfull \hbox (0.20694pt too wide) in paragraph at lines 1583--1583
+Overfull \hbox (0.20694pt too wide) in paragraph at lines 1535--1535
  [] 
  []
 
 
-Overfull \vbox (111.54007pt too high) detected at line 1583
+Overfull \vbox (99.66508pt too high) detected at line 1535
  []
 
 [97
 
-] [98
+]
+Overfull \hbox (0.20694pt too wide) in paragraph at lines 1592--1592
+ [] 
+ []
+
+
+Overfull \vbox (111.54007pt too high) detected at line 1592
+ []
+
+[98
 
 ] [99
 
@@ -1964,25 +1994,27 @@ Overfull \vbox (111.54007pt too high) detected at line 1583
 
 ] [107
 
+] [108
+
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
-(hyperref)                removing `\translate ' on input line 1710.
+(hyperref)                removing `\translate ' on input line 1719.
 
 (MSMEmgmt_Bocconi_03-2021.bbl
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\translate ' on input line 10.
 
-) [108
+) [109
 
 ]
-<pics/McK2020_sales.png, id=1757, 525.965pt x 374.39874pt>
+<pics/McK2020_sales.png, id=1773, 525.965pt x 374.39874pt>
 File: pics/McK2020_sales.png Graphic file (type png)
 <use pics/McK2020_sales.png>
-Package pdftex.def Info: pics/McK2020_sales.png  used on input line 1741.
+Package pdftex.def Info: pics/McK2020_sales.png  used on input line 1750.
 (pdftex.def)             Requested size: 254.03989pt x 180.83478pt.
- [109
+ [110
 
  <./pics/McK2020_sales.png>]
 \tf@nav=\write6
@@ -1998,25 +2030,25 @@ Package pdftex.def Info: pics/McK2020_sales.png  used on input line 1741.
 
 Package natbib Warning: There were undefined citations.
 
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1744.
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 1744.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 1753.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 1753.
 (MSMEmgmt_Bocconi_03-2021.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1744.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1744.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 1753.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 1753.
 
 Package rerunfilecheck Info: File `MSMEmgmt_Bocconi_03-2021.out' has not change
 d.
-(rerunfilecheck)             Checksum: 2704108A8EB2118ACDE77797761DF904;1208.
+(rerunfilecheck)             Checksum: F06FCCA245D18B28A78C6A92075EECF0;1204.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 20379 strings out of 492520
- 390142 string characters out of 3117330
- 466337 words of memory out of 3000000
- 23855 multiletter control sequences out of 15000+200000
+ 20383 strings out of 492520
+ 390183 string characters out of 3117330
+ 466359 words of memory out of 3000000
+ 23857 multiletter control sequences out of 15000+200000
  47157 words of font info for 121 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,16n,63p,815b,593s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -2038,9 +2070,9 @@ chenpohler/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pf
 b><C:/Users/ruschenpohler/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/pal
 atino/uplr8a.pfb><C:/Users/ruschenpohler/AppData/Local/Programs/MiKTeX 2.9/font
 s/type1/urw/palatino/uplri8a.pfb>
-Output written on MSMEmgmt_Bocconi_03-2021.pdf (109 pages, 2532291 bytes).
+Output written on MSMEmgmt_Bocconi_03-2021.pdf (110 pages, 2535480 bytes).
 PDF statistics:
- 1850 PDF objects out of 2073 (max. 8388607)
- 256 named destinations out of 1000 (max. 500000)
+ 1865 PDF objects out of 2073 (max. 8388607)
+ 258 named destinations out of 1000 (max. 500000)
  246 words of extra memory for PDF output out of 10000 (max. 10000000)
 
