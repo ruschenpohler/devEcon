@@ -44,6 +44,7 @@
 \definecolor{bdf}{rgb}{0.19, 0.55, 0.91}
 \definecolor{offwhite}{RGB}{255,253,243}
 \definecolor{red}{RGB}{213,94,0}
+\definecolor{camel}{rgb}{0.76, 0.6, 0.42}
 %#09BADB #DB1A71
 
 \usetheme[right]{Berkeley}
@@ -108,9 +109,17 @@
 \setbeamerfont{author in sidebar}{}
 \setbeamerfont{itemize/enumerate body}{size={\fontsize{9.5}{9.5}}}
 \setbeamerfont{itemize/enumerate subbody}{size={\fontsize{8}{8}}}
+\setbeamerfont{itemize/enumerate subsubbody}{size={\fontsize{7}{7}}}
 %\setbeamerfont{itemize/enumerate subbody}{family=\sffamily}
 \setbeamerfont{button}{size={\fontsize{8}{8}}}
 \linespread{1.25}
+
+\hypersetup{
+	colorlinks,
+    linkcolor= black, % internal links
+    citecolor= camel, % citations
+    urlcolor= black % external links/urls
+}
 
 
 % Page number and navigation
@@ -161,75 +170,151 @@
 \end{frame}
 
 
-\subsection{Business Practices Around the World}
+\subsection{Business Practices and Productivity}
+
 
 \begin{frame}
-\frametitle{Business Practices in Large Companies}
-	\begin{itemize_2pt}
-	\item Bloom and van Reenen (2010, 2019): Business practices, motivation \citep{Bloom2010, Bloom2019}
-	\vspace{0.1in}
-	\end{itemize_2pt}
+\frametitle{Dispersion of Business Practices}
+
+Stylized facts about firms
+\begin{table}[ht]
+\small
+\begin{center}
+\begin{tabular}{| c | c | c | c | c | c |}
+\hline
+Large \textcolor{cerulean}{country-level} 	& Large \textcolor{cerulean}{country-level} 	\\
+heterogeneity 			& heterogeneity 		\\
+in \textcolor{bdf}{productivity} 		& in \textcolor{bdf}{mgmt quality}	 	\\
+\hline
+Large \textcolor{cerulean}{firm-level} 		& Large \textcolor{cerulean}{firm-level} 		\\
+heterogeneity			& heterogeneity 		\\
+in \textcolor{bdf}{productivity}      	& in \textcolor{bdf}{mgmt quality} \\
+\hline
+\end{tabular}
+\end{center}
+\end{table}
+
 \end{frame}
 
+
 \begin{frame}
-\frametitle{Business Practices in Large Companies}
-	\begin{itemize_2pt}
-	\item Bloom and van Reenen (2010): Heterogeneity across mid-sized and large firms \citep{Bloom2010, Bloom2016, Bloom2019}
-	\end{itemize_2pt}
+\frametitle{Dispersion of Business Practices}
+
+Mid-sized and large companies
+
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=17.4em]{pics/Bloom2010_mgmtdispersion.png}
+	\label{Bloom(2010): Mgmt practices}
+\end{figure}
+
+\vspace{-1.0em}	
+
+\begin{itemize_2pt}
+	\item Heterogeneity in mgmt practices across mid-sized and large firms \citep{Bloom2007, Bloom2010, Syverson2011}
+\end{itemize_2pt}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{Dispersion of Business Practices}
+
+Public-sector companies
+
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=17.4em]{pics/Bloom2015_mgmtdispersion.png}
+	\label{Bloom(2015): Mgmt practices}
+\end{figure}
+
+\vspace{-1.0em}
+
+\begin{itemize_2pt}
+	\item Heterogeneity in mgmt practices across schools \citep{Bloom2015} and hospitals \citep{Bloom2020}
+\end{itemize_2pt}
+\end{frame}
+
+
+\begin{frame}
+\frametitle{Dispersion of Business Practices}
+
+Small firms
+
+\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=20em]{pics/McKenzie2017_mgmtdispersion.png}
+	\label{McKenzie(2017): Mgmt practices}
+\end{figure}
+
+\vspace{-1.0em}
+
+\begin{itemize_2pt}
+	\item Heterogeneity in business practices across micro and small enterprises \citep{McKenzie2017}
+\end{itemize_2pt}
 \end{frame}
 
 
 %---------------------
 
 \begin{frame}
-\frametitle{Business Practices in Small Firms}
+\frametitle{Characterization of Business Practices}
 
-	\citet{McKenzie2017} develop measurement instrument of \textcolor{bdf}{26 business practices} 
-	\begin{itemize_2pt}
-		\item Administered in \textcolor{bdf}{7 countries} in Asia, Africa, and South America
+Set of general best practices for small firms
+
+\begin{itemize_2pt}
+	\item \citet{McKenzie2017} identify set of \textcolor{bdf}{26 business practices} most closely associated with business performance
 		
-\vspace{0.5em}		
-		
-		\item 4 major domains of business practices
+	\begin{itemize_2pt}	
+	\vspace{0.5em}
+	
+		\item Validated in \textcolor{bdf}{7 countries} in Asia, Africa, and South America
+
+		\item \textcolor{bdf}{4 major domains} of business practices
 		\begin{enumerate_2pt}
 			\item Book-keeping and accounting
 			\item Financial planning
 			\item Inventory management and stock control
 			\item Marketing
-		\end{enumerate_2pt}
-	\item[] $\rightarrow$ \textcolor{bdf}{Vast heterogeneity} in business practices \citep[comp.][]{Bloom2010}
-	\item[] $\rightarrow$ \textcolor{bdf}{Strong persistent component} one year out ($r=0.59$)
+		\end{enumerate_2pt}	
+		
+		\vspace{0.5em}	
+		
+		\item[] $\rightarrow$ \textcolor{bdf}{Strong persistent component} at one-year endline ($r=0.59$)
 	\end{itemize_2pt}
+	
+\end{itemize_2pt}
+
 \end{frame}
 
 
 \begin{frame}
-\frametitle{Business Practices in Small Firms}
-	\citet{McKenzie2017} identify set of XX practices most closely associated with business performance
-	\begin{itemize_2pt}
+\frametitle{Characterization of Business Practices}
+	
+\begin{itemize_2pt}
+	\item \citet{McKenzie2017} identify set of \textcolor{bdf}{26 business practices} most closely associated with business performance
+		
+	\begin{itemize_2pt}	
+	\vspace{0.5em}
+	
 		\item Example practices:
+		
 		\begin{enumerate_2pt}
 			\item e.g., 
 			\item e.g., 
 			\item e.g., 
 			\item e.g.,  
-		\end{enumerate_2pt}
+		\end{enumerate_2pt}		
+		
+		\vspace{0.5em}	
+		
 	\end{itemize_2pt}
-\end{frame}
+	
+\item[] $\rightarrow$ How exactly should we think about business practices translating into performance gains?
+		
 
-
-\begin{frame}
-\frametitle{Business Practices in Small Firms}
-
-\begin{figure}[htbp]
-	\centering
-	\includegraphics[width=23em]{pics/McKenzie2017_het.png}
-	\label{McKenzie(2017): Heterogeneity}
-\end{figure}
-
-\begin{itemize_2pt}
-	\item Hetereogeneity in business practices of MSEs across countries \citep{McKenzie2017}
-\end{itemize_2pt}
+	
+\end{itemize_2pt}	
+	
 \end{frame}
 
 
@@ -247,9 +332,11 @@ Standard Production Decision
 		
 		\begin{itemize_2pt}
 			\item[] .. where $\textcolor{bdf}{L}$ is labor, $\textcolor{bdf}{M}$ is materials, and $\textcolor{bdf}{K}$ is capital.
-			\item[] .. where $\textcolor{red}{p}$ is the output price, $\textcolor{red}{w}$ the cost of labor, $\textcolor{red}{s}$ the cost of raw materials, and $\textcolor{red}{r}$ cost of capital
+			\item[] .. where $\textcolor{red}{w}$ the cost of labor, $\textcolor{red}{s}$ the cost of raw materials, $\textcolor{red}{r}$ cost of capital, and $\textcolor{red}{p}$ is the output price
 			\item[] .. where $\textcolor{red}{A}$ represents a productivity factor and \textcolor{red}{$\lambda$} parameterizes borrowing constraints
 		\end{itemize_2pt}	
+		
+		\pause
 		
 		\vspace{0.5em}	
 		
@@ -267,15 +354,25 @@ Standard Production Decision
 \begin{frame}
 \frametitle{Business Practices in the Production Decision}
 
-Further potential channels of impact
-\begin{enumerate_2pt}
-	\item Better negotiation practices may affect raw material prices $\textcolor{red}{s}$
-	\item Record-keeping and financial planning practices may affect borrowing constraints $\textcolor{red}{\lambda}$ through banks' willingness to lend \citep[see, e.g.,][]{Bruhn2013} %Bruhn JDEff 2013 Stimulating managerial capital young entrepreneurs Bosnia
-	\item Marketing practices may affect output price $\textcolor{red}{p}$ by changing demand
+Standard Production Decision
+\begin{itemize_2pt}
+	\item \tiny Owner maximizes output $Y = f(\textcolor{red}{A}, \textcolor{bdf}{L, M, K})$ at given wealth $\textcolor{red}{W}$:	
+		
+	\item[] $\boxed{ \begin{aligned} \max _{\textcolor{bdf}{K, M, L}} &\{\textcolor{red}{p} \text{ } f(\textcolor{red}{A}, \textcolor{bdf}{L, M, K})-\textcolor{red}{w} \textcolor{bdf}{L}-\textcolor{red}{s} \textcolor{bdf}{M}-\textcolor{red}{r} \textcolor{bdf}{K}\} \end{aligned} }$
+	\item[] $\boxed{ \begin{aligned} \text{s.t.} &\ \textcolor{red}{w} \textcolor{bdf}{L}+\textcolor{red}{s} \textcolor{bdf}{M}+\textcolor{red}{r} \textcolor{bdf}{K} \leq \textcolor{red}{\lambda} \textcolor{red}{W} \end{aligned} }$
+		
+	\vspace{0.5em}	
 
-	\item[] $\rightarrow$ Plausible association between business practices and revenues, profits, and business growth
-	\item[] $\rightarrow$ Prices ($\textcolor{red}{p}$, $\textcolor{red}{s}$, and $\textcolor{red}{p_{B}}$) and inputs ($\textcolor{bdf}{K}$, $\textcolor{bdf}{L}$, and $\textcolor{bdf}{M}$) likely endogenous to business practices $\textcolor{bdf}{B}$
-\end{enumerate_2pt}
+	\item \normalsize Further specific channels of impact
+	\begin{enumerate_2pt}
+		\item Better negotiation practices may affect raw material prices $\textcolor{red}{s}$
+		\item Record-keeping and financial planning practices may affect borrowing constraints $\textcolor{red}{\lambda}$ through banks' willingness to lend \citep[see, e.g.,][]{Bruhn2013}
+		\item Marketing practices may affect output price $\textcolor{red}{p}$ by changing demand
+
+		\item[] $\rightarrow$ Plausible association between business practices and revenues, profits, and business growth
+		\item[] $\rightarrow$ Prices ($\textcolor{red}{p}$, $\textcolor{red}{s}$, and $\textcolor{red}{p_{B}}$) and inputs ($\textcolor{bdf}{K}$, $\textcolor{bdf}{L}$, and $\textcolor{bdf}{M}$) likely endogenous to business practices $\textcolor{bdf}{B}$
+	\end{enumerate_2pt}
+\end{itemize_2pt}
 
 \end{frame}
 
@@ -285,8 +382,8 @@ Further potential channels of impact
 \frametitle{Business Practices and Performance}
 	\begin{itemize_2pt}
 	\item Using panel data and a model that treats managerial capital as technology, \citet{Bloom2016} find differences in management practices account for about 30\% of cross-country TFP differences
-	\item Bloom and van Reenen (2019): Correlation with productivity across mid-sized and large firms \citep{Bloom2019}
-	\item McKenzie2017: \textcolor{bdf}{Robust association with performance and firm survival} across industries and contexts in small firms
+	\item Correlation with productivity in mid-sized and large firms \citep{Bloom2019}
+	\item \textcolor{bdf}{Robust association with performance and firm survival} across industries and contexts in small firms \citep{McKenzie2017}
 	\end{itemize_2pt}
 	
 \vspace{0.1in}	
@@ -305,7 +402,7 @@ Further potential channels of impact
 \begin{frame}
 \frametitle{History and Prevalence}
 	\begin{itemize_2pt}
-		\item At least \textcolor{bdf}{USD 1 billion per year} (to 4-5 million entrepreneurs; \citet{McKenzie2020})
+		\item At least \textcolor{bdf}{USD 1 billion per year} (to 4-5 million entrepreneurs; \citet{McKenzie2021})
 		\item Classical training programs \emph{precede} evidence that business practices vary and are predictive for productivity
 		
 		\vspace{0.5em}		
@@ -329,6 +426,21 @@ Further potential channels of impact
 	\item \textcolor{red}{Training is delivered by 600 local certified trainers and by a pool of approximately 60 international master trainers. All trainers are also entrepreneurs.
 	\item Empretec Training Workshops offer different levels of instruction that include:
 	\item 6-day courses (48 hours); 32-hour (usually spread over 4 days) for micro-entrepreneurs with low levels of literacy; Interactive coaching based on real business challenges of participants.}
+	\end{itemize_2pt}
+\end{frame}
+
+\begin{frame}
+\frametitle{Typical Training Program}
+	Demand for business training
+	
+	\begin{figure}[htbp]
+	\centering
+	\includegraphics[width=17em]{pics/Maffioli2020_demand.png}
+	\label{Maffioli(2020): Demand}
+\end{figure}
+
+	\begin{itemize_2pt}
+	\item Demand curve for business training in Jamaica: $\sim$60-70\% willing to pay half, $\sim$10\% full price \citep{Maffioli2020}
 	\end{itemize_2pt}
 \end{frame}
 
@@ -363,7 +475,7 @@ Further potential channels of impact
 \begin{frame}[label=McK2020_profits]
 \frametitle{Impact on Performance}
 	
-	Including more recent evaluations \citep[see,][]{McKenzie2020}
+	Including more recent evaluations \citep[see,][]{McKenzie2021}
 	
 \vspace{-0.5em}	
 	
@@ -421,7 +533,7 @@ Further potential channels of impact
 	Female entrepreneurs
 	\begin{itemize_2pt}
 		\item \textcolor{bdf}{Most common type of targeted training} (potentially complementary to classical microfinance model)
-		\item Example: Gender and Enterprise Together \citep[GET Ahead, ILO;][]{Bulte2016,McKenziePuerto2020}
+		\item Example: Gender and Enterprise Together \citep[GET Ahead, ILO;][]{Bulte2016, McKenziePuerto2021}
 		\item ?
 		\item More severe constraints, e.g., due to household-level reallocation \citep{Bernhardt2019, deMel2009}
 	\vspace{0.1in}
@@ -508,9 +620,9 @@ Typical Consulting Intervention
 \begin{itemize_2pt}
 	\item Three-step procedure
 	\begin{enumerate_2pt}
-		\item Diagnostic of practices
-		\item Identification of areas of improvement
-		\item Problem solving within interactive relationship
+		\item Diagnosing practices
+		\item Identifying areas of improvement
+		\item Joint and interactive problem solving
 	\end{enumerate_2pt}
 	
 	\pause
@@ -527,9 +639,9 @@ Typical Consulting Intervention
 	
 	\item Typically one-on-one (also group-based)
 	
-	\item \textcolor{bdf}{Often gov't-subsidized} (private contributions typically around 10\%)
+	\item \textcolor{bdf}{Often gov't-subsidized} (private contributions typically $\sim$10\%) \\
 	\begin{itemize_2pt}
-		\item Empirical finding: Firms often unwilling to pay market price \citep{Maffioli2020}
+		%\item Empirical finding: Firms often unwilling to pay market price \citep{Maffioli2020}
 		\item[] $\rightarrow$ \textcolor{bdf}{Matching-grant programs}
 	\end{itemize_2pt}
 	
@@ -612,7 +724,7 @@ SME consulting \citep{Bruhn2018}
 	\begin{figure}[htbp]
 		\centering
 		\includegraphics[width=23.5em]{pics/McK2020_profits.png}
-		\label{McKenzie(2020): Profits}
+		\label{McKenzie(2020): Profits2}
 	\end{figure}	
 	
 \vspace{-1em}	
@@ -1718,8 +1830,8 @@ Research design likely \textcolor{bdf}{scalable and portable}
 \appendix
 \begin{frame}[label=references, allowframebreaks]
 \frametitle{References}
-\bibliographystyle{econometrica}
-\bibliography{SME_library}
+\bibliographystyle{chicago}
+\bibliography{businessTraining}
 \end{frame}
 
 
