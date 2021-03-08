@@ -1,121 +1,158 @@
-\begin{thebibliography}{17}
-\providecommand{\natexlab}[1]{#1}
-\providecommand{\url}[1]{\texttt{#1}}
-\expandafter\ifx\csname urlstyle\endcsname\relax
-  \providecommand{\doi}[1]{doi: #1}\else
-  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+\begin{thebibliography}{}
 
-\bibitem[Anderson et~al.(2018)Anderson, Chandy, and Zia]{Anderson2018}
-Stephen~J. Anderson, Rajesh Chandy, and Bilal~H. Zia.
+\bibitem[\protect\citeauthoryear{Anderson, Chandy, and Zia}{Anderson
+  et~al.}{2018}]{Anderson2018}
+Anderson, S.~J., R.~Chandy, and B.~H. Zia (2018).
 \newblock {Pathways to Profits: The Impact of Marketing vs. Finance Skills on
   Business Performance}.
-\newblock \emph{Management Science}, pages 1--25, 2018.
+\newblock {\em Management Science\/}, 1--25.
 
-\bibitem[Berge et~al.(2015)Berge, Bjorvatn, and Tungodden]{Berge2015}
-Lars Ivar~Oppedal Berge, Kjetil Bjorvatn, and Bertil Tungodden.
+\bibitem[\protect\citeauthoryear{Anderson and McKenzie}{Anderson and
+  McKenzie}{2020}]{Anderson2020}
+Anderson, S.~J. and D.~McKenzie (2020).
+\newblock {Improving Business Practices and the Boundary of the Entrepreneur: A
+  Randomized Experiment Comparing Training, consulting, insourcing and
+  outsourcing}.
+\newblock {\em World Bank Policy Research Working Paper\/}~{\em No. 9502}.
+
+\bibitem[\protect\citeauthoryear{Berge, Bjorvatn, and Tungodden}{Berge
+  et~al.}{2015}]{Berge2015}
+Berge, L. I.~O., K.~Bjorvatn, and B.~Tungodden (2015).
 \newblock {Development : Evidence from a Field and Lab Experiment Human and
   Financial Capital for Microenterprise Development : Evidence from a Field and
   Lab Experiment}.
-\newblock \emph{Management Science}, 61\penalty0 (4):\penalty0 707--722, 2015.
+\newblock {\em Management Science\/}~{\em 61\/}(4), 707--722.
 
-\bibitem[Bloom and {Van Reenen}(2007)]{Bloom2007}
-Nicholas Bloom and John {Van Reenen}.
-\newblock {Measuring and Explaining Management Practices Across Firms and
-  Countries}.
-\newblock \emph{Quarterly Journal of Economics}, 122\penalty0 (4):\penalty0
-  1351--1408, 2007.
+\bibitem[\protect\citeauthoryear{Bernhardt, Field, Pande, and Rigol}{Bernhardt
+  et~al.}{2019}]{Bernhardt2019}
+Bernhardt, B.~A., E.~Field, R.~Pande, and N.~Rigol (2019).
+\newblock {Household Matters: Revisiting the Returns to Capital among Female
+  Microentrepreneurs}.
+\newblock {\em American Economic Review: Insights\/}~{\em 1\/}(2), 141--160.
 
-\bibitem[Bloom et~al.(2010)Bloom, Mahajan, McKenzie, and Roberts]{Bloom2010}
-Nicholas Bloom, Aprajit Mahajan, David McKenzie, and John Roberts.
-\newblock {Why do Firms in Developing Countries Have Low Productivity?}
-\newblock \emph{American Economic Review}, 100\penalty0 (2):\penalty0 619--623,
-  2010.
-
-\bibitem[Bloom et~al.(2015)Bloom, Lemos, Sadun, and van Reenen]{Bloom2015}
-Nicholas Bloom, Renata Lemos, Raffaella Sadun, and John van Reenen.
+\bibitem[\protect\citeauthoryear{Bloom, Lemos, Sadun, and van Reenen}{Bloom
+  et~al.}{2015}]{Bloom2015}
+Bloom, N., R.~Lemos, R.~Sadun, and J.~van Reenen (2015).
 \newblock {Does Management Matter in Schools?}
-\newblock \emph{The Economic Journal}, 125\penalty0 (584):\penalty0 647--674,
-  2015.
-\newblock ISSN 1098-6596.
+\newblock {\em The Economic Journal\/}~{\em 125\/}(584), 647--674.
 
-\bibitem[Bloom et~al.(2016)Bloom, Sadun, and Reenen]{Bloom2016}
-Nicholas Bloom, Raffaella Sadun, and John~Van Reenen.
-\newblock {Management as Technology}.
-\newblock \emph{Mimeo}, 2016.
-
-\bibitem[Bloom et~al.(2020)Bloom, Lemos, Sadun, and van Reenen]{Bloom2020}
-Nicholas Bloom, Renata Lemos, Raffaella Sadun, and John van Reenen.
+\bibitem[\protect\citeauthoryear{Bloom, Lemos, Sadun, and van Reenen}{Bloom
+  et~al.}{2020}]{Bloom2020}
+Bloom, N., R.~Lemos, R.~Sadun, and J.~van Reenen (2020).
 \newblock {Healthy Business? Managerial Education and Management in Health
   Care}.
-\newblock \emph{Review of Economics and Statistics}, 102\penalty0 (3):\penalty0
-  506--517, 2020.
-\newblock ISSN 15309142.
-\newblock \doi{10.1162/rest_a_00847}.
+\newblock {\em Review of Economics and Statistics\/}~{\em 102\/}(3), 506--517.
 
-\bibitem[Bruhn and Schoar(2018)]{Bruhn2018}
-Miriam Bruhn and Antoinette Schoar.
+\bibitem[\protect\citeauthoryear{Bloom, Sadun, and Reenen}{Bloom
+  et~al.}{2016}]{Bloom2016}
+Bloom, N., R.~Sadun, and J.~V. Reenen (2016).
+\newblock {Management as Technology}.
+\newblock {\em Mimeo\/}.
+
+\bibitem[\protect\citeauthoryear{Bloom and {Van Reenen}}{Bloom and {Van
+  Reenen}}{2007}]{Bloom2007}
+Bloom, N. and J.~{Van Reenen} (2007).
+\newblock {Measuring and Explaining Management Practices Across Firms and
+  Countries}.
+\newblock {\em Quarterly Journal of Economics\/}~{\em 122\/}(4), 1351--1408.
+
+\bibitem[\protect\citeauthoryear{Bruhn and Schoar}{Bruhn and
+  Schoar}{2018}]{Bruhn2018}
+Bruhn, M. and A.~Schoar (2018).
 \newblock {The Impact of Consulting Services on Small and Medium Enterprises
   Evidence from a Randomized Trial in Mexico}.
-\newblock \emph{Journal of Political Economy}, 126\penalty0 (2):\penalty0
-  635--685, 2018.
+\newblock {\em Journal of Political Economy\/}~{\em 126\/}(2), 635--685.
 
-\bibitem[de~Mel et~al.(2009)de~Mel, Mckenzie, and Woodruff]{deMel2009}
-Suresh de~Mel, David~J Mckenzie, and Christopher Woodruff.
-\newblock {Measuring Microenterprise Profits: Must We Ask How the Sausage is
-  Made?}
-\newblock \emph{Journal of Development Economics}, 88\penalty0 (1):\penalty0
-  19--31, 2009.
+\bibitem[\protect\citeauthoryear{Dalton, Ghosal, and Mani}{Dalton
+  et~al.}{2016}]{Dalton2016}
+Dalton, P.~S., S.~Ghosal, and A.~Mani (2016).
+\newblock {Poverty and Aspirations Failure}.
+\newblock {\em Economic Journal\/}~{\em 126\/}(590), 165--188.
 
-\bibitem[de~Mel et~al.(2014)de~Mel, McKenzie, and Woodruff]{deMel2014}
-Suresh de~Mel, David McKenzie, and Christopher Woodruff.
+\bibitem[\protect\citeauthoryear{Dalton, R{\"{u}}schenp{\"{o}}hler, and
+  Zia}{Dalton et~al.}{2018}]{Dalton2018}
+Dalton, P.~S., J.~R{\"{u}}schenp{\"{o}}hler, and B.~H. Zia (2018).
+\newblock {Determinants and Dynamics of Business Aspirations: Evidence from
+  Small-scale Entrepreneurs in an Emerging Market}.
+\newblock {\em CentER Discussion Paper Series\/}~{\em 2018-009}.
+
+\bibitem[\protect\citeauthoryear{de~Mel, McKenzie, and Woodruff}{de~Mel
+  et~al.}{2014}]{deMel2014}
+de~Mel, S., D.~McKenzie, and C.~Woodruff (2014).
 \newblock {Business Training and Female Enterprise Start-up, Growth, and
   Dynamics: Experimental Evidence from Sri Lanka}.
-\newblock \emph{Journal of Development Economics}, 106:\penalty0 199--210,
-  2014.
+\newblock {\em Journal of Development Economics\/}~{\em 106}, 199--210.
 
-\bibitem[Drexler et~al.(2014)Drexler, Fischer, and Schoar]{Drexler2014}
-Alejandro Drexler, Greg Fischer, and Antoinette Schoar.
+\bibitem[\protect\citeauthoryear{de~Mel, McKenzie, and Woodruff}{de~Mel
+  et~al.}{2009}]{deMel2009}
+de~Mel, S., D.~J. McKenzie, and C.~Woodruff (2009).
+\newblock {Measuring Microenterprise Profits: Must We Ask How the Sausage is
+  Made?}
+\newblock {\em Journal of Development Economics\/}~{\em 88\/}(1), 19--31.
+
+\bibitem[\protect\citeauthoryear{Drexler, Fischer, and Schoar}{Drexler
+  et~al.}{2014}]{Drexler2014}
+Drexler, A., G.~Fischer, and A.~Schoar (2014).
 \newblock {Keeping it Simple: Financial Literacy and Rules of Thumb}.
-\newblock \emph{American Economic Journal: Applied Economics}, 6\penalty0
-  (2):\penalty0 1--31, 2014.
+\newblock {\em American Economic Journal: Applied Economics\/}~{\em 6\/}(2),
+  1--31.
 
-\bibitem[Gin{\'{e}} and Mansuri(2021)]{Gine2021}
-Xavier Gin{\'{e}} and Ghazala Mansuri.
+\bibitem[\protect\citeauthoryear{Galiani, Gertler, and Undurraga}{Galiani
+  et~al.}{2018}]{Galiani2018}
+Galiani, S., P.~J. Gertler, and R.~Undurraga (2018).
+\newblock {Aspiration Adaptation in Resource-Constrained Environments}.
+\newblock {\em NBER Working Paper Series\/}~{\em 24264}, 1--57.
+
+\bibitem[\protect\citeauthoryear{Gin{\'{e}} and Mansuri}{Gin{\'{e}} and
+  Mansuri}{2021}]{Gine2021}
+Gin{\'{e}}, X. and G.~Mansuri (2021).
 \newblock {Money or Management ? A Field Experiment on Constraints to
   Entrepreneurship in Rural Pakistan}.
-\newblock \emph{Economic Development and Cultural Change}, 2021.
+\newblock {\em Economic Development and Cultural Change\/}.
 
-\bibitem[Karlan and Valdivia(2011)]{Karlan2011}
-Dean Karlan and Martin Valdivia.
+\bibitem[\protect\citeauthoryear{Karlan and Valdivia}{Karlan and
+  Valdivia}{2011}]{Karlan2011}
+Karlan, D. and M.~Valdivia (2011).
 \newblock {Teaching Entrepreneurship: Impact of Business Training on
   Microfinance Clients and Institutions}.
-\newblock \emph{Review of Economics and Statistics}, 93\penalty0 (2):\penalty0
-  510--527, 2011.
+\newblock {\em Review of Economics and Statistics\/}~{\em 93\/}(2), 510--527.
 
-\bibitem[McKenzie(2017)]{McKenzie2017a}
-David McKenzie.
+\bibitem[\protect\citeauthoryear{Maffioli, McKenzie, and Ubfal}{Maffioli
+  et~al.}{2020}]{Maffioli2020}
+Maffioli, A., D.~McKenzie, and D.~Ubfal (2020).
+\newblock {Estimating the Demand for Business Training: Evidence from Jamaica}.
+\newblock {\em World Bank Policy Research Working Paper\/}~{\em No. 9415}.
+
+\bibitem[\protect\citeauthoryear{McKenzie}{McKenzie}{2017}]{McKenzie2017a}
+McKenzie, D. (2017).
 \newblock {Identifying and Spurring High-Growth Entrepreneurship: Experimental
   Evidence from a Business Plan Competition}.
-\newblock \emph{American Economic Review}, 107\penalty0 (8):\penalty0
-  2278--2307, 2017.
+\newblock {\em American Economic Review\/}~{\em 107\/}(8), 2278--2307.
 
-\bibitem[McKenzie and Puerto()]{McKenzie2021}
-David McKenzie and Susana Puerto.
+\bibitem[\protect\citeauthoryear{McKenzie}{McKenzie}{2021}]{McKenzie2021}
+McKenzie, D. (2021).
+\newblock {Small Business Training to Improve Management Practices in
+  Developing Countries: Reassessing the Evidence for "Training Doesn't Work"}.
+\newblock {\em Oxford Review of Economic Policy\/}.
+
+\bibitem[\protect\citeauthoryear{McKenzie and Puerto}{McKenzie and
+  Puerto}{2021}]{McKenziePuerto2021}
+McKenzie, D. and S.~Puerto (2021).
 \newblock {Growing Markets Through Business Training for Female Entrepreneurs :
   A Market-level Randomized Experiment in Kenya}.
-\newblock \emph{American Economic Journal: Applied Economics}.
+\newblock {\em American Economic Journal: Applied Economics\/}.
 
-\bibitem[McKenzie and Woodruff(2014)]{McKenzie2014}
-David McKenzie and Christopher Woodruff.
+\bibitem[\protect\citeauthoryear{McKenzie and Woodruff}{McKenzie and
+  Woodruff}{2014}]{McKenzie2014}
+McKenzie, D. and C.~Woodruff (2014).
 \newblock {What Are We Learning From Business Training and Entrepreneurship
   Evaluations Around the Developing World?}
-\newblock \emph{World Bank Research Observer}, 29\penalty0 (1):\penalty0
-  48--82, 2014.
+\newblock {\em World Bank Research Observer\/}~{\em 29\/}(1), 48--82.
 
-\bibitem[McKenzie and Woodruff(2017)]{McKenzie2017}
-David McKenzie and Christopher Woodruff.
+\bibitem[\protect\citeauthoryear{McKenzie and Woodruff}{McKenzie and
+  Woodruff}{2017}]{McKenzie2017}
+McKenzie, D. and C.~Woodruff (2017).
 \newblock {Business Practices in Small Firms in Developing Countries}.
-\newblock \emph{Management Science}, 63\penalty0 (9):\penalty0 2967--2981,
-  2017.
+\newblock {\em Management Science\/}~{\em 63\/}(9), 2967--2981.
 
 \end{thebibliography}

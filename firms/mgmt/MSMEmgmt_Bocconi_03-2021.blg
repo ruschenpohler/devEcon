@@ -1,21 +1,19 @@
 This is BibTeX, Version 0.99dThe top-level auxiliary file: MSMEmgmt_Bocconi_03-2021.aux
-The style file: plainnat.bst
+The style file: chicago.bst
 Database file #1: businessTraining.bib
-Warning--I didn't find a database entry for "Bloom2019"
+Warning--I didn't find a database entry for "Bloom2010"
+Warning--I didn't find a database entry for "Syverson2011"
 Warning--I didn't find a database entry for "Quinn2019"
 Warning--I didn't find a database entry for "Bruhn2013"
-Warning--I didn't find a database entry for "Maffioli2020"
+Warning--I didn't find a database entry for "Bloom2019"
+Warning--I didn't find a database entry for "Lieshout2017"
 Warning--I didn't find a database entry for "Field2010"
 Warning--I didn't find a database entry for "Gine2014"
-Warning--I didn't find a database entry for "Bulte2017"
 Warning--I didn't find a database entry for "Bulte2016"
-Warning--I didn't find a database entry for "McKenziePuerto2021"
-Warning--I didn't find a database entry for "Bernhardt2019"
 Warning--I didn't find a database entry for "Alaref2020"
 Warning--I didn't find a database entry for "Cusolito2020"
 Warning--I didn't find a database entry for "Gonzalez-Uribe2017"
 Warning--I didn't find a database entry for "Gonzalez-Uribe2020"
-Warning--I didn't find a database entry for "Anderson2020"
 Warning--I didn't find a database entry for "Karlan2015"
 Warning--I didn't find a database entry for "Bruhn2019"
 Warning--I didn't find a database entry for "Bjorvatn2020"
@@ -26,9 +24,22 @@ Warning--I didn't find a database entry for "Garlick2019"
 Warning--I didn't find a database entry for "Fafchamps2012"
 Warning--I didn't find a database entry for ""
 Warning--I didn't find a database entry for "Arraiz2019"
+Warning--I didn't find a database entry for "Delecourt2021"
+Warning--I didn't find a database entry for "Hardy2020"
+Warning--I didn't find a database entry for "McKenzieYang2021"
 Warning--I didn't find a database entry for "Campos2017"
 Warning--I didn't find a database entry for "Alibhai2019"
 Warning--I didn't find a database entry for "Ubfal2019"
-Warning--empty year in McKenzie2021
-Warning--empty year in McKenzie2021
-(There were 30 warnings)
+Warning--no number and no volume in Anderson2018
+Warning--page numbers missing in Anderson2020
+Warning--no number and no volume in Bloom2016
+Warning--page numbers missing in Bloom2016
+Warning--page numbers missing in Dalton2018
+Warning--no number and no volume in Gine2021
+Warning--page numbers missing in Gine2021
+Warning--page numbers missing in Maffioli2020
+Warning--no number and no volume in McKenzie2021
+Warning--page numbers missing in McKenzie2021
+Warning--no number and no volume in McKenziePuerto2021
+Warning--page numbers missing in McKenziePuerto2021
+(There were 41 warnings)
