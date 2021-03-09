@@ -12,6 +12,6 @@
 \beamer@subsectionintoc {2}{1}{Motivation}{67}{0}{2}
 \beamer@subsectionintoc {2}{2}{Our Approach}{70}{0}{2}
 \beamer@subsectionintoc {2}{3}{Data and Design}{76}{0}{2}
-\beamer@subsectionintoc {2}{4}{Results}{87}{0}{2}
-\beamer@subsectionintoc {2}{5}{Discussion}{95}{0}{2}
-\beamer@subsectionintoc {2}{6}{Conclusion}{102}{0}{2}
+\beamer@subsectionintoc {2}{4}{Results}{86}{0}{2}
+\beamer@subsectionintoc {2}{5}{Discussion}{94}{0}{2}
+\beamer@subsectionintoc {2}{6}{Conclusion}{101}{0}{2}

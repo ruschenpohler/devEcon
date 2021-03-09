@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2021.2.4)  9 MAR 2021 15:28
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2021.2.4)  9 MAR 2021 22:55
 entering extended mode
 **./MSMEmgmt_Bocconi_03-2021.tex
 (MSMEmgmt_Bocconi_03-2021.tex
@@ -1066,9 +1066,6 @@ LaTeX Warning: Label `height' multiply defined.
 
 LaTeX Warning: Label `height' multiply defined.
 
-
-LaTeX Warning: Label `height' multiply defined.
-
 )
 \openout1 = `MSMEmgmt_Bocconi_03-2021.aux'.
 
@@ -1569,7 +1566,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 ] [79
 
 ]
-<pics/retailer1.jpg, id=1498, 722.7pt x 465.4188pt>
+<pics/retailer1.jpg, id=1528, 722.7pt x 465.4188pt>
 File: pics/retailer1.jpg Graphic file (type jpg)
 <use pics/retailer1.jpg>
 Package pdftex.def Info: pics/retailer1.jpg  used on input line 1577.
@@ -1577,7 +1574,7 @@ Package pdftex.def Info: pics/retailer1.jpg  used on input line 1577.
  [80
 
  <./pics/retailer1.jpg>]
-<pics/retailer2.jpg, id=1514, 722.7pt x 542.025pt>
+<pics/retailer2.jpg, id=1544, 722.7pt x 542.025pt>
 File: pics/retailer2.jpg Graphic file (type jpg)
 <use pics/retailer2.jpg>
 Package pdftex.def Info: pics/retailer2.jpg  used on input line 1588.
@@ -1594,7 +1591,7 @@ Overfull \vbox (21.39702pt too high) detected at line 1588
 [81
 
  <./pics/retailer2.jpg>]
-<pics/handbook.jpg, id=1529, 963.6pt x 542.025pt>
+<pics/handbook.jpg, id=1559, 963.6pt x 542.025pt>
 File: pics/handbook.jpg Graphic file (type jpg)
 <use pics/handbook.jpg>
 Package pdftex.def Info: pics/handbook.jpg  used on input line 1600.
@@ -1607,7 +1604,7 @@ l.1600 \end{frame}
                    [82
 
  <./pics/handbook.jpg>]
-<pics/Handbook_return.jpg, id=1544, 351.3125pt x 352.81813pt>
+<pics/Handbook_return.jpg, id=1574, 351.3125pt x 352.81813pt>
 File: pics/Handbook_return.jpg Graphic file (type jpg)
 <use pics/Handbook_return.jpg>
 Package pdftex.def Info: pics/Handbook_return.jpg  used on input line 1611.
@@ -1620,21 +1617,7 @@ l.1611 \end{frame}
                    [83
 
  <./pics/Handbook_return.jpg>]
-<pics/Handbook_stepbystep.jpg, id=1559, 351.81438pt x 263.98625pt>
-File: pics/Handbook_stepbystep.jpg Graphic file (type jpg)
-<use pics/Handbook_stepbystep.jpg>
-Package pdftex.def Info: pics/Handbook_stepbystep.jpg  used on input line 1623.
-
-(pdftex.def)             Requested size: 187.90244pt x 140.99156pt.
-pdfTeX warning (ext4): destination with the same identifier (name{height}) has 
-been already used, duplicate ignored
-<to be read again> 
-                   \relax 
-l.1623 \end{frame}
-                   [84
-
- <./pics/Handbook_stepbystep.jpg>]
-<pics/movie.jpg, id=1574, 963.6pt x 475.011pt>
+<pics/movie.jpg, id=1589, 963.6pt x 475.011pt>
 File: pics/movie.jpg Graphic file (type jpg)
 <use pics/movie.jpg>
 Package pdftex.def Info: pics/movie.jpg  used on input line 1633.
@@ -1649,10 +1632,10 @@ been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.1633 \end{frame}
-                   [85
+                   [84
 
  <./pics/movie.jpg>]
-<pics/Assistance_expl.jpg, id=1590, 963.6pt x 1284.8pt>
+<pics/Assistance_expl.jpg, id=1604, 963.6pt x 1284.8pt>
 File: pics/Assistance_expl.jpg Graphic file (type jpg)
 <use pics/Assistance_expl.jpg>
 Package pdftex.def Info: pics/Assistance_expl.jpg  used on input line 1644.
@@ -1666,9 +1649,9 @@ l.1644 \end{frame}
 Overfull \vbox (1.34993pt too high) detected at line 1644
  []
 
-[86
+[85
 
- <./pics/Assistance_expl.jpg>] [87
+ <./pics/Assistance_expl.jpg>] [86
 
 ]
 LaTeX Font Info:    Calculating math sizes for size <5.2> on input line 1740.
@@ -1684,11 +1667,11 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 4.11797pt on input line 1740.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 3.25108pt on input line 1740.
- [88
+ [87
+
+] [88
 
 ] [89
-
-] [90
 
 ]
 LaTeX Font Info:    Calculating math sizes for size <5.5> on input line 1891.
@@ -1704,7 +1687,7 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 4.35555pt on input line 1891.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 3.43864pt on input line 1891.
- [91
+ [90
 
 ]
 LaTeX Font Info:    Calculating math sizes for size <5.7> on input line 1951.
@@ -1720,14 +1703,16 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 4.51392pt on input line 1951.
 LaTeX Font Info:    Font shape `U/msb/m/n' will be
 (Font)              scaled to size 3.56369pt on input line 1951.
- [92
+ [91
+
+] [92
 
 ] [93
 
-] [94
-
 ]
-[95
+[94
+
+] [95
 
 ] [96
 
@@ -1745,8 +1730,6 @@ LaTeX Font Info:    Font shape `U/msb/m/n' will be
 
 ] [103
 
-] [104
-
 ]
 
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
@@ -1757,15 +1740,45 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 (hyperref)                removing `\translate ' on input line 1.
 
-) [105
+) [104
+
+] [105
+
+
+] [106
+
+
+] [107
+
+
+] [108
+
+
+] [109
+
+
+] [110
+
+
+] [111
+
+
+] [112
+
+
+] [113
+
+
+] [114
+
 
 ]
-<pics/McK2020_sales.png, id=1871, 525.965pt x 374.39874pt>
+<pics/McK2020_sales.png, id=1965, 525.965pt x 374.39874pt>
 File: pics/McK2020_sales.png Graphic file (type png)
 <use pics/McK2020_sales.png>
 Package pdftex.def Info: pics/McK2020_sales.png  used on input line 2181.
 (pdftex.def)             Requested size: 254.03989pt x 180.83478pt.
- [106
+ [115
 
  <./pics/McK2020_sales.png>]
 \tf@nav=\write6
@@ -1785,170 +1798,32 @@ Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2184.
 
 Package rerunfilecheck Info: File `MSMEmgmt_Bocconi_03-2021.out' has not change
 d.
-(rerunfilecheck)             Checksum: 7216CD4152F83F34E830F35BBA67E479;1203.
+(rerunfilecheck)             Checksum: 76B964493EA0BA25FE643929C9C648AE;1203.
 
 
 LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 20718 strings out of 492520
- 397656 string characters out of 3117330
- 472926 words of memory out of 3000000
- 24137 multiletter control sequences out of 15000+200000
+ 20770 strings out of 492520
+ 398350 string characters out of 3117330
+ 475705 words of memory out of 3000000
+ 24168 multiletter control sequences out of 15000+200000
  80457 words of font info for 218 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,16n,63p,815b,624s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{cite.Bloom2019} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Cai2018} has been referenced but does not exis
-t, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Brooks2018} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Ubfal2020} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Campos2017} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Galiani2018} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.McKenzie2021a} has been referenced but does no
-t exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Dalton2018} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Dalton2016} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Hardy2020} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Delecourt2021} has been referenced but does no
-t exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Arraiz2019} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Drexler2014} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Berge2015} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Fafchamps2012} has been referenced but does no
-t exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Garlick2019} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.deMel2009} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Cole2018} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Barsoum2018} has been referenced but does not 
-exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Bjorvatn2020} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Bruhn2018} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.GonzalezUribe2021} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.GonzalezUribe2018} has been referenced but doe
-s not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Cusolito2021} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.McKenzie2017a} has been referenced but does no
-t exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Fafchamps2017} has been referenced but does no
-t exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.deMel2009a} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Bernhardt2019} has been referenced but does no
-t exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.deMel2014} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.McKenziePuerto2021} has been referenced but do
-es not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Bulte2017} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.McKenzie2014} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Gine2021} has been referenced but does not exi
-st, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Karlan2011} has been referenced but does not e
-xist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Field2010} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Maffioli2020} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.vanLieshout2017} has been referenced but does 
-not exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.McKenzie2021} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Bruhn2013} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Bloom2016} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.McKenzie2017} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Bloom2020} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Bloom2015} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Syverson2011} has been referenced but does not
- exist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Bloom2010} has been referenced but does not ex
-ist, replaced by a fixed one
-
-pdfTeX warning (dest): name{cite.Bloom2007} has been referenced but does not ex
-ist, replaced by a fixed one
-
-{C:/Users/ruschenpohler/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/base/
-8r.enc}<C:/Users/ruschenpohler/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/pu
-blic/amsfonts/cm/cmr10.pfb><C:/Users/ruschenpohler/AppData/Local/Programs/MiKTe
-X 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ruschenpohler/AppData
-/Local/Programs/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmri.pfb><C:/Users/rus
-chenpohler/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pf
-b><C:/Users/ruschenpohler/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/pal
-atino/uplr8a.pfb><C:/Users/ruschenpohler/AppData/Local/Programs/MiKTeX 2.9/font
-s/type1/urw/palatino/uplri8a.pfb>
-Output written on MSMEmgmt_Bocconi_03-2021.pdf (106 pages, 2909873 bytes).
+{C:/Users/ruschenpohler/AppData/Local/Programs/MiKTeX 2.9/fonts/enc/dvips/bas
+e/8r.enc}<C:/Users/ruschenpohler/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/
+public/amsfonts/cm/cmr10.pfb><C:/Users/ruschenpohler/AppData/Local/Programs/MiK
+TeX 2.9/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/ruschenpohler/AppDa
+ta/Local/Programs/MiKTeX 2.9/fonts/type1/public/mathpazo/fplmri.pfb><C:/Users/r
+uschenpohler/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.
+pfb><C:/Users/ruschenpohler/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/p
+alatino/uplr8a.pfb><C:/Users/ruschenpohler/AppData/Local/Programs/MiKTeX 2.9/fo
+nts/type1/urw/palatino/uplri8a.pfb>
+Output written on MSMEmgmt_Bocconi_03-2021.pdf (115 pages, 2828565 bytes).
 PDF statistics:
- 1971 PDF objects out of 2073 (max. 8388607)
- 302 named destinations out of 1000 (max. 500000)
- 276 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 2070 PDF objects out of 2073 (max. 8388607)
+ 324 named destinations out of 1000 (max. 500000)
+ 271 words of extra memory for PDF output out of 10000 (max. 10000000)
 
