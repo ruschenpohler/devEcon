@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2021.2.4)  9 MAR 2021 14:11
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (MiKTeX 2.9.7250 64-bit) (preloaded format=pdflatex 2021.2.4)  9 MAR 2021 15:28
 entering extended mode
 **./MSMEmgmt_Bocconi_03-2021.tex
 (MSMEmgmt_Bocconi_03-2021.tex
@@ -1425,48 +1425,9 @@ Package pdftex.def Info: pics/Bruhn2018_consult.png  used on input line 748.
 (pdftex.def)             Requested size: 164.24995pt x 105.27634pt.
  [31
 
- <./pics/Bruhn2018_consult.png>]
-LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <9.5> not available
-(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 778.
+ <./pics/Bruhn2018_consult.png>] [32
 
-
-Package natbib Warning: Citation `Bjorvatn2020' on page 32 undefined on input l
-ine 778.
-
-
-Package natbib Warning: Citation `Barsoum2018' on page 32 undefined on input li
-ne 778.
-
-LaTeX Font Info:    Font shape `OT1/ppl/bx/n' in size <8> not available
-(Font)              Font shape `OT1/ppl/b/n' tried instead on input line 778.
-
-Package natbib Warning: Citation `Cole2018' on page 32 undefined on input line 
-778.
-
-
-Package natbib Warning: Citation `Acimovic2020' on page 32 undefined on input l
-ine 778.
-
-[32
-
-]
-
-Package natbib Warning: Citation `Bjorvatn2020' on page 33 undefined on input l
-ine 778.
-
-
-Package natbib Warning: Citation `Barsoum2018' on page 33 undefined on input li
-ne 778.
-
-
-Package natbib Warning: Citation `Cole2018' on page 33 undefined on input line 
-778.
-
-
-Package natbib Warning: Citation `Acimovic2020' on page 33 undefined on input l
-ine 778.
-
-[33
+] [33
 
 ] [34
 
@@ -1481,38 +1442,18 @@ Package pdftex.def Info: pics/McK2020_profits.png  used on input line 808.
 
 ] [37
 
-]
+] [38
 
-Package natbib Warning: Citation `Garlick2019' on page 38 undefined on input li
-ne 863.
+] [39
 
-[38
-
-]
-
-Package natbib Warning: Citation `Garlick2019' on page 39 undefined on input li
-ne 863.
-
-[39
-
-]
-
-Package natbib Warning: Citation `Fafchamps2012' on page 40 undefined on input 
-line 903.
-
-[40
+] [40
 
 ] [41
 
-]
-
-Package natbib Warning: Citation `Berge2015' on page 42 undefined on input line
- 932.
-
-[42
+] [42
 
 ]
-<pics/McK2017_educ.png, id=857, 795.47188pt x 330.23375pt>
+<pics/McK2017_educ.png, id=880, 795.47188pt x 330.23375pt>
 File: pics/McK2017_educ.png Graphic file (type png)
 <use pics/McK2017_educ.png>
 Package pdftex.def Info: pics/McK2017_educ.png  used on input line 953.
@@ -1524,43 +1465,16 @@ Overfull \hbox (4.90729pt too wide) in paragraph at lines 953--953
 
 [43
 
- <./pics/McK2017_educ.png>]
+ <./pics/McK2017_educ.png>] [44
 
-Package natbib Warning: Citation `Cole2018' on page 44 undefined on input line 
-964.
+] [45
 
-
-Package natbib Warning: Citation `Arraiz2019' on page 44 undefined on input lin
-e 964.
-
-[44
-
-]
-
-Package natbib Warning: Citation `Delecourt2021' on page 45 undefined on input 
-line 996.
-
-
-Package natbib Warning: Citation `Hardy2020' on page 45 undefined on input line
- 996.
-
-[45
-
-]
-
-Package natbib Warning: Citation `Delecourt2021' on page 46 undefined on input 
-line 996.
-
-
-Package natbib Warning: Citation `Hardy2020' on page 46 undefined on input line
- 996.
-
-[46
+] [46
 
 ] [47
 
 ]
-<pics/asp.png, id=940, 369.38pt x 108.405pt>
+<pics/asp.png, id=974, 369.38pt x 108.405pt>
 File: pics/asp.png Graphic file (type png)
 <use pics/asp.png>
 Package pdftex.def Info: pics/asp.png  used on input line 1065.
@@ -1572,7 +1486,8 @@ File: pics/asp.png Graphic file (type png)
 <use pics/asp.png>
 Package pdftex.def Info: pics/asp.png  used on input line 1065.
 (pdftex.def)             Requested size: 114.0pt x 33.45631pt.
- [49
+
+[49
 
 ] [50
 
@@ -1589,16 +1504,16 @@ Package pdftex.def Info: pics/asp.png  used on input line 1065.
 ] [56
 
 ]
-<pics/McKenzie2020_mindset.png, id=1105, 596.2275pt x 316.68312pt>
+<pics/McKenzie2020_mindset.png, id=1141, 596.2275pt x 316.68312pt>
 File: pics/McKenzie2020_mindset.png Graphic file (type png)
 <use pics/McKenzie2020_mindset.png>
 Package pdftex.def Info: pics/McKenzie2020_mindset.png  used on input line 1196
 .
 (pdftex.def)             Requested size: 251.84993pt x 133.76949pt.
+ [57
 
-[57
-
- <./pics/McKenzie2020_mindset.png>] [58
+ <./pics/McKenzie2020_mindset.png>]
+[58
 
 ] [59
 
@@ -1654,7 +1569,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 ] [79
 
 ]
-<pics/retailer1.jpg, id=1452, 722.7pt x 465.4188pt>
+<pics/retailer1.jpg, id=1498, 722.7pt x 465.4188pt>
 File: pics/retailer1.jpg Graphic file (type jpg)
 <use pics/retailer1.jpg>
 Package pdftex.def Info: pics/retailer1.jpg  used on input line 1577.
@@ -1662,7 +1577,7 @@ Package pdftex.def Info: pics/retailer1.jpg  used on input line 1577.
  [80
 
  <./pics/retailer1.jpg>]
-<pics/retailer2.jpg, id=1468, 722.7pt x 542.025pt>
+<pics/retailer2.jpg, id=1514, 722.7pt x 542.025pt>
 File: pics/retailer2.jpg Graphic file (type jpg)
 <use pics/retailer2.jpg>
 Package pdftex.def Info: pics/retailer2.jpg  used on input line 1588.
@@ -1679,7 +1594,7 @@ Overfull \vbox (21.39702pt too high) detected at line 1588
 [81
 
  <./pics/retailer2.jpg>]
-<pics/handbook.jpg, id=1483, 963.6pt x 542.025pt>
+<pics/handbook.jpg, id=1529, 963.6pt x 542.025pt>
 File: pics/handbook.jpg Graphic file (type jpg)
 <use pics/handbook.jpg>
 Package pdftex.def Info: pics/handbook.jpg  used on input line 1600.
@@ -1692,7 +1607,7 @@ l.1600 \end{frame}
                    [82
 
  <./pics/handbook.jpg>]
-<pics/Handbook_return.jpg, id=1498, 351.3125pt x 352.81813pt>
+<pics/Handbook_return.jpg, id=1544, 351.3125pt x 352.81813pt>
 File: pics/Handbook_return.jpg Graphic file (type jpg)
 <use pics/Handbook_return.jpg>
 Package pdftex.def Info: pics/Handbook_return.jpg  used on input line 1611.
@@ -1705,7 +1620,7 @@ l.1611 \end{frame}
                    [83
 
  <./pics/Handbook_return.jpg>]
-<pics/Handbook_stepbystep.jpg, id=1513, 351.81438pt x 263.98625pt>
+<pics/Handbook_stepbystep.jpg, id=1559, 351.81438pt x 263.98625pt>
 File: pics/Handbook_stepbystep.jpg Graphic file (type jpg)
 <use pics/Handbook_stepbystep.jpg>
 Package pdftex.def Info: pics/Handbook_stepbystep.jpg  used on input line 1623.
@@ -1719,7 +1634,7 @@ l.1623 \end{frame}
                    [84
 
  <./pics/Handbook_stepbystep.jpg>]
-<pics/movie.jpg, id=1528, 963.6pt x 475.011pt>
+<pics/movie.jpg, id=1574, 963.6pt x 475.011pt>
 File: pics/movie.jpg Graphic file (type jpg)
 <use pics/movie.jpg>
 Package pdftex.def Info: pics/movie.jpg  used on input line 1633.
@@ -1737,7 +1652,7 @@ l.1633 \end{frame}
                    [85
 
  <./pics/movie.jpg>]
-<pics/Assistance_expl.jpg, id=1544, 963.6pt x 1284.8pt>
+<pics/Assistance_expl.jpg, id=1590, 963.6pt x 1284.8pt>
 File: pics/Assistance_expl.jpg Graphic file (type jpg)
 <use pics/Assistance_expl.jpg>
 Package pdftex.def Info: pics/Assistance_expl.jpg  used on input line 1644.
@@ -1845,7 +1760,7 @@ Package hyperref Warning: Token not allowed in a PDF string (PDFDocEncoding):
 ) [105
 
 ]
-<pics/McK2020_sales.png, id=1825, 525.965pt x 374.39874pt>
+<pics/McK2020_sales.png, id=1871, 525.965pt x 374.39874pt>
 File: pics/McK2020_sales.png Graphic file (type png)
 <use pics/McK2020_sales.png>
 Package pdftex.def Info: pics/McK2020_sales.png  used on input line 2181.
@@ -1862,13 +1777,9 @@ Package pdftex.def Info: pics/McK2020_sales.png  used on input line 2181.
 \tf@snm=\write8
 \openout8 = `MSMEmgmt_Bocconi_03-2021.snm'.
 
-
-
-Package natbib Warning: There were undefined citations.
-
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 2184.
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 2184.
-(MSMEmgmt_Bocconi_03-2021.aux)
+ (MSMEmgmt_Bocconi_03-2021.aux)
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 2184.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 2184.
 
@@ -1881,15 +1792,30 @@ LaTeX Warning: There were multiply-defined labels.
 
  ) 
 Here is how much of TeX's memory you used:
- 20664 strings out of 492520
- 396671 string characters out of 3117330
- 471882 words of memory out of 3000000
- 24096 multiletter control sequences out of 15000+200000
- 82435 words of font info for 222 fonts, out of 3000000 for 9000
+ 20718 strings out of 492520
+ 397656 string characters out of 3117330
+ 472926 words of memory out of 3000000
+ 24137 multiletter control sequences out of 15000+200000
+ 80457 words of font info for 218 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
  58i,16n,63p,815b,624s stack positions out of 5000i,500n,10000p,200000b,50000s
-pdfTeX warning (dest): name{cite.Galiani2018} has been referenced but does no
-t exist, replaced by a fixed one
+pdfTeX warning (dest): name{cite.Bloom2019} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Cai2018} has been referenced but does not exis
+t, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Brooks2018} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Ubfal2020} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Campos2017} has been referenced but does not e
+xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Galiani2018} has been referenced but does not 
+exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{cite.McKenzie2021a} has been referenced but does no
 t exist, replaced by a fixed one
@@ -1900,11 +1826,38 @@ xist, replaced by a fixed one
 pdfTeX warning (dest): name{cite.Dalton2016} has been referenced but does not e
 xist, replaced by a fixed one
 
+pdfTeX warning (dest): name{cite.Hardy2020} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Delecourt2021} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Arraiz2019} has been referenced but does not e
+xist, replaced by a fixed one
+
 pdfTeX warning (dest): name{cite.Drexler2014} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Berge2015} has been referenced but does not ex
+ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Fafchamps2012} has been referenced but does no
+t exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Garlick2019} has been referenced but does not 
 exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{cite.deMel2009} has been referenced but does not ex
 ist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Cole2018} has been referenced but does not exi
+st, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Barsoum2018} has been referenced but does not 
+exist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Bjorvatn2020} has been referenced but does not
+ exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{cite.Bruhn2018} has been referenced but does not ex
 ist, replaced by a fixed one
@@ -1926,6 +1879,9 @@ t exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{cite.deMel2009a} has been referenced but does not e
 xist, replaced by a fixed one
+
+pdfTeX warning (dest): name{cite.Bernhardt2019} has been referenced but does no
+t exist, replaced by a fixed one
 
 pdfTeX warning (dest): name{cite.deMel2014} has been referenced but does not ex
 ist, replaced by a fixed one
@@ -1990,9 +1946,9 @@ chenpohler/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/palatino/uplb8a.pf
 b><C:/Users/ruschenpohler/AppData/Local/Programs/MiKTeX 2.9/fonts/type1/urw/pal
 atino/uplr8a.pfb><C:/Users/ruschenpohler/AppData/Local/Programs/MiKTeX 2.9/font
 s/type1/urw/palatino/uplri8a.pfb>
-Output written on MSMEmgmt_Bocconi_03-2021.pdf (106 pages, 2903993 bytes).
+Output written on MSMEmgmt_Bocconi_03-2021.pdf (106 pages, 2909873 bytes).
 PDF statistics:
- 1921 PDF objects out of 2073 (max. 8388607)
- 287 named destinations out of 1000 (max. 500000)
+ 1971 PDF objects out of 2073 (max. 8388607)
+ 302 named destinations out of 1000 (max. 500000)
  276 words of extra memory for PDF output out of 10000 (max. 10000000)
 
